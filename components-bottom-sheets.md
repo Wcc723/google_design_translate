@@ -58,3 +58,5 @@
 ![components-bottomsheets-content-actionsheet_20_large_mdpi](images/components/components-bottomsheets-content-actionsheet_20_large_mdpi.png)
 
 紅線為網格樣式底部工作表，此包含一套標準動作提供給不同應用程式使用。
+
+![](images/components/components-bottomsheets-content-actionsheet_20b_large_mdpi.png)

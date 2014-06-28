@@ -12,7 +12,7 @@
 > [Principles](#2-)
 
 
-## 1. 目標
+## 目標
 
 創造一種視覺語言，遵循創新技術和科學的可能性，
 組合出良好設計的經典原則。
@@ -28,7 +28,7 @@
 
 ----
 
-## 2. 原則
+## 原則
 
 ![Principles](http://material-design.storage.googleapis.com/images/materialdesign-principles-layersquares_large_mdpi.png)
 
@@ -65,4 +65,4 @@
 動畫是有意義的和適當的，有利於集中注意力，並保持連續性。反饋是微妙而清晰。過渡動畫是高效而且連貫。
 
 
-*Translate By Tillonter*
+> *翻譯： Tillonter*

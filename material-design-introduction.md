@@ -1,55 +1,68 @@
-# Introduction
+# 介紹
 
 ![Intro](http://material-design.storage.googleapis.com/images/materialdesign-goals-landingimage_large_mdpi.png)
 
-We challenged ourselves to create a visual language for our users that synthesizes the classic principles of good design with the innovation and possibility of technology and science. This is material design. This spec is a living document that will be updated as we continue to develop the tenets and specifics of material design.
+
+我們挑戰自己，為我們的用戶創造一種視覺語言，遵循創新技術和科學的可能性，
+組合出良好設計的經典原則。這就是Material Design。這個規範是一個及時更動的文件，
+我們將陸續開發、更新更多質感設計的原則和細節。
  
-> [Goals](#goal)
+> [目標](#1-)
 >
-> [Principles](#principles)
+> [Principles](#2-)
 
 
-## Goal
+## 1. 目標
 
-Create a visual language that synthesizes classic principles of good design with the innovation and possibility of technology and science.
+創造一種視覺語言，遵循創新技術和科學的可能性，
+組合出良好設計的經典原則。
 
 ![Goal](http://material-design.storage.googleapis.com/images/materialdesign-goals-swirlanddot_large_mdpi.png)
 
 
-Develop a single underlying system that allows for a unified experience across platforms and device sizes. Mobile precepts are fundamental, but touch, voice, mouse, and keyboard are all ﬁrst-class input methods.
+開發一個單一的基礎系統，允許跨平台裝置和設備大小，並統一使用者的體驗。
+行動裝置的限制是基本的，但觸摸，聲音，鼠標和鍵盤都是優異的輸入方式。
+
 
 ![](http://material-design.storage.googleapis.com/images/materialdesign-goals-cutrectangles_large_mdpi.png)
 
 ----
 
-## Principles
+## 2. 原則
 
 ![Principles](http://material-design.storage.googleapis.com/images/materialdesign-principles-layersquares_large_mdpi.png)
 
-> Material is the metaphor
+> 質感隱喻
 
-A material metaphor is the unifying theory of a rationalized space and a system of motion. The material is grounded in tactile reality, inspired by the study of paper and ink, yet technologically advanced and open to imagination and magic.
+質感隱喻是針對合理的空間以及系統的運作訂定出的統一理論。質感是現實感官的質地、感受，
+這個靈感來自於紙張和油墨的研究，而技術的先進，開啟了想像力延伸和魔法般的構思。 
 
-Surfaces and edges of the material provide visual cues that are grounded in reality. The use of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physical world, without breaking the rules of physics.
+表面和邊緣的質感提供了現實中的感官做為視覺線索。使用熟悉的觸覺特性可以幫助用戶快速了解其中暗示。
+然而該質感的延展性創造了新的啟發，取代在物理世界中原有的那些，而不會破壞​​物理學的規則。 
 
-The fundamentals of light, surface, and movement are key to conveying how objects move, interact, and exist in space in relation to each other. Realistic lighting shows seams, divides space, and indicates moving parts.
+基本的光、外觀和運行是如何傳達物件移動的關鍵，存在空間與交互作用彼此相互關聯，
+逼真的照明能夠顯示接縫，劃分空間，並說明了移動部件。
+
 
 
 ![](http://material-design.storage.googleapis.com/images/materialdesign-principles-circleplus_large_mdpi.png)
 
-> Bold, graphic, intentional
+> 大膽、圖形、動機
 
-The foundational elements of print-based design—typography, grids, space, scale, color, and use of imagery—guide visual treatments. These elements do far more than please the eye; they create hierarchy, meaning, and focus. Deliberate color choices, edge-to-edge imagery, large-scale typography, and intentional white space create a bold and graphic interface that immerses the user in the experience.
-
-An emphasis on user actions makes core functionality immediately apparent and provides waypoints for the user.
+印刷中基礎設計裡的基本元素 - 排版、網格、空間、尺度、色彩，和用圖像引導的視覺處理，
+這些元素做的遠不止討好眼睛，他們創造的層次結構、意義和重點、精心的色彩選擇，
+邊緣連接邊緣的圖像，大規模的排版，以及故意空白打造出大膽的圖形界面，讓用戶沉浸在使用者體驗。 
 
 
 ![](http://material-design.storage.googleapis.com/images/materialdesign-principles-flyingsquare_large_mdpi.png)
 
-> Motion provides meaning
+> 動畫提供意義
 
-Motion respects and reinforces the user as the prime mover. Primary user actions are inflection points that initiate motion, transforming the whole design. 
+動畫方面加強了用戶使用就像原動機，基本用戶的操作是改變所有設計的一個啟發點。
 
-All action takes place in a single environment. Objects are presented to the user without breaking the continuity of experience even as they transform and reorganize.
+所有動作在一個環境裡都需要使用一些空間，以不中斷的用戶體驗傳送物件給用戶就像他們自己改變與重組一樣。
 
-Motion is meaningful and appropriate, serving to focus attention and maintain continuity. Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.
+動畫是有意義的和適當的，有利於集中注意力，並保持連續性。反饋是微妙而清晰。過渡動畫是高效而且連貫。
+
+
+*Translate By Tillonter*

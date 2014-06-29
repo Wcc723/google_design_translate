@@ -2,15 +2,13 @@
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorstory-01_large_xhdpi.png)
 
-顏色的靈感是來自於設置在寧靜場合之中強烈顏色的標示，參考當代建築、道路標誌、地面標線
-以及體育場給的啟發，強調明顯的陰影、高光、令人意外的資訊以及鮮豔的色彩。
+statements juxtaposed with muted environments, taking cues from contemporary architecture, road signs, pavement marking tape, and sports courts. Emphasize bold shadows and highlights. Introduce unexpected and vibrant colors.
 
 > [Color Swatch](http://quantum-paper.storage.googleapis.com/downloads/color_swatches.zip)
 
-## 使用者介面色票
+## UI Color Palette
 
-這些色票起始於基本的顏色，填滿色譜建立一個完整的，可給 Android、Web、 iOS使用的色票，
-這些色票的範圍再500色以內。
+The color palette starts with primary colors and fills in the spectrum to create a complete and usable palette for Android, Web, and iOS. The primary colors are the 500 range.
 
 <section class="color-group">
 <ul>
@@ -471,13 +469,12 @@
 </section>
 
 
-## 使用者介面的顏色運用
+## UI Color Application
 
-### 選擇你的色票
+### Choose your palette
 
 
-限制你選擇的顏色在三種色調以內，一個為基本色、一個是強調色、最後是次要色，
-強調色依情況，是可有可無的預備方案。
+Limit your choice of colors by choosing three color hues in the primary and one accent color in the secondary palette. The accent color may or may not need fall back options
 
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-01a_large_xhdpi.png)
@@ -485,59 +482,45 @@
 ![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-01b_large_xhdpi.png)
 
 
-### 使用alpha值設定你的灰色文字、icon以及分隔線
+### Use alpha values for grey text, icons, and dividers
 
-為了有效地傳達信息的層次結構，用深淺不同的文字顏色，
-在白色背景上的文字標準alpha值為87％（＃000000）
-第二階層的文字，這是再低的視覺層次，
-則應該有54％（＃000000）的alpha值，
-文字提示對於使用者來說，
-像那些在文字欄位和標籤，
-應該有更低的視覺效果，適用26％（＃000000）的alpha值。
+To effectively convey the hierarchy of information, use different shades for text. The standard alpha value for text on a white background is 87% (#000000). Secondary text, which is lower in the visual hierarchy, should have an alpha value of 54% (#000000). Text hints for users, like those in text fields and labels, have an even lower visual prominence and should have an alpha value of 26% (#000000).
 
-其他元素，如icon與分隔線，也可使用黑色的alpha值來設定，
-而不是以實心顏色做選擇，這樣可以確保它們在任何背景上不會突兀。
+Other elements, such as icons and dividers, also benefit from having an alpha value of black instead of a solid color, to make sure that they work on backgrounds of any color.
 
-對於彩色背景裡的黑白文字，在色票表裡找出他們適當的對比度以及alpha值。
+For white or black text on colored backgrounds, see these tables of color palettes for the appropriate contrast ratios and alpha values.
 
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-02_large_xhdpi.png)
 
-極力推薦在大標題的欄位用大膽顯眼的色系，不同的介面元素用不同的色系主題，
-工具列及較大的色塊區域使用500的原色，這是你應用程式的主色調，
-狀態列則是用700的暗色調。
+Bold use of color in large fields in the UI is strongly encouraged. Different elements in the UI will take on different parts of the color theme. Toolbars and larger color blocks will take on the primary 500. This is the main color of your app. The status bar should be the darker 700 tint of your primary color.
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-03_large_xhdpi.png)
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-04_large_xhdpi.png)
 
-### 強調色
+### Accent color
 
-充滿活力的強調色用於您的主要操作按鈕以及組件，如切換式選單或拉桿。
-靠左對齊的部分icon或章節標題也可以使用強調色。
+The vibrant accent color are used for your primary action buttons as well as components such as switchers or sliders. Left aligned section icons or section titles can also take on the accent color
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-05_large_xhdpi.png)
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-08_large_xhdpi.png)
 
-### 次要強調色
+### Fallback accent colors
 
-如果你的強調色對於背景實在太亮或太暗，你可以選擇調亮或調暗的強調色當你的次要強調色，
-如果你的強調色不會在所有地方，次要強調色請使用500的純色在白色背景上，
-如果你的背景已經是500的純色，次要強調色則回歸100%白或54%黑。
+If your accent color is to light or dark for the background color the general fallback rule is to choose a darker or lighter tint of the accent color. If your accent color doesn’t work at all, fall back to use the primary 500 color on white backgrounds. If the background color is the primary 500 color fall back to white 100% or black 54%.
 
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-04_large_xhdpi.png)
 
 
-## 主題
+## Themes
 
-主題是一種方式，讓應用程式應用同一種色調，
-這個風格奠定了表面的亮暗、陰影的層級、和油墨元素裡的適當不透明度，
-為了促進應用程式畫面的一致性，提供了兩種主題可選擇:
+Themes are a way to apply a consistent tone to an app. The style specifies the darkness of the surfaces, level of shadow, and appropriate opacity of ink elements. To promote greater consistency between apps, two themes are available:
 
-- Light 亮色調
-- Dark 暗色調
+- Light
+- Dark
 
 > [Theme](http://material-design.storage.googleapis.com/downloads/stickersheet_uielements.ai)
 

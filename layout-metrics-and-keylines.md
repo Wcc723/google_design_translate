@@ -33,7 +33,7 @@
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-spacing-mobile-01ba_large_xhdpi.png)
 
-> **Context**
+> **情境**
 >
 > 這個畫面呈現了圖標、頭像以及一個2線的列表在左方排列，還有一個56 dp的浮動動作圖樣及文字對齊右方。
 
@@ -41,7 +41,7 @@
 
 > **垂直標線及水平邊距**
 >
-> 垂直標線在距離左右方的邊緣16pd，內容相的圖示或者是頭像距離左方72dp的邊緣。手機有16dp的水平邊距。
+> 垂直標線在距離左右方的邊緣16pd，內容相關的圖示或者是頭像距離左方72dp的邊緣。手機有16dp的水平邊距。
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-spacing-mobile-01bc_large_xhdpi.png)
 
@@ -54,7 +54,7 @@
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-spacing-mobile-02ba_large_xhdpi.png)
 
-> **Context**
+> **情境**
 >
 > 這個畫面顯示了圖標、頭像、2線列表、副標以及一個40dp的浮動動作圖樣對齊在左方，另外有圖示對齊在右邊
 
@@ -80,7 +80,7 @@
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-spacing-mobile-03ba_large_xhdpi.png)
 
-> **Context**
+> **情境**
 > 
 > 這個畫面展示了對齊在左方的圖示，以及另外的圖示、一個56dp浮動動作圖樣對齊在右方。
 
@@ -103,7 +103,7 @@
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-spacing-mobile-04ba_large_xhdpi.png)
 
-> **Context**
+> **情境**
 >
 > 這個畫面呈現了圖示、頭像以及段落文字對齊左方，另外浮動動作圖樣以及內文對齊在右方。
 
@@ -126,7 +126,7 @@
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-spacing-mobile-05ba_large_xhdpi.png)
 
-> **Context**
+> **情境**
 >
 > 這個畫面呈現了側方的導覽選單，它包含了圖示、頭像以及部分文字在左，圖示在右方的畫面。
 
@@ -135,27 +135,25 @@
 
 > **垂直標線及水平邊距**
 >
-> 垂直基線
-> Vertical keyline for icons at 16 dp from the left and right edges of the side nav. Content associated with an icon or avatar aligns 72 dp from the left edge of the side nav. The width of the side nav is equal to the width of the screen minus the height of the action bar, or in this case 56 dp from the right edge of the screen.
+> 在側欄選單的邊緣16dp建立垂直標線，其內容的圖示以及頭像對齊側欄左邊緣72dp。側欄的寬度等於屏幕的寬度減去操作欄的高度，在這個範例中就是從右側邊緣算起的56dp。
 >
 > 手機有16dp的水平邊距。
 
-垂直電鍵和水平MarginsVertical關鍵線為圖示在從側面NAV的左邊緣和右邊緣16的DP。帶圖標或化身相關內容對齊72 DP從側面導航的左邊緣。側的導航的寬度等於屏幕的寬度減去操作欄的高度，或在這種情況下，從screen.16的右邊緣56 DP DP水平邊距上移動。
-
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-spacing-mobile-05bc_large_xhdpi.png)
 
-> **Vertical Spacing**
+> **垂直間隔**
 >
 > 1. 48dp
 > 2. 8dp
 > 3. 56dp
 
 
-### Tablet
+### 平板
 
-The tablet layout template includes 14 different screens and shows how keylines and spacing work across screen edges and elements. Below is a sample of two of the 14 screens included in the download.
+平板的佈局樣板包含了14種不同的屏幕，用來顯示標線以及間距橫跨螢幕邊緣元素是如何運作的。在下方的連結可以下載這份樣板。
 
-> [Tablet Layout Template](http://material-design.storage.googleapis.com/downloads/Layout_Tablet_Whiteframe.ai) (Download)
+
+> [平板的佈局樣板](http://material-design.storage.googleapis.com/downloads/Layout_Tablet_Whiteframe.ai) (Download)
 
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-spacing-tablet-01_large_xhdpi.png)
@@ -182,11 +180,12 @@ The tablet layout template includes 14 different screens and shows how keylines 
 > 4. 48dp
 > 5. 80dp
 
-### Desktop
+### 桌面
 
-The desktop layout template includes 4 different screens each with 4 different window sizes and shows how keylines and spacing work across windows and elements. Below is a sample of a screen available in the download. Based on the window size, the keylines and spacing blocks will inherit grid rules from both tablet and mobile.
+在桌面的佈局樣板中包含了4種不同的屏幕，每個還有四種不同的視窗大小，並且顯示標線以及間隔是如何在不同視窗及元件中運作。建立在視窗的尺寸之上，標線與間隔空間將繼承平板以及手機的格線規則。
 
-> [Desktop Layout Template](http://material-design.storage.googleapis.com/downloads/Layout_Desktop_Whiteframe.ai) (Download)
+
+> [桌面的佈局樣板](http://material-design.storage.googleapis.com/downloads/Layout_Desktop_Whiteframe.ai) (Download)
 
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-desktopa_large_xhdpi.png)
@@ -197,35 +196,34 @@ The desktop layout template includes 4 different screens each with 4 different w
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-desktopd_large_xhdpi.png)
 
-## Ratio Keylines
+## 標線比
 
-### Ratio Keylines
+### 標線比
 
-Applies to mobile screen width and UI element widths on mobile, tablet, and desktop.
+標線比適用在手機螢幕的寬度，以及UI元素在手機、平板及桌面版的寬度。
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-ratiokeylines-keylines_15_large_xhdpi.png)
 
-> Screen width
+> 螢幕寬
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-ratiokeylines-ratiokeylines-02_large_xhdpi.png)
 
-> Example
+> 範例
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-ratiokeylines-keylines_19_large_xhdpi.png)
 
-> Element width
+> 元素寬
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-ratiokeylines-keylines_18_large_xhdpi.png)
 
 > Example
 
-## Incremental Keylines
+## 增量的標線
 
-### Incremental Keylines
+### 增量的標線
 
-An incremental keyline defines an increment, like the height of the action bar, and uses a multiple of that increment to determine the size and position of other elements in the app.
 
-Applies mostly to desktop, often to tablet, rarely to mobile. Number of increments will vary based on window size.
+定義標線的增量，像是使用操作欄的高度倍數，來確定應用程式中其它的元件尺寸及位置。這些應用大部分用在桌面程式，也會用在平板，但很少用在手機上。增量的數值基準來自應用程式視窗的大小。
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-incrementalkeylines-incrementalkeylines-01_large_xhdpi.png)
 
@@ -235,9 +233,9 @@ Applies mostly to desktop, often to tablet, rarely to mobile. Number of incremen
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-incrementalkeylines-incrementalkeylines-04_large_xhdpi.png)
 
-## Touch Target Size
+## 觸控點的大小
 
-Minimum touch target size is 48 dp. Keep this in mind when spacing icons (24 dp) or avatars (40 dp) in a layout. Touch targets shouldn’t overlap.
+最小的觸控範圍是48dp，在佈局中必須注意圖示(24dp)或頭像(40dp)的間隔，它們觸控的範圍不可以重疊。
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-touchtarget-touch-target-02a_large_xhdpi.png)
 

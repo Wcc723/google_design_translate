@@ -1,81 +1,84 @@
 #卡片
 
-A card is a piece of paper that contains a unique data set of related, heterogeneous information, for example, a photo, text, and link all about a single subject. Cards typically are an entry point to more complex and detailed information. Cards have a constant width and variable height. The maximum height is limited to what can fit within a single view on a platform, but it can temporarily expand as needed (for example, to display a comment field). Cards do not flip to reveal information on their back.
+卡片就像一張紙一樣，它包含了相關的資料以及由不同的資訊所組成的。舉例來說，一張照片，文字，以及並且連接著單一的主題。卡片通常是前往更複雜以及詳細資料的一個進入點。卡片有一個特定的寬度以及可變的高度。最大的限制高度是取決於平台上最適當的視圖，不過如果有必要也可以暫時性擴展（比如顯示一個註解的段落欄位）卡片不做翻轉去顯示背後的訊息。
 
-> 內容
+內容
+> 
 > 用法
+> 
 > 內容
+> 
 > 動作
+> 
 > 行為
 
 ## 用法
 
-Cards are a convenient means of displaying content composed of different types of objects. They’re also well-suited for presenting similar objects whose size or supported actions can vary considerably, like photos with captions of variable length.
+卡片是一種很方便顯示不同類型所組成的內容。他們也非常適合呈現相似的大小或是支援操作的物件，像是具有可變長度的照片。
 
-**Note**: Though similar in appearance, Now cards are a distinct subset of cards with unique behavior and formatting requirements.
+**備註**: 雖然在外觀上相似，而現在的卡片都要求不同子卡片俱有獨特的行為和格式。
 
 ![](images/components/components-cards-usage-card_single_large_mdpi.png)
 
-A `card collection` is a coplanar layout of `cards`.
+卡片集是卡片佈局裡同一面的。
 
 ![](images/components/components-cards-usage-card_travel_large_mdpi.png)
 
 ![](images/components/components-cards-content-card_books_large_mdpi.png)
 
-Each of these cards contains a unique data set: a checklist with an action, a note with an action, a note with a photo.
+這些卡片都包含這一個獨特的資料集：含有操作的核選清單，含有操作的記錄說明，帶有照片的說明。
 
 ![](images/components/components-cards-content-card_notes_large_mdpi.png)
 
-Use a card layout when displaying content that:
+當顯示內容時使用卡片佈局：
 
-- As a collection, is comprised of multiple heterogeneous data types (for example, the card collection consists of photos, movies, text, images)
-- Does not require direct comparison (a user is not directly comparing images or text strings)
-- Includes supporting content of highly variable length, such as comments
-- Consists of rich content or interaction, such as +1 buttons, sliders, or comments
+- 作為一個集合，是由多種不同資料所組成的類型（例如：卡片系列包括照片，影片，文字，圖像）
+- 不需要直接的對比 （使用者不需要比較圖片或文本字串）
+- 包含高度可變長度的內容（比如：意見內容）
 - Would otherwise be in a list but needs to display more than three lines of text
 - Would otherwise be in a grid list but needs to display more text to supplement the image
 
 ![](images/components/components-cards-usage-cardvstilea_large_mdpi.png)
 
-Do.
+好的做法.
 
-1. Cards have rounded corners.
+1. 卡片有圓角的邊.
 
-2. Cards can have multiple actions.
+2. 卡片可以有許多操作.
 
-3. Cards can be dismissable and rearranged.
+3. 卡片可以被關閉以及重新排列.
 
 ![](images/components/components-cards-usage-cardvstileb_large_mdpi.png)
 
-Don't.
+不好的做法.
 
-This is a tile, not a card.
+這是磚塊，不是卡片.
 
-1. Tiles have square corners.
+1. 磚塊有正方形的四角.
 
-2. Tiles have no more than two actions.
+2. 磚塊無法有超過兩個以上的操作.
 
 ![](images/components/components-cards-usage-card_noa_large_mdpi.png)
 
-Do.
+好的做法.
 
 A quickly scannable list, instead of cards, is an appropriate way to represent homogeneous content that doesn't have many actions.
 
 ![](images/components/components-cards-usage-card_nob_large_mdpi.png)
 
-Don't.
+不好的做法.
 
 The use of cards here distracts the user from being able to quickly scan. These list items are also not dismissable, so having them on separate cards is confusing.
 
 ![](images/components/components-cards-usage-card_no2a_large_mdpi.png)
 
-Do.
+好的做法.
 
 Grid tiles are a clean and lightweight way to present a gallery of images.
 
 ![](images/components/components-cards-usage-card_no2b_large_mdpi.png)
 
-Don't.
+不好的做法.
 
 Cards are unnecessary in a gallery of images (homogeneous content).
 
@@ -107,7 +110,7 @@ Gutters between cards: 8 dp
 
 ![](images/components/components-cards-15_large_mdpi.png)
 
-## Content
+## 內容
 
 Card content type and quantity can vary greatly depending on the content being expressed. Cards provide context and an entry point to more robust information and views; make sure not to overload cards with extraneous information or actions.
 
@@ -121,7 +124,7 @@ Place primary content at the top of the card. Use hierarchy to direct users’ a
 
 ![](images/components/components-cards-content-card_notes_large_mdpi.png)
 
-## Actions
+## 動作
 
 The primary action in a card is typically the card itself.
 
@@ -155,7 +158,7 @@ Although cards can support multiple actions, UI controls, and an overflow menu, 
 
 ![](images/components/components-cards-actions-card_actionsd_large_mdpi.png)
 
-## Behavior
+## 行為
 
 ### Gestures
 

@@ -35,8 +35,8 @@
 - 作為一個集合，是由多種不同資料所組成的類型（例如：卡片系列包括照片，影片，文字，圖像）
 - 不需要直接的對比 （使用者不需要比較圖片或文本字串）
 - 包含高度可變長度的內容（比如：意見內容）
-- Would otherwise be in a list but needs to display more than three lines of text
-- Would otherwise be in a grid list but needs to display more text to supplement the image
+- 需要顯示超過三行的文字，否則不會在清單裡
+- 需要顯示更多文字來描述圖片，否則不會在網格列表裡
 
 ![](images/components/components-cards-usage-cardvstilea_large_mdpi.png)
 
@@ -62,41 +62,41 @@
 
 好的做法.
 
-A quickly scannable list, instead of cards, is an appropriate way to represent homogeneous content that doesn't have many actions.
+用卡片代替是相當適合在可快速閱覽的列表裡，因為他沒有太多的動作表達同值性的內容
 
 ![](images/components/components-cards-usage-card_nob_large_mdpi.png)
 
 不好的做法.
 
-The use of cards here distracts the user from being able to quickly scan. These list items are also not dismissable, so having them on separate cards is confusing.
+在這裡呈現各別快速閱覽且採用項目分隔的卡片．這些列表的項目裡面沒有可關閉的功能，所以在分散的卡片呈現裡是混雜的感覺。
 
 ![](images/components/components-cards-usage-card_no2a_large_mdpi.png)
 
 好的做法.
 
-Grid tiles are a clean and lightweight way to present a gallery of images.
+網格磚塊是一種乾淨又輕量型的方式來呈現圖片集
 
 ![](images/components/components-cards-usage-card_no2b_large_mdpi.png)
 
 不好的做法.
 
-Cards are unnecessary in a gallery of images (homogeneous content).
+卡片式不需要做圖片集 （同質性的內容）
 
 ### Card layout guidelines
 
 #### Typography
 
-Body type: 14 sp or 16 sp
+內文字: 14 sp or 16 sp
 
-Headlines: 24 sp or larger
+標題字: 24 sp or larger
 
-Flat Buttons: Roboto Medium, 14 sp, 10 sp tracking
+扁平化按鈕: Roboto Medium, 14 sp, 10 sp tracking
 
 #### Card gutters on mobile
 
-Padding from edge of screen to card: 8 dp
+卡片內距: 8 dp
 
-Gutters between cards: 8 dp
+卡片間距: 8 dp
 
 #### Content padding
 
@@ -112,13 +112,13 @@ Gutters between cards: 8 dp
 
 ## 內容
 
-Card content type and quantity can vary greatly depending on the content being expressed. Cards provide context and an entry point to more robust information and views; make sure not to overload cards with extraneous information or actions.
+卡片的內容與數量取決于內容的表達可以做些改變。卡片提供上下文以及進入點以取得健全的資訊以及呈現。請確保不要載入無相關的訊息或操作
 
 ![](images/components/components-cards-content-card_books_large_mdpi.png)
 
 ![](images/components/components-cards-content-card_discover_large_mdpi.png)
 
-Place primary content at the top of the card. Use hierarchy to direct users’ attention to the most important information in the card.
+主要的內容的位置通常在卡片的頂部。使用層次的結構引導使用者的注意獲取卡片裡重要的資訊
 
 ![](images/components/components-cards-usage-card_travel_large_mdpi.png)
 
@@ -126,29 +126,29 @@ Place primary content at the top of the card. Use hierarchy to direct users’ a
 
 ## 動作
 
-The primary action in a card is typically the card itself.
+卡片裡主要的動作通常是卡片本身。
 
-Supplemental actions can vary from card to card in a collection depending on the content type and expected outcome, for example, playing a movie versus opening a book. Within cards in a collection, position actions consistently.
+輔助性質的動作可以改變卡片到卡片的集合，取決於內容類型以及預期的結果。舉個例子，播放音樂與打開一本書之間，在集合的卡片裡面，操作的地位是相同的。
 
 ### Supplemental actions
 
-Supplemental actions within the card are explicitly called out using icons, text, and UI controls, typically placed at the bottom of the card.
+輔助性的操作明確的指出使用圖示，文本，UI控制項是通常放置在卡片的底部。
 
-UI controls placed inline with primary content can modify the view of primary content, for example, a slider to choose a day, stars to rate content, or a segmented button to select a date range.
+UI 控制項內容內嵌入在主要內容裡面，以可修改的內容來看可以是，使用一個滑動功能來選擇日期，使用星星作為評分內容，或者分段按鈕選擇一個日期範圍
 
-Limit supplemental actions to two actions, in addition to an overflow menu.
+除了溢出的菜單控制項之外，都限制輔助性功能操作兩次動作
 
-### Overflow menu
+### 溢出菜單
 
-An overflow menu (optional) typically is placed in the upper-right corner of cards, but it can be placed in the lower right if the placement improves content layout and legibility.
+溢出菜單（可選）通常被放置在卡片的右上角，但是假設放的位置可以增加內容的佈局及可讀性，那麼它也可以被放在右下角
 
-Take care not to overload an overflow menu with too many actions.
+請小心不要載入溢出的菜單有太多的動作
 
-### Considerations
+### 注意事項
 
-Inline links within text content are strongly discouraged.
+本文內容嵌入的連結強烈阻止。
 
-Although cards can support multiple actions, UI controls, and an overflow menu, use restraint and remember that cards are entry points to more complex and detailed information.
+雖然卡片可以支援多個操作，UI 控制項，以及溢出菜單，請禁止放置更複雜及資料細節在上面，也請記住卡片切入點的原意
 
 ![](images/components/components-cards-actions-card_actionsa_large_mdpi.png)
 

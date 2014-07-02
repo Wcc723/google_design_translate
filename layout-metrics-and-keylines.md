@@ -128,7 +128,7 @@
 
 > **情境**
 >
-> 這個畫面呈現了側方的導覽選單，它包含了圖示、頭像以及部分文字在左，圖示在右方的畫面。
+> 這個畫面呈現了側欄的導覽選單，它包含了圖示、頭像以及部分文字在左，而圖示在右方的畫面。
 
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-spacing-mobile-05bb_large_xhdpi.png)
@@ -182,7 +182,7 @@
 
 ### 桌面
 
-在桌面的佈局樣板中包含了4種不同的屏幕，每個還有四種不同的視窗大小，並且顯示標線以及間隔是如何在不同視窗及元件中運作。建立在視窗的尺寸之上，標線與間隔空間將繼承平板以及手機的格線規則。
+在桌面佈局樣板中包含了4種不同的屏幕，每個還有四種不同的視窗大小，並且顯示標線以及間隔是如何在不同視窗及元件中運作。建立在視窗的尺寸之上，標線與間隔空間將繼承平板以及手機的格線規則。
 
 
 > [桌面的佈局樣板](http://material-design.storage.googleapis.com/downloads/Layout_Desktop_Whiteframe.ai) (Download)

@@ -160,22 +160,22 @@ UI 控制項內容內嵌入在主要內容裡面，以可修改的內容來看�
 
 ## 行為
 
-### Gestures
+### 手勢
 
-The swipe gesture on a per-card basis is supported. Card gesture behavior should be consistently implemented within a card collection.
+支援每張卡片都有刷動手勢。卡片的手勢行為應該在卡片集做一致性的實作。
 
-The pick-up-and-move gesture is possible. However, consider whether it’s important for the user to be able to sort cards within the collection or if the content would be better experienced with programmatic filtering/sorting.
+獲取與移動手勢是做得到的。然而，思考它是否為使用者能後針對卡片排序或者內容能用編程方式做到過濾或排序提供更棒的使用者體驗。
 
-### Card collection filtering, sorting, and reorganization
+### 卡片集的過濾，排序，重組
 
-Card collections can be programmatically sorted or filtered by date, file size, alphabetical order, or other parameters. The first item in the collection is positioned at the top left of the collection, and the order proceeds left to right and top to bottom.
+卡片集可以透過編寫程式方式做排序或篩選日期，檔案大小，或按照字母排序或者其他參數。卡片集合的第一個位置位於集合的左上角，並且從左到右，從上到下。
 
-### Scrolling
+### 滾動
 
-Card collections scroll vertically only. Card content that exceeds the maximum card height is truncated and does not scroll.
+卡片集只能垂直滾動。超過最大高度被截斷並且不滾動。
 
-Cards with truncated content can be expanded, in which case the card height may exceed the maximum of the view. In this case, the card will scroll with the card collection.
+被截斷的內容可以擴展，在這種情況下，卡片的高度可能會超過視圖的最大值。因此卡片滾動將伴隨著卡片集。
 
-### Card focus
+### 卡片聚焦
 
-For interfaces dependent upon sequential focus traversal for navigation (DPad, keyboard), individual cards should either have only a primary action or open a new view with the primary and supplemental actions available.
+對於依賴在導航的順序，其在卡片聚焦的介面（DPad, 鍵盤），個人化卡片應該也只能有一個主要動作或者打開現有主要的以及輔助動作的新的視圖。

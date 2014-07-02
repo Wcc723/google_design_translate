@@ -82,9 +82,9 @@
 
 卡片式不需要做圖片集 （同質性的內容）
 
-### Card layout guidelines
+### 卡片佈局指南
 
-#### Typography
+#### 活版印刷
 
 內文字: 14 sp or 16 sp
 
@@ -92,13 +92,13 @@
 
 扁平化按鈕: Roboto Medium, 14 sp, 10 sp tracking
 
-#### Card gutters on mobile
+#### 卡片欄距
 
 卡片內距: 8 dp
 
 卡片間距: 8 dp
 
-#### Content padding
+#### 內文內距
 
 16 dp
 
@@ -130,7 +130,7 @@
 
 輔助性質的動作可以改變卡片到卡片的集合，取決於內容類型以及預期的結果。舉個例子，播放音樂與打開一本書之間，在集合的卡片裡面，操作的地位是相同的。
 
-### Supplemental actions
+### 輔助性的操作
 
 輔助性的操作明確的指出使用圖示，文本，UI控制項是通常放置在卡片的底部。
 

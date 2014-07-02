@@ -15,7 +15,7 @@
 * Layout
 	* [Principles](layout-principles.md)
 	* [Metrics and Keylines](layout-metrics-and-keylines.md)
-	* [Structure](Layout-Structure.md)
+	* [Structure](layout-structure.md)
 * Components
 	* [Bottom Sheets](components-bottom-sheets.md)
 	* [Buttons](components-buttons.md)

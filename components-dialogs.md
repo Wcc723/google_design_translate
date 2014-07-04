@@ -86,6 +86,7 @@ Dismissive actions are placed on the left side and return the user to the origin
 
 Actions can be placed side by side or can be vertically stacked if more room is needed to accommodate longer button labels.
 
+
 Dismissive and affirmative action text can be Cancel/OK or can be more specific active verbs or verb phrases that indicate the outcome of the decision.
  
 ![](images/components/components-dialogs-actions-dialogs_11_large_mdpi.png)
@@ -112,4 +113,4 @@ Dialogs are always fully on-screen. Dialogs always retain focus until they have 
 
 ---
 
-> 翻譯：[Wei-ju Tu](http://weijutu.blogspot.tw/)
+> *翻譯：[Weiju Tu](https://www.facebook.com/weiju516)*

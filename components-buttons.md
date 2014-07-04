@@ -232,4 +232,4 @@ Disabled: 10% #ccc
 
 ---
 
-> *翻譯：Weiju*
+> *翻譯：[Weiju Tu](https://www.facebook.com/weiju516)*

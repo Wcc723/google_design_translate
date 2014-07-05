@@ -34,3 +34,4 @@
 
 ![](images/components/components-chips-contactchips-chips_06_large_mdpi.png)
 
+> *翻譯：[Weiju Tu](https://www.facebook.com/weiju516)*

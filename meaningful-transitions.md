@@ -4,16 +4,18 @@
 
 
 有意義的漸進過程
-
-It can sometimes be difficult for a user to know where to focus their attention in an app or how an app element got from point A to point B. Carefully choreographed motion design can effectively guide the user’s attention and focus through multiple steps of a process or procedure; avoid confusion when layouts change or elements are rearranged; and improve the overall beauty of the experience. Motion design should not only be beautiful, but serve a functional purpose.
+有時候使用者不易專注於應用程式本身，或迷失於a到b的過程
+It can sometimes be difficult for a user to know where to focus their attention in an app or how an app element got from point A to point B. 
+Carefully choreographed motion design can effectively guide the user’s attention and focus through multiple steps of a process or procedure; avoid confusion when layouts change or elements are rearranged; and improve the overall beauty of the experience. Motion design should not only be beautiful, but serve a functional purpose.
 
 
 
 內容
 範例
 連續的視流
-Hierarchical Timing
-Consistent Choreography
+階級式的動畫安排
+一致而有順序的編排
+
 
 
 
@@ -33,18 +35,26 @@ Consistent Choreography
 最重要的是讓使用者更清晰而非困惑。
 設計良好的漸變動畫，
 
-Transitioning between two visual states should be smooth, appear effortless, and above all, provide clarity to the user, not confusion. A well-designed transition does the heavy lifting and enables the user to clearly understand where their attention should be focused. 漸變動畫有三個 A transition has three categories of elements:
+Transitioning between two visual states should be smooth, appear effortless, and above all, provide clarity to the user, not confusion. A well-designed transition does the heavy lifting and enables the user to clearly understand where their attention should be focused. 
 
-> Incoming elements. Whether newly generated or translated into the scene, these items need to be introduced or re-established.
-> Outgoing elements. Elements that are no longer relevant to the new context must be removed from the scene in an appropriate manner.
-> Shared elements. Elements that persist from the starting to the ending state of a transition. They can be as subtle as a single icon or as dominant as a gallery image that grows to fit the screen.
+漸變動畫的範疇包含三個元素：
 
-Considerations
+> 進入的元素。可能是直接新增的元素或從其他位置轉變過來的，這些元素有各自被引進或再製造的方式。
+> 離開的元素。與新內容不再相關的元素必須透過適當的方式移除。
+> 存留元素。從漸變動畫開始到結束都持續存在的元素，可能是細小的icon圖示或顯眼的大型圖片，透過動畫改變成符合螢幕的尺寸。
 
-When you design your animations, consider the following:
-> Think about how the users attention should be directed. What elements and motions support that goal? How should incoming, outgoing, and shared elements be emphasized or de-emphasized through the transition?
-> Consider transitions when designing screens and find opportunities to create visual connections between transition states through color and persisting elements.
-> Add motion judiciously: consider how moving a certain element adds clarity and delight to a transition.
+
+
+
+注意
+
+當你在設計你的動畫時，請注意以下幾件事：
+> 思考使用者的注意力應該如何被引導？什麼元素或動作能夠支持這個目標？
+> 動畫過程中，要進入、離開或共用的元素，要如何安排強調或弱化？
+> 設計畫面時，思考動畫前後的狀態，找出機會創造色彩上或存留元素的視覺關聯性。
+> 審慎地加入動作：思考如何透過移動一個元素，使動畫漸變的過程更加清晰流暢。
+
+
 
 
 
@@ -86,8 +96,12 @@ Concurrent timing for all elements provides no indication of what is important. 
 
 
 Consistent Choreography
+動畫元素在畫面中移動時應該要有順序的安排
+元素移動的路徑必須合理且有次序。
 
-As transitioning elements move around the screen, they should behave in a coordinated manner. The paths elements travel along should all make sense and be orderly. Haphazard motion is distracting. A well-choreographed app also provides teachable moments for the user. When transitioning elements are coordinated, the user’s understanding of the app grows. They “get” the app; they don’t feel disoriented by the animation.
+As transitioning elements move around the screen, they should behave in a coordinated manner. 
+The paths elements travel along should all make sense and be orderly. 
+Haphazard motion is distracting. A well-choreographed app also provides teachable moments for the user. When transitioning elements are coordinated, the user’s understanding of the app grows. They “get” the app; they don’t feel disoriented by the animation.
 
 
 

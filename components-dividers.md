@@ -2,7 +2,6 @@
 
 Dividers group and separate content within lists and page layouts using strong visual and spatial distinctions. The divider shown in the examples is a thin rule, lightweight enough to not distract the user from content.
 
-
 ---
 
 ##使用
@@ -48,3 +47,5 @@ When using a divider with a subheader, place the divider above the subheader to 
 ![](images/components/components-dividers-subheaders-1a_large_mdpi.png)
 
 ![](images/components/components-dividers-subheaders-1b_large_mdpi.png)
+
+> *翻譯：[Weiju Tu](https://www.facebook.com/weiju516)*

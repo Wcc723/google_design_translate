@@ -242,7 +242,7 @@
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-touchtarget-touch-target-02b_large_xhdpi.png)
 
 
-
+> *翻譯：[Casper](https://www.facebook.com/chihcheng.wang.3)*
 
 
 

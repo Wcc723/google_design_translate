@@ -281,32 +281,35 @@ iPhone: 264 dp
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_calendar_large_xhdpi.png)
 
-> Overlaid content details and focused app bar on mobile
+> 在手機上，重疊的內容及被關注的應用程式欄。
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_contacts_large_xhdpi.png)
 
-> Overlapping content card with multiple toolbars and background image on mobile
+> 在手機上，卡片與多個工具欄以及背景圖。
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_drive_large_xhdpi.png)
 
-> Extended app bar and right nav drawer
+> 擴展的應用程式工具欄以及又方的側欄。
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_gallery_large_xhdpi.png)
 
-> Left nav drawer and 1-up stream on mobile
+> 在手機上，左方的工具欄。
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_mail_large_xhdpi.png)
 
-> Source list
+> 資源列表
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_maps_large_xhdpi.png)
 
-> Fullscreen background image with inset search field and carded search results
+> 嵌入式搜尋區域以及卡片式搜尋結果，以及全螢幕背景圖。
+
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_music_large_xhdpi.png)
 
-> Expandable footer drawer
+> 可以展開的底部
 
+
+> *翻譯：[Casper](https://www.facebook.com/chihcheng.wang.3)*
 
 
 

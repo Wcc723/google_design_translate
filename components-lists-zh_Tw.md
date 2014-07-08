@@ -11,10 +11,6 @@ A **list** consists of a single continuous column of tessellated sub-divisions o
 一個**清單**是由一欄連續格狀化的子區塊 -- **列** 所構成，而列的功能是作為 **磚塊** 的容器。
 
 
-
-等寬且格子化的子區塊--稱為列，列的功能是作為磚塊的容器
-
-
 **Tiles** hold content, and can vary in height within a list.
 
 ![](images/components/components-lists-1_large_mdpi.png) 

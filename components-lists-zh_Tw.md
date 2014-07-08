@@ -1,7 +1,5 @@
 #清單
 
-Lists present multiple line items in a vertical arrangement as a single continuous element.
-
 清單組件是用來將多個項目，以垂直排列的方式，顯示成一個單一且連續的元素。
 
 ---

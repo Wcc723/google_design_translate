@@ -1,14 +1,14 @@
 #Lists 
 #清單
 
-Lists present multiple line items in a vertical arrangement as a single continuous element. 
+Lists present multiple line items in a vertical arrangement as a single continuous element.   
 清單是用來將多個項目，以垂直排列的方式，顯示成一個單一且連續的元素。
 
 ---
 ## Usage  
 ## 用法
 
-A **list** consists of a single continuous column of tessellated sub-divisions of equal width called **rows** that function as containers for **tiles**.
+A **list** consists of a single continuous column of tessellated sub-divisions of equal width called **rows** that function as containers for **tiles**.  
 
 一個**「清單」**是由一欄連續格狀化的子區塊 -- **「列」**所構成，而「列」的功能是作為**「磚塊」**的容器。
 

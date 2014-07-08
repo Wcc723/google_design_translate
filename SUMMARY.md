@@ -3,10 +3,10 @@
 * Material Design 
 	* [Introduction](material-design-introduction.md)
 * Animation
-	* [Authentic Motion](authentic-motion.md)
-	* [Responsive Interaction](responsive-interaction.md)
-	* [Meaningful Transitions](meaningful-transitions.md)
-	* [Delightful Details](delightful-details.md)
+	* [Authentic Motion](animation-authentic-motion.md)
+	* [Responsive Interaction](animation-responsive-interaction.md)
+	* [Meaningful Transitions](animation-meaningful-transitions.md)
+	* [Delightful Details](animation-delightful-details.md)
 * Style
 	* [Color](style-color.md)
 	* [Typography](style-typography.md)

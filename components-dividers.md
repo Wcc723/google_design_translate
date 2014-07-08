@@ -1,22 +1,22 @@
 #分隔器
 
-Dividers group and separate content within lists and page layouts using strong visual and spatial distinctions. The divider shown in the examples is a thin rule, lightweight enough to not distract the user from content.
+分隔器以及分隔內容使用了強烈的視覺和空間上的區以及頁面佈局中不同的內容。在這個例子將說明分隔器是一個輕量型的規則足以不分散使用者的內容。
 
 ---
 
 ##使用
 
-###Items without anchors
+###無鏈接項目
 
-When lists don’t have an anchoring element such as an avatar or icon, spacing alone isn’t always enough to separate tiles. In this case, full-bleed dividers can help create rhythm and separate individual tiles. 
+如果列表沒有固定的元素。例如頭像或者是圖示，單獨的間距是不夠分隔區塊。在這種情況下，全滿的分隔器能夠幫助建立韻律以及個別分隔區塊。
 
 ![](images/components/components-dividers-items-without-anchor-1a_large_mdpi.png)
 
 ![](images/components/components-dividers-items-without-anchor-1b_large_mdpi.png)
 
-###Image-based content
+###基於圖示的內容
 
-Because the grid itself creates visual distinction, grid lists do not need dividers to separate subheaders from content. In this case, the white space and the subheaders separate the sections of content adequately.
+由於網格本身會造成視覺上的區隔，網格列表是不需要為副標題的內容分開。在這種情況下，空格及副標題就需要稍微分開一點。
 
 ![](images/components/components-dividers-image-based-1a_large_mdpi.png)
 
@@ -24,25 +24,25 @@ Because the grid itself creates visual distinction, grid lists do not need divid
 
 ##分隔線的類型
 
-###Full-bleed dividers
+###全滿分隔線
 
-Full-bleed dividers separate sections or different types of content in both lists and page layouts.
+全滿的分隔線是在分隔章節或不同類型的列表以及頁面佈局。
 
 ![](images/components/components-dividers-full-bleed-1a_large_mdpi.png)
 
 ![](images/components/components-dividers-full-bleed-1b2_large_mdpi.png)
 
-###Inset dividers
+###插入分隔線
 
-Use inset dividers when anchoring elements such as icons or avatars are present in the Title Key Line.
+當在鏈接元素請使用插入分隔線，就像是圖示或標題上的主要線路。
 
 ![](images/components/components-dividers-inset-1a_large_mdpi.png)
 
 ![](images/components/components-dividers-inset-1b_large_mdpi.png)
 
-### Subheaders and Dividers
+### 副標題及分隔線
 
-When using a divider with a subheader, place the divider above the subheader to reinforce the relationship between the subheader and the content.
+當副標題使用了一個分隔線，分隔線放在副標題的上方以強調副標題與內容之間的關係。
 
 ![](images/components/components-dividers-subheaders-1a_large_mdpi.png)
 

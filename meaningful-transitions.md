@@ -4,9 +4,8 @@
 
 
 有意義的漸進過程
-有時候使用者不易專注於應用程式本身，或迷失於a到b的過程
-It can sometimes be difficult for a user to know where to focus their attention in an app or how an app element got from point A to point B. 
-Carefully choreographed motion design can effectively guide the user’s attention and focus through multiple steps of a process or procedure; avoid confusion when layouts change or elements are rearranged; and improve the overall beauty of the experience. Motion design should not only be beautiful, but serve a functional purpose.
+有時候使用者不易專注於應用程式本身，或迷失於元素A變換到元素B的過程，
+當使用者在多重程序或多步驟的狀態下時，審慎安排動線設計能有效地導引使用者的注意力。當佈局或元素重新排列時，要避免造成使用者困惑，並改善整個使用者體驗的美感。動線的設計不但使產品更漂亮，更應該考量到功能性的目的。
 
 
 
@@ -25,17 +24,20 @@ Carefully choreographed motion design can effectively guide the user’s attenti
 範例
 
 
+範例
 
 
 
 
-連續的視流
 
-兩個不同狀態的視覺漸變必須是流暢而輕鬆的。
-最重要的是讓使用者更清晰而非困惑。
-設計良好的漸變動畫，
 
-Transitioning between two visual states should be smooth, appear effortless, and above all, provide clarity to the user, not confusion. A well-designed transition does the heavy lifting and enables the user to clearly understand where their attention should be focused. 
+視流的連續性
+
+兩個不同狀態的視覺漸變必須是流暢、輕鬆而不間斷的。
+最重要的是讓使用者更清晰而非困惑。設計良好的動畫，能幫助使用者清楚了解現在應該要專注在哪個地方。
+
+
+
 
 漸變動畫的範疇包含三個元素：
 
@@ -60,12 +62,15 @@ Transitioning between two visual states should be smooth, appear effortless, and
 
 
 你該這麼做：
-Layer paper where appropriate. In general, incoming paper elements may slide into view, but ink elements don’t; they should fade in. Fullscreen cross-fades are not desirable, but are preferred over cuts.
+
+圖層式的紙張元素是常用的設計，紙張元素常常以滑入的方式進入畫面，而墨水元素則較常使用淡出的方式進入畫面。
+不建議使用全螢幕的淡出效果，但是至少比直接切換畫面好。
+
 
 
 
 不要這麼做：
-Avoid hard cuts. Hard cuts are jarring and make the user work too hard to understand the transition.
+避免直接切換畫面。直接切換畫面的突兀感，導致使用者難以理解動畫的運作。
 
 
 
@@ -74,45 +79,45 @@ Avoid hard cuts. Hard cuts are jarring and make the user work too hard to unders
 
 
 
-Hierarchical Timing
 
-When building a transition, consider both the order in which elements move and the timing of their movement. Ensure that motion supports the information hierarchy; that is, it conveys to the user what content is most important by creating a path for the eye to follow.
+講求結構順序的時間差
 
-However, it’s not a simple formula in which the most important thing moves first and the least important last. The timing of transition elements should flow smoothly and avoid feeling disjointed.
+當你建置一個動畫，要考量該元素的的運動方式與運動的時間差。
+確保動畫能幫助你更有次序的顯示資訊，即透過動線的安排，告訴使用者，什麼是最重要的資訊。
+
+然而，並沒有一個公式告訴你重要的東西最先出來，或最不要的東西最後出來。
+動畫時間差的安排必須流暢且必須避免讓使用者覺得與產品脫節。
 
 
 
-Examples
+範例
 
 你該這麼做：
 使用重疊的動線引導使用者的注意力。
-Use overlapping motion to direct user attention.
+
 
 不要這麼做：
-Concurrent timing for all elements provides no indication of what is important. If all elements have equal importance, consider larger-scale motion to introduce them as a group.
+動畫時間差的安排並沒有暗示使用者什麼是重要的。
+如果所有的元素都同等重要，你可以考慮使用一個大型動畫，暗示使用者它們屬於同一個群組。
 
 
 
 
 
-Consistent Choreography
-動畫元素在畫面中移動時應該要有順序的安排
-元素移動的路徑必須合理且有次序。
 
-As transitioning elements move around the screen, they should behave in a coordinated manner. 
-The paths elements travel along should all make sense and be orderly. 
-Haphazard motion is distracting. A well-choreographed app also provides teachable moments for the user. When transitioning elements are coordinated, the user’s understanding of the app grows. They “get” the app; they don’t feel disoriented by the animation.
+編排規則的一致性
+動畫元素在畫面中的移動順序應該要以協調的方式呈現，元素移動的路徑必須合理且有次序。
+隨機的移動方式容易使人分心，規劃良好的應用程式能幫助使用者學習使用的方式，協調的動畫元素能提升使用者對於應用程式理解度，一旦使用者了解應用程式的設計原則，他們就不易在使用的過程迷失方向。
 
 
 
 最佳典範
 
-避免線性
-> Avoid linear spatial paths, except when movement is constrained to an axis or moving towards/away from a specific point in concert with other elements.
-> Make sure that the direction in which elements move is cohesive across the transition. Avoid conflicting movements and overlapping paths.
-> Consider the depth story: what moves under what, and why?
-> If all moving elements traced their paths on screen, would it look beautiful and organized? Does it create a clear picture of where to look?
-> Support spatial relationships through consistent motions for incoming and outgoing elements.
+> 避免線性空間路徑，除非運動方式是沿著特定軸線、或與其他元素一起朝向特定目標或離開特定目標。
+> 確保各個元素的路徑相互配合。避免有衝突或重疊的路徑。
+> 考慮動畫故事性的深淺度：決定個路徑的上下順序，以及為何如此？
+> 如果在螢幕上追蹤所有移動元素的路徑，看起來是否漂亮而有組織性？這些路徑是否有創造出清楚的畫面引導使用者該注意哪個位置？
+> 套用一致的動畫設計規則到進入與離開的元素，強化各元素的空間關係。
 
 
 

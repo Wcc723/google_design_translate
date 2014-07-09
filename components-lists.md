@@ -10,6 +10,8 @@
 
 **Tiles** hold content, and can vary in height within a list.
 
+**「磚塊」**是用來放制內容的，且在一個清單中，每個「磚塊」的高度屬性可以不等。
+
 ![](images/components/components-lists-1_large_mdpi.png) 
 
 ![](images/components/components-lists-2_large_mdpi.png)

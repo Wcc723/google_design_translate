@@ -13,12 +13,6 @@
 
 ![](images/components/components-lists-2_large_mdpi.png)
 
-Lists are best suited to presenting a **homogeneous data type or sets of data types**, such as images and text, optimized for reading comprehension, with the goal of differentiating between like data types or qualities within a single type of data.
-
-If more than three lines of text needs to be shown in list tiles, use cards instead.
-
-If the primary distinguishing content consists of images, use a grid list.
-
 清單最適合用來呈現為了閱讀理解進行最佳化的**同性質資料或集合型資料**，例如多個圖片或文字，其目的是為了區分不同的資料類型或區分單一類型資料中不同的性質。
 
 如果清單磚塊內的文字超過三行，則應使用卡片。
@@ -29,9 +23,9 @@ If the primary distinguishing content consists of images, use a grid list.
 
 ---
 
-## Content
+## 內容
 
-### Tile content
+### 磚塊內容
 
 List tiles present collections of related content in a consistent format, using hierarchy to enhance readability by prioritizing a consistent type or set of content. For example, emphasizing an avatar and text snippet over a time stamp. This helps users more easily find the distinguishing information they are looking for within the collection of content.
 

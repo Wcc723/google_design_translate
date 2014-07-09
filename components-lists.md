@@ -5,9 +5,9 @@
 ---
 ## 用法
 
-一個**「清單」**是由一欄連續格狀化的子區塊 -- **「列」**所構成，而「列」的功能是作為**「磚塊」**的容器。
+一個**「清單」**是由一欄連續格狀化的子區塊 -- **「列」**所構成，而「列」的功能是作為**「磁磚」**的容器。
 
-**「磚塊」**是用來放置內容的，且在一個清單中，每個「磚塊」的高度屬性可以不等。
+**「磁磚」**是用來放置內容的，且在一個清單中，每個「瓷磚」的高度屬性可以不等。
 
 ![](images/components/components-lists-1_large_mdpi.png) 
 
@@ -15,9 +15,9 @@
 
 清單最適合用來呈現為了閱讀理解而進行最佳化的**「同性質資料或集合型資料」** -- 例如多個圖片或文字，其目的是為了區分不同的資料類型或區分單一類型資料中不同的性質。
 
-如果清單磚塊內的文字超過三行，則應使用「卡片」。
+如果清單的磁磚裡的文字超過三行，則應使用「卡片」。
 
-如果做為主要識別的內容是圖片，則應使用「網格清單」。
+如果做為主要的識別內容是圖片，則應使用「網格清單」。
 
 ![](images/components/components-lists-3_large_mdpi.png)
 
@@ -25,13 +25,15 @@
 
 ## 內容
 
-### 磚塊內容
-
-List tiles present collections of related content in a consistent format, using hierarchy to enhance readability by prioritizing a consistent type or set of content. For example, emphasizing an avatar and text snippet over a time stamp. This helps users more easily find the distinguishing information they are looking for within the collection of content.
-
-List tiles can contain up to three lines of text, and the amount of text can vary between tiles within the same list. To display more than 3 lines of text, use a card.
+### 磁磚的內容
 
 Bias the most distinguishing content in a tile towards the left side of the tile, and to the first line in a tile with multi-line content.
+
+一個清單中的每個磁磚，可將具有關聯性的內容群組，以統一的格式呈現，並且透過提高同類型內容或者同群組內容的重要性，利用階層，加強內容可讀性。例如：將大頭照和文字描述的重要性，設定的比時間戳記高。這麼做可以幫助使用者更容易找到一個內容群組中的顯著資訊。
+
+清單中的每個磁磚最多可放三行文字，同一個清單中，各個瓷磚的字數可以不等。若要顯示三行文字以上，應使用「卡片」。
+
+最顯著內容的方向性，是向著磁磚的左側，且向著多行內容的第一行。
 
 ![](images/components/components-lists-4_large_mdpi.png)
 

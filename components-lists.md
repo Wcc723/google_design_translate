@@ -27,8 +27,6 @@
 
 ### 磁磚的內容
 
-Bias the most distinguishing content in a tile towards the left side of the tile, and to the first line in a tile with multi-line content.
-
 一個清單中的每個磁磚，可將具有關聯性的內容群組，以統一的格式呈現，並且透過提高同類型內容或者同群組內容的重要性，利用階層，加強內容可讀性。例如：將大頭照和文字描述的重要性，設定的比時間戳記高。這麼做可以幫助使用者更容易找到一個內容群組中的顯著資訊。
 
 清單中的每個磁磚最多可放三行文字，同一個清單中，各個瓷磚的字數可以不等。若要顯示三行文字以上，應使用「卡片」。

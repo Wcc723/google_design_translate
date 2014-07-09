@@ -7,10 +7,7 @@
 
 一個**「清單」**是由一欄連續格狀化的子區塊 -- **「列」**所構成，而「列」的功能是作為**「磚塊」**的容器。
 
-
-**Tiles** hold content, and can vary in height within a list.
-
-**「磚塊」**是用來放制內容的，且在一個清單中，每個「磚塊」的高度屬性可以不等。
+**「磚塊」**是用來放置內容的，且在一個清單中，每個「磚塊」的高度屬性可以不等。
 
 ![](images/components/components-lists-1_large_mdpi.png) 
 
@@ -21,6 +18,12 @@ Lists are best suited to presenting a **homogeneous data type or sets of data ty
 If more than three lines of text needs to be shown in list tiles, use cards instead.
 
 If the primary distinguishing content consists of images, use a grid list.
+
+清單最適合用來呈現為了閱讀理解進行最佳化的**同性質資料或集合型資料**，例如多個圖片或文字，其目的是為了區分不同的資料類型或區分單一類型資料中不同的性質。
+
+如果清單磚塊內的文字超過三行，則應使用卡片。
+
+如果做為主要識別的內容是圖片，則應使用網格清單。
 
 ![](images/components/components-lists-3_large_mdpi.png)
 

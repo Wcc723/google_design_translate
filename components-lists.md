@@ -45,6 +45,15 @@ Primary and supplemental actions, such as play, zoom in, delete, and select, are
 
 Actions can open a subsequent view such as a card or hovercard.
 
+
+一個清單的磁磚表面上的大部分面積，應該被分配用來執行主要的動作。
+
+因為動作並非清單磁磚中的顯著元素，所以輔助動作應該放置於磁磚的右側。
+
+主要動作與輔助動作，例如：播放、放大、刪除和選擇，可立即執行，一般來說並不需要在清單中顯示一個包含數個選項的子選單 (動作的延伸)。
+
+動作可以打開一個後續的「檢視」，例如：卡片或者滑入滑出卡片。
+
 ![](images/components/components-lists-5_large_mdpi.png)
 
 ### Primary actions 

@@ -49,14 +49,14 @@
 
 ### 主要動作 
 
-- 會佔滿整個磁磚，而且不會透過圖示或文字...等 (元素) 呈現。
+- 會佔滿整個磁磚，且不透過圖示或文字...等 (元素) 呈現。
 - 在一個特定的清單中所有磁磚的動作是一樣的。例如，在一個音樂清單中，所有的磁磚的主要動作是播放歌曲；在郵件清單中，則是開啟並閱讀郵件。
 
 ### 輔助動作 
 
-- Are represented in tiles with icons, secondary text, etc.
-- Are functionally consistent throughout tiles in a specific list, for example, an icon that indicates whether someone is online.
-- Are placed in a consistent location within the tiles of a specific list.
+- 會透過磁磚中的圖示或次要文字...等 (元素) 呈現。
+- 在一個特定清單的所有磁磚中，輔助動作的運作方式是一樣的。例如，可以從一個圖示看出某人是否處於上線狀態。
+- 在一個特定清單的所有磁磚中，輔助動作的放置處也是一致的。
 
 Avoid creating visual noise by repeatedly using supplemental actions in tiles, for example, by displaying a share action in every tile. Toggles, such as stars or pins, are an exception because they provide meaningful information by displaying state.
 

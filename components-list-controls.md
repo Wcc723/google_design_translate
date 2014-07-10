@@ -5,8 +5,8 @@
 清單控制器可分為四大類：
 
 - 狀態
-- 主要動作 (包含字串)
-- 次要動作
+- 主要指令 (包含字串)
+- 次要指令
 - 次要訊息
 
 
@@ -36,11 +36,12 @@ Type: Primary Action/ State
 
 Desktop on hover only.
 
+
 ![](images/components/components-listcontrols-typesoflistcontrols-listcontrols_08_large_mdpi.png)
 
 > Checkbox is the primary action and the state indicator for the list item.
 
-Type: Secondary Action
+類型：次要指令
 
 Separate target
 
@@ -100,6 +101,7 @@ Swiping on a list item from either direction will reveal an icon indicating the 
 
 ### Discouraged: Navigational List Controls
 
+一般來說，導覽只需透過文字清單，額外的glyph是不必要的。
 Generally, navigation is implied through the text on the list item itself. An extra glyph is not necessary.
 
 ### See more

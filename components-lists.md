@@ -66,13 +66,13 @@
 
 ### 捲動
 
-Lists scroll only vertically.
+清單只能垂直捲動。
 
 ### 手勢
 
-Per-tile swipe actions should be consistent within lists.
-Where appropriate, tiles can be moved between a list and a drop target (for example, moving a file into a folder).
-Where appropriate, tiles can be picked up and manually reordered within a list.
+清單中的各個磁磚，其「滑推」動作應該是一致的。
+當操作適當時，磁磚可以在清單和拖放目標之間移動（例如，將一個檔案移動到一個資料夾中）。
+當操作適當時，磁磚可以被抓起，並且在一個清單中手動重新排列順序。
 
 ### Tile filtering and sorting
 

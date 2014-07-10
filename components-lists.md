@@ -39,15 +39,17 @@
 
 一個清單的磁磚表面上的大部分面積，應該被分配用來執行主要的動作。
 
-因為動作並非清單磁磚中的顯著元素，所以輔助動作應該放置於磁磚的右側。
+因為動作並非清單磁磚中的顯著元素，所以次要動作應該放置於磁磚的右側。
 
-主要動作與輔助動作，例如：播放、放大、刪除和選擇，可立即執行，一般來說並不需要在清單中顯示一個包含數個選項的子選單 (動作的延伸)。
+主要動作與次要動作，例如：播放、放大、刪除和選擇，可立即執行，一般並不需要在清單中，再顯示一個包含數個選項的子選單 (就是會溢出清單的動作)。
 
 動作可以打開一個後續的「檢視」，例如：「卡片」或者「滑入滑出卡片」。
 
 ![](images/components/components-lists-5_large_mdpi.png)
 
-### Primary actions 
+### 主要動作 
+
+- 填滿整個磁磚，所以不會單單透過圖示或文字等作為觸發的媒介。
 
 - Fill the entire tile, and therefore are not represented via icons, text, etc.
 - Are consistent throughout tiles in a specific list. For example, the primary action for all tiles in a single list of music would be to play a song, or in a list of emails, to open to read an email.

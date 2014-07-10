@@ -49,7 +49,7 @@
 
 ### 主要動作 
 
-- 填滿整個磁磚，所以不會單單透過圖示或文字等作為觸發的媒介。
+- 填滿整個磁磚，而且不會利用圖示或文字......等作為呈現動作的元素。
 
 - Fill the entire tile, and therefore are not represented via icons, text, etc.
 - Are consistent throughout tiles in a specific list. For example, the primary action for all tiles in a single list of music would be to play a song, or in a list of emails, to open to read an email.

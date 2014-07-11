@@ -5,9 +5,9 @@
 ---
 ## 用法
 
-一個**「清單」**是由一欄連續格狀化的子區塊 -- **「列」**所構成，而「列」的功能是作為**「磁磚」**的容器。
+一個**「清單」**是由一欄連續格狀化的子區塊 -- **「列」**所構成，而「列」的功能是當作**「磁磚」**的容器。
 
-**「磁磚」**是用來放置內容的，且在一個清單中，每個「瓷磚」的高度屬性可以不等。
+**「磁磚」**用來放置內容，且在一個清單中，每個「磁磚」的高度屬性可以不等。
 
 ![](images/components/components-lists-1_large_mdpi.png) 
 
@@ -31,64 +31,64 @@
 
 清單中的每個磁磚最多可放三行文字，同一個清單中，各個磁磚的字數可以不等。若要顯示三行文字以上，應使用「卡片」。
 
-最顯著內容的方向性，是向著磁磚的左側，且向著多行內容的第一行。
+最具識別性的內容方向性，是向著磁磚的左側，且向著多行內容的第一行。
 
 ![](images/components/components-lists-4_large_mdpi.png)
 
 ### 磁磚的動作
 
-The majority of space on a list tile should be dedicated to the primary action.
+一個清單的磁磚表面上的大部分面積，應該被用來執行主要動作。
 
-Because actions are not distinguishing elements of list tiles, place supplemental actions on the right-hand side of the tile.
+因為動作並非清單磁磚中的可識別元素，所以輔助動作應該放置於磁磚的右側。
 
-Primary and supplemental actions, such as play, zoom in, delete, and select, are immediate and typically do not have a submenu of options (action overflow) within the list.
+主要動作與輔助動作，例如：播放、放大、刪除和選擇，因為會被立即執行，所以一般並不會再顯示一個包含數個選項的子選單 (溢出清單的動作)。
 
-Actions can open a subsequent view such as a card or hovercard.
+動作可以打開一個後續的「檢視」，例如：「卡片」或者「滑入滑出卡片」。
 
 ![](images/components/components-lists-5_large_mdpi.png)
 
-### Primary actions 
+### 主要動作 
 
-- Fill the entire tile, and therefore are not represented via icons, text, etc.
-- Are consistent throughout tiles in a specific list. For example, the primary action for all tiles in a single list of music would be to play a song, or in a list of emails, to open to read an email.
+- 會佔滿整個磁磚，且不透過圖示或文字...等 (元素) 呈現。
+- 在一個特定的清單中所有磁磚的動作是一樣的。例如，在一個音樂清單中，所有的磁磚的主要動作是播放歌曲；在郵件清單中，則是開啟並閱讀郵件。
 
-### Supplemental actions 
+### 輔助動作 
 
-- Are represented in tiles with icons, secondary text, etc.
-- Are functionally consistent throughout tiles in a specific list, for example, an icon that indicates whether someone is online.
-- Are placed in a consistent location within the tiles of a specific list.
+- 會透過磁磚中的圖示或次要文字...等 (元素) 呈現。
+- 在一個特定清單的所有磁磚中，輔助動作的運作方式是一樣的。例如，可以從一個圖示看出某人是否處於上線狀態。
+- 在一個特定清單的所有磁磚中，輔助動作的放置處也是一致的。
 
-Avoid creating visual noise by repeatedly using supplemental actions in tiles, for example, by displaying a share action in every tile. Toggles, such as stars or pins, are an exception because they provide meaningful information by displaying state.
+應避免在磁磚中利用輔助動作的重複性製造出 「視覺噪音」(譯註：煩人的)。例如在每個磁磚中都顯示「分享」動作。但是「切換開關」動作，例如星星圖示或大頭釘圖示可以被視為例外。因為他們顯示的狀態，可以提供有意義的資訊。
 
 ---
 
-## Behavior
+## 行為
 
-### Scrolling
+### 捲動
 
-Lists scroll only vertically.
+清單只能垂直捲動。
 
-### Gestures
+### 手勢
 
-Per-tile swipe actions should be consistent within lists.
-Where appropriate, tiles can be moved between a list and a drop target (for example, moving a file into a folder).
-Where appropriate, tiles can be picked up and manually reordered within a list.
+清單中的各個磁磚，其「滑推」動作應該是一致的。  
+當操作適當時，磁磚可以在清單和拖放目標之間移動（例如，將一個檔案移動到一個資料夾中）。  
+當操作適當時，磁磚可以被抓起，並且在一個清單中手動重新排列順序。  
 
-### Tile filtering and sorting
+### 磁磚的過濾與排序
 
-List tiles can be programmatically sorted or filtered by date, file size, alphabetical order, or other parameters
+清單中的磁磚可以透過程式，以日期、檔案大小、字母順序或其他參數進行過濾和排序。
 
 ![](images/components/components-lists-6_large_mdpi.png)
 
-Do.
+可以這樣做。 (譯註：依照人名第一個字母排序。)
 
 ![](images/components/components-lists-7_large_mdpi.png)
 
-Don't.
+不要這樣做。 (譯註：介面上看不出來排序的條件依據。)
 
 ---
 
-## Keylines
+## 排版線
 
 In a **single-line** list, each tile contains a single line of text. The amount of text can vary between tiles within the same list.
 

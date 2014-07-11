@@ -12,70 +12,82 @@
 
 
 清單的辨識元素
-Distinguishing elements of list titles need to be first in read order, so states and primary actions are placed on the left side of a list title. Text within a list item should be considered part of the primary action target.
+
+辨識元素的清單標題應該要率先被閱讀，因此，「狀態」與「主要指令」應該被置放於清單標題的左側。
+而清單內含的文字也應該被視為指令的一部份。
 
 ![](images/components/components-listcontrols-listcontrols-listcontrols_03_large_mdpi.png)
 
-Don’t place two icons or actions next to one another, such as a checkbox next to an avatar.
+不要把兩個圖示或指令放在一起，像是把選擇框跟使用者的縮圖並排。
 
-If the primary action of the list item is navigational, don’t use an icon. The list item itself and its context should be sufficient to communicate the destination.
 
-Secondary actions and Info should be placed on the right side of the title. Secondary actions are always a separate target from the primary action, as users increasingly expect every icon to trigger an action.
+如果清單的目的是導覽用的，請勿使用圖示，清單本身的文字與內容就足以讓使用者了解目標。
+
+
+次級指令與資訊必須放置在標題的右側，
+次級指令與主要指令必須分開，因為使用者傾向預期一個圖示會出發一個指令。
+
 
 ---
 
-## Type of list controls
+## 清單控制器的類型
  
-### Checkbox
+### 選擇框
 
-A checkbox can either be a primary action or a secondary action.
+選擇框可以是主要指另，也可以是次要指令。
 
-Type: Primary Action/ State
+類型：主要指令/ 狀態
 
-### Separate target
+### 分離標的
 
-Desktop on hover only.
+
+滑鼠滑過的動作僅使用於桌上型電腦。
 
 
 ![](images/components/components-listcontrols-typesoflistcontrols-listcontrols_08_large_mdpi.png)
 
-> Checkbox is the primary action and the state indicator for the list item.
+> 選擇框能作為主要指令，也能顯示清單的狀態。
+
 
 類型：次要指令
 
-Separate target
+分離標的
 
-When controlling a family of variables, instead of just one, consider using switches instead.
+如果你要控制一系列的變因，而不是單一的變因時，考慮以開關的方式代替。
+
 
 ![](images/components/components-listcontrols-typesoflistcontrols-listcontrols_10_large_mdpi.png)
 
-> Checkbox is the secondary action for the list item.
+> 選擇框能最為清單項目的次要指令。
 
-### Switch
+### 開關
 
-Type: Secondary Action
+類型：次要指令
 
-Separate target
+分離標的
 
 ![](images/components/components-listcontrols-typesoflistcontrols-listcontrols_30_large_mdpi.png)
 
-### Reorder
+### 重新排列
 
-Type: Secondary Action
+類型：次要指令
 
-Usually a separate target, depending on mode list is in.
+隨著清單的模式而不同，通常是分離的標的。
 
-Allows dragging of list item to other locations within the list. Usually appears in list editing mode.
+
+通常用在清單的編輯模式，透過拖拉改變清單項目的順序。
+
 
 ![](images/components/components-listcontrols-typesoflistcontrols-listcontrols_18_large_mdpi.png)
 
-### Expand/Collapse
+### 延展與合併
 
-Type: Secondary Action
+類型：次要指令
 
-Separate target
+分離標的
 
-Expands and collapses a list view vertically to show and hide existing list items.
+透過垂直的分散與合併，顯示或隱藏清單中的項目。
+
 
 ![](images/components/components-listcontrols-typesoflistcontrols-listcontrols_26a_large_mdpi.png)
 
@@ -85,13 +97,14 @@ Expands and collapses a list view vertically to show and hide existing list item
 
 ![](images/components/components-listcontrols-typesoflistcontrols-listcontrols_28b_large_mdpi.png)
 
-### Leave Behinds
+### 遺留式
 
-Type: Other
+類型：其他
 
-A leave-behind is an informative hint as to what swiping a list item away will do to that item. The leave-behind can transform into an action.
+當我們試著用滑動手勢去除清單項目時，可以利用遺留式資訊，以動畫的方式進入畫面，提供此手勢對於該項目所下指令的資訊。
 
-Swiping on a list item from either direction will reveal an icon indicating the action. After swiping, the action appears as a text button centered within the list item space.
+沿著特定方向對清單項目滑動時，可叫出象徵指令的圖示。當滑動之後，指令會以文字按鈕的方式出現，並排列於清單空間的中央。
+
 
 ![](images/components/components-listcontrols-typesoflistcontrols-listcontrols_22a_large_mdpi.png)
 
@@ -99,41 +112,45 @@ Swiping on a list item from either direction will reveal an icon indicating the 
 
 ![](images/components/components-listcontrols-typesoflistcontrols-listcontrols_22c_large_mdpi.png) 
 
-### Discouraged: Navigational List Controls
+### 不建議這麼做：導覽性的清單控制器。
 
-一般來說，導覽只需透過文字清單，額外的glyph是不必要的。
-Generally, navigation is implied through the text on the list item itself. An extra glyph is not necessary.
+一般來說，導覽只需透過文字清單，額外的圖像化是不必要的。
 
-### See more
+### 更多資訊
 
-Type: Primary Action (along with the rest of the row)
 
-Not a separate target.
+類型：主要功能（排列於欄位剩下的空間）
 
-Leads to more information related to the list item, usually in a new view or pane.
+非分離性的標的
+
+可導至該清單更多相關的資訊，通常會另開視窗或分頁呈現資訊。
 
 ![](images/components/components-listcontrols-typesoflistcontrols-listcontrols_16_large_mdpi.png)
 
 ---
 
-## Type of menu controls
+## 清單控制器的類型
 
-### Check
+### 選擇框
 
-Type: State
+類型：狀態
 
-Not a separate target.
+非分離性的標的
 
-Menus only. Denotes if list item is selected through a different control.
+
+僅使用於選單。被選擇的項目要以不同的記號標記出來。
+
+
 
 ![](images/components/components-listcontrols-typesofmenucontrols-listcontrols_06_large_mdpi.png)
 
-### Inline Information
+### 行內資訊
 
-Type: Secondary Info
+類型：次級資訊
 
-Not a separate target.
+非分離的標的
 
-Menus only. Inline information is a small snippet of text related to the line title that can provide information or a tip, like a keyboard shortcut. It cannot be truncated.
+只用在選單中。行內資訊是一段小文字，它提供提示或相關訊息，像是鍵盤熱鍵。行內資訊不可被截掉。
+
 
 ![](images/components/components-listcontrols-typesofmenucontrols-listcontrols_12_large_mdpi.png)

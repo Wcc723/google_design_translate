@@ -90,7 +90,7 @@
 
 ## 排版線
 
-在一個**單行文字**清單中，每個磁磚都包含單行文字。在同一個清單中，各個磁磚內的字數是可以不等的。
+在一個**「單行文字」**清單中，每個磁磚都包含單行文字。在同一個清單中，各個磁磚內的字數是可以不等的。
 
 ![](images/components/components-keylinesinlists-1_large_mdpi.png)
 
@@ -100,7 +100,7 @@
 
 **使用情境**
 
-在一個**雙行文字**清單中，每個磁磚最多可包含兩行文字。在同一個清單中，各個磁磚內的字數是可以不等的。
+在一個**「雙行文字」**清單中，每個磁磚最多可包含兩行文字。在同一個清單中，各個磁磚內的字數是可以不等的。
 
 ![](images/components/components-keylinesinlists-3_large_mdpi.png)
 
@@ -224,7 +224,7 @@
 
 **使用情境**
 
-#### Avatar with text
+#### 帶有文字的大頭照
 
 主要文字字體: Roboto Regular 16 sp
 
@@ -254,7 +254,7 @@ Center-align icon with text area.
 
 **使用情境**
 
-#### Avatar with text and icon
+#### 帶有文字和圖示的大頭照
 
 主要文字字體: Roboto Regular 16 sp
 

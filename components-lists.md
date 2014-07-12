@@ -90,7 +90,7 @@
 
 ## 排版線
 
-在一個**單行文字**清單中，每個磁磚都包含單行文字。在同一個列表中，各個磁磚內的字數是可以不等的。
+在一個**單行文字**清單中，每個磁磚都包含單行文字。在同一個清單中，各個磁磚內的字數是可以不等的。
 
 ![](images/components/components-keylinesinlists-1_large_mdpi.png)
 
@@ -100,7 +100,7 @@
 
 **使用情境**
 
-在一個**雙行文字**清單中，每個磁磚最多可包含兩行文字。在同一個列表中，各個磁磚內的字數是可以不等的。
+在一個**雙行文字**清單中，每個磁磚最多可包含兩行文字。在同一個清單中，各個磁磚內的字數是可以不等的。
 
 ![](images/components/components-keylinesinlists-3_large_mdpi.png)
 
@@ -112,7 +112,7 @@
 
 在一個三行文字清單中，每個磁磚最多可包含三行文字。
 
-在同一個列表中，各個磁磚內的字數是可以不等的。
+在同一個清單中，各個磁磚內的字數是可以不等的。
 
 ![](images/components/components-keylinesinlists-5_large_mdpi.png)
 
@@ -202,27 +202,27 @@
 
 #### Text only
 
-Primary text font: Roboto Regular 16 sp
+主要文字字體: Roboto Regular 16 sp
 
-Secondary text font: Roboto Regular 14 sp
+次要文字字體: Roboto Regular 14 sp
 
-Tile height: 72 dp
+磁磚高度: 72 dp
 
-Text padding: 16 dp
+文字內距: 16 dp
 
-Add 8 dp padding at the top and bottom of a list. One exception is at the top of a list with a subheader, because subheaders contain their own padding.
+在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
 ![](images/components/components-recommendedtwolinelists-1_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedtwolinelists-2_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedtwolinelists-3_large_mdpi.png)
 
-**Context**
+**使用情境**
 
 #### Avatar with text
 

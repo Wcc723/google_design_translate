@@ -1,11 +1,11 @@
-# Color
+# 顏色
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorstory-01_large_xhdpi.png)
 
 顏色的靈感是來自於設置在寧靜場合之中強烈顏色的標示，參考當代建築、道路標誌、地面標線
 以及體育場給的啟發，強調明顯的陰影、高光、令人意外的資訊以及鮮豔的色彩。
 
-> [Color Swatch](http://quantum-paper.storage.googleapis.com/downloads/color_swatches.zip)
+> [Color Swatch](http://quantum-paper.storage.googleapis.com/downloads/color_swatches.zip) *0.13 MB (.zip)*
 
 ## 使用者介面色票
 
@@ -545,7 +545,7 @@
 
 ![](http://material-design.storage.googleapis.com/images/Style-Color-Themes-theme-02_large_xhdpi.png)
 
-> *翻譯： Tillonter*
+> *翻譯： [Tillonter](https://www.facebook.com/profile.php?id=100000295862188)*
 
 
 

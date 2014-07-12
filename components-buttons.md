@@ -1,4 +1,4 @@
-#按鈕
+# 按鈕
 
 按鈕是由文字 及/或 圖片所組成，而它能清楚地傳達出一種觸碰時會發生的動作。
 
@@ -16,17 +16,17 @@
 
 ![](images/components/components-buttons-usage-01_intro_large_mdpi.png)
 
-浮動式的按鈕
+> 浮動式的按鈕
 
 ![](images/components/components-buttons-usage-02_intro_large_mdpi.png)
 
-凸起的按鈕
+> 凸起的按鈕
 
 ![](images/components/components-buttons-usage-03_intro_large_mdpi.png)
 
-扁平式的按鈕
+> 扁平式的按鈕
 
-#### 主要按鈕
+### 主要按鈕
 
 按鈕類型是您在選擇按鈕時應將此考慮放在第一位，並且考量螢幕上的容器數量以及螢幕的整體佈局。
 
@@ -38,7 +38,7 @@
 
 ![](images/components/components-buttons-usage-05_chart_large_mdpi.png)
 
-#### 對話框的按鈕
+### 對話框的按鈕
 
 在對話框上使用主要的油墨式的按鈕以防止太多層次。
 
@@ -102,13 +102,15 @@
 
 ![](images/components/components-buttons-usage-raised-1a_large_mdpi.png)
 
-好的。
-正確的使用凸起式按鈕
+> 好的。
+>
+> 正確的使用凸起式按鈕
 
 ![](images/components/components-buttons-usage-raised-1b_large_mdpi.png)
 
-不好的。
-按鈕很難被看見。
+> 不好的。
+>
+> 按鈕很難被看見。
 
 ### 扁平式按鈕
 
@@ -120,13 +122,15 @@
 
 ![](images/components/components-buttons-usage-flat-do_large_mdpi.png)
 
-好的。
-正確的使用扁平式按鈕
+> 好的。
+> 
+> 正確的使用扁平式按鈕
 
 ![](images/components/components-buttons-usage-flat-dont_large_mdpi.png)
 
-不好的。
-扁平式按鈕太笨重了。
+> 不好的。
+>
+> 扁平式按鈕太笨重了。
 
 ### 扁平及凸起按鈕的狀態
 
@@ -198,7 +202,7 @@ Disabled: 10% #ccc
 
 ### 行動式的下拉選單
 
-#### 下拉式按鈕
+### 下拉式按鈕
 
 下拉式按鈕是一個控制某一個控制項值的狀態;可能有兩個或多個狀態。該按鈕顯示目前的狀態以及向下箭頭的圖示，互動時會有個菜單緊鄰控制項飛出，並且通常呈現所有選項。狀態可能在下拉的菜單裡表示一個列表的字串，調色板，圖示，或是顯示其他的選項。
 
@@ -208,15 +212,15 @@ Disabled: 10% #ccc
 
 ![](images/components/components-buttons-mobile-dropdowns-1b_large_mdpi.png)
 
-#### 一般溢出的下拉選單
+### 一般溢出的下拉選單
 
 一個下拉選單通常在沒有顯示狀態但顯示一個箭頭或通用的菜單按鈕。當按鈕被按下時，該菜單將會飛出。按下選單時一般在菜單上會導覽更多設定的選項。
 
-#### 分段的下拉選單
+### 分段的下拉選單
 
 分段的下拉選單有兩個部分：目前狀態及下拉箭頭圖示。按下目前狀態會在螢幕上出現變更狀態的動作。在按下下拉箭頭的圖式時，將顯示所有狀態的選項，並且可以選擇一個將要改變選項的狀態
 
-#### 可編輯的分段下拉選單
+### 可編輯的分段下拉選單
 
 在分段的下拉選單顯示為可編輯的內文，就像是字體大小的選擇器。按下目前的狀態可以使狀態改變以及顯示目前編輯的狀態。按下按鈕顯示所有狀態的選項。
 
@@ -224,7 +228,7 @@ Disabled: 10% #ccc
 
 <video width="320" controls name="media"> <source src="images/components/components-menus-menus-textfield_dropdown_spec_large_xhdpi.webm" > </video>
 
-#### 桌面樣式的下拉選單
+### 桌面樣式的下拉選單
 
 桌面應用程式列的規格
 

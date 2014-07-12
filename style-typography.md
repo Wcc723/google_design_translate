@@ -4,7 +4,7 @@
 
 從Ice Cream Sandwich公開發佈消息後，Roboto一直是Android的標準字體，在這個版本中，Roboto更著重於廣泛地應用在各種不同的平台，將字體變得稍寬、稍圓了些，使它更加清晰，並使其閱讀更為舒適。
 
-> [Roboto font](http://material-design.storage.googleapis.com/downloads/RobotoTTF.zip)
+> [Roboto font](http://material-design.storage.googleapis.com/downloads/RobotoTTF.zip) *1.21 MB (.zip)*
 
 
 ![](/images/style/style-typography-roboto-typography.roboto2_specimen_large_mdpi.png)
@@ -172,6 +172,4 @@
 
 ![](/images/style/style-typography-36_large_mdpi.png)
 
-> *翻譯： Tillonter*
-
-
+> *翻譯： [Tillonter](https://www.facebook.com/profile.php?id=100000295862188)*

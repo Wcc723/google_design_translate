@@ -1,26 +1,26 @@
 # Summary
 
 * Material Design 
-	* [Introduction](material-design-introduction.md)
+	* [介紹](material-design-introduction.md)
 * Animation
-	* [Authentic Motion](animation-authentic-motion.md)
+	* [逼真的動畫效果](animation-authentic-motion.md)
 	* [Responsive Interaction](animation-responsive-interaction.md)
 	* [Meaningful Transitions](animation-meaningful-transitions.md)
 	* [Delightful Details](animation-delightful-details.md)
 * Style
-	* [Color](style-color.md)
-	* [Typography](style-typography.md)
+	* [顏色](style-color.md)
+	* [排版樣式](style-typography.md)
 	* [Icons](style-icons.md)
 	* [Imagery](style-imagery.md)
 * Layout
-	* [Principles](layout-principles.md)
-	* [Metrics and Keylines](layout-metrics-and-keylines.md)
-	* [Structure](layout-structure.md)
+	* [原則](layout-principles.md)
+	* [指標及標線](layout-metrics-and-keylines.md)
+	* [結構](layout-structure.md)
 * Components
-	* [Bottom Sheets](components-bottom-sheets.md)
-	* [Buttons](components-buttons.md)
-	* [Cards](components-cards.md)
-	* [Chips](components-chips.md)
+	* [底部工作表](components-bottom-sheets.md)
+	* [按鈕](components-buttons.md)
+	* [卡片](components-cards.md)
+	* [芯片](components-chips.md)
 	* [Dialogs](components-dialogs.md)
 	* [Dividers](components-dividers.md)
 	* [Grids](components-grids.md)

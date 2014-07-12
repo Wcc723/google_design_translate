@@ -284,9 +284,9 @@ Right icon padding: 16 dp
 
 **使用情境**
 
-### Three-line list
+### 三行文字清單
 
-#### Text only
+#### 僅有文字
 
 主要文字字體: Roboto Regular 16 sp
 

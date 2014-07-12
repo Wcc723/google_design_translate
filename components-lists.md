@@ -90,15 +90,15 @@
 
 ## 排版線
 
-In a **single-line** list, each tile contains a single line of text. The amount of text can vary between tiles within the same list.
+在一個**單行文字**清單中，每個磁磚都包含單行文字。在同一個列表中，各個磁磚內的字數是可以不等的。
 
 ![](images/components/components-keylinesinlists-1_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-keylinesinlists-2_large_mdpi.png)
 
-**Context**
+**使用情境**
 
 In a **two-line** list, each tile contains a maximum of two lines of text. The amount of text can vary between tiles within the same list.
 

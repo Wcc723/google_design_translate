@@ -2,8 +2,6 @@
 
 It can sometimes be difficult for a user to know where to focus their attention in an app or how an app element got from point A to point B. Carefully choreographed motion design can effectively guide the user’s attention and focus through multiple steps of a process or procedure; avoid confusion when layouts change or elements are rearranged; and improve the overall beauty of the experience. Motion design should not only be beautiful, but serve a functional purpose.
 
-## Examples
-
 Examples
 
 <video controls="" width="622" height="360" >

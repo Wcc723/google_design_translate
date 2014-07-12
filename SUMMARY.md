@@ -5,8 +5,8 @@
 * Animation
 	* [逼真的動畫效果](animation-authentic-motion.md)
 	* [Responsive Interaction](animation-responsive-interaction.md)
-	* [Meaningful Transitions](animation-meaningful-transitions.md)
-	* [Delightful Details](animation-delightful-details.md)
+	* [有意義的動畫](animation-meaningful-transitions.md)
+	* [討人歡心的細節](animation-delightful-details.md)
 * Style
 	* [顏色](style-color.md)
 	* [排版樣式](style-typography.md)
@@ -43,12 +43,12 @@
 	* [Imagery Treatment](patterns-imagery-treatment.md)
 	* [Search](patterns-search.md)
 * Usability
-	* [Accessibility](usability-accessibility.md)
+	* [親和性](usability-accessibility.md)
 * Resources
 	* [版型架構](resources-layout-templates.md)
-	* [Sticker Sheets](resources-sticker-sheets.md)
-	* [Roboto Font](resources-roboto-font.md)
-	* [Color Palettes](resources-color-palettes.md)
+	* [貼紙範本](resources-sticker-sheets.md)
+	* [Roboto 字型](resources-roboto-font.md)
+	* [調色板](resources-color-palettes.md)
 
 
 

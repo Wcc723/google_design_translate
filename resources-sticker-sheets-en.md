@@ -1,70 +1,71 @@
-Resources > Sticker Sheets
 
-
-
-Sticker Sheets
+# Sticker Sheets
 
 Contents
-Structural Elements
-Containers
-UI Elements
-Structural Elements
+> Structural Elements
+> Containers
+> UI Elements
+
+## Structural Elements
 
 The Structural Elements sticker sheet contains various elements that make up layouts. The sticker sheet contains light and dark themes for the status bar, app bar, bottom toolbar, cards, dropdowns, search field, dividers, side nav, dialog, and floating action buttons.
 
-Structural Elements
-1.2 MB (.ai)
-Containers
+> [Structural Elements](http://material-design.storage.googleapis.com/downloads/stickersheet_uielements.ai)
+*1.2 MB (.ai)*
+
+## Containers
 
 Download files below.
 
-Cards Stickersheet
-346.84 MB (.ai)
+> [Cards Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_cards.ai)
+*346.84 MB (.ai)*
 
-Dialogs Stickersheet
-14.88 MB (.ai)
+> [Dialogs Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_dialogs.ai)
+*14.88 MB (.ai)*
 
-Dividers Stickersheet
-111.5 MB (.ai)
+> [Dividers Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_dividers.ai)
+*111.5 MB (.ai)*
 
-Grids Stickersheet
-235.61 MB (.ai)
+> [Grids Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_grids.ai)
+*235.61 MB (.ai)*
 
-Lists Stickersheet
-506.47 MB (.ai)
+> [Lists Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_lists.ai)
+*506.47 MB (.ai)*
 
-Bottomsheet Stickersheet
-41.64 MB (.ai)
+> [Bottomsheet Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_bottomsheets.ai)
+*41.64 MB (.ai)*
 
-Subheaders Stickersheet
-58.88 MB (.ai)
+> [Subheaders Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_subheads.ai)
+*58.88 MB (.ai)*
 
-Tabs Stickersheet
-183.18 MB (.ai)
-UI Elements
+> [Tabs Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_tabs.ai)
+*183.18 MB (.ai)*
+
+
+## UI Elements
 
 Download files below.
 
-Buttons Stickersheet
-50.86 MB (.ai)
+> [Buttons Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_buttons.ai)
+*50.86 MB (.ai)*
 
-Chips & Tokens Stickersheet
-22.16 MB (.ai)
+> [Chips & Tokens Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_chips.ai)
+*22.16 MB (.ai)*
 
-List Controls Stickersheet
-81.06 MB (.ai)
+> [List Controls Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_listcontrols.ai)
+*81.06 MB (.ai)*
 
-Sliders Stickersheet
-0.77 MB (.ai)
+> [Sliders Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_sliders.ai)
+*0.77 MB (.ai)*
 
-Snackbar & Toast Stickersheet
-5.28 MB (.ai)
+> [Snackbar & Toast Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_toasts.ai)
+*5.28 MB (.ai)*
 
-Switches Stickersheet
-0.34 MB (.ai)
+> [Switches Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_switches.ai)
+*0.34 MB (.ai)*
 
-Text Fields Stickersheet
-34 MB (.ai)
+> [Text Fields Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_textfields.ai)
+*34 MB (.ai)*
 
-Tooltips Stickersheet
-32.9 MB (.ai)
+> [Tooltips Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_tooltips.ai)
+*32.9 MB (.ai)*

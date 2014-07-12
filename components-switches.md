@@ -1,4 +1,4 @@
-# Switches
+# 開關
 
 Switches allow the user to select options. There are three kinds of switches: checkboxes, radio buttons, and on/off switches.
 

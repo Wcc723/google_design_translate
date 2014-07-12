@@ -1,6 +1,6 @@
 # Introduction
 
-![Intro](http://material-design.storage.googleapis.com/images/materialdesign-goals-landingimage_large_mdpi.png)
+![Intro](images/introduction/materialdesign-goals-landingimage_large_mdpi.png)
 
 We challenged ourselves to create a visual language for our users that synthesizes the classic principles of good design with the innovation and possibility of technology and science. This is material design. This spec is a living document that will be updated as we continue to develop the tenets and specifics of material design.
  
@@ -13,18 +13,18 @@ We challenged ourselves to create a visual language for our users that synthesiz
 
 Create a visual language that synthesizes classic principles of good design with the innovation and possibility of technology and science.
 
-![Goal](http://material-design.storage.googleapis.com/images/materialdesign-goals-swirlanddot_large_mdpi.png)
+![Goal](images/introduction/materialdesign-goals-swirlanddot_large_mdpi.png)
 
 
 Develop a single underlying system that allows for a unified experience across platforms and device sizes. Mobile precepts are fundamental, but touch, voice, mouse, and keyboard are all ﬁrst-class input methods.
 
-![](http://material-design.storage.googleapis.com/images/materialdesign-goals-cutrectangles_large_mdpi.png)
+![](images/introduction/materialdesign-goals-cutrectangles_large_mdpi.png)
 
 ----
 
 ## Principles
 
-![Principles](http://material-design.storage.googleapis.com/images/materialdesign-principles-layersquares_large_mdpi.png)
+![Principles](images/introduction/materialdesign-principles-layersquares_large_mdpi.png)
 
 > Material is the metaphor
 
@@ -35,7 +35,7 @@ Surfaces and edges of the material provide visual cues that are grounded in real
 The fundamentals of light, surface, and movement are key to conveying how objects move, interact, and exist in space in relation to each other. Realistic lighting shows seams, divides space, and indicates moving parts.
 
 
-![](http://material-design.storage.googleapis.com/images/materialdesign-principles-circleplus_large_mdpi.png)
+![](images/introduction/materialdesign-principles-circleplus_large_mdpi.png)
 
 > Bold, graphic, intentional
 
@@ -44,7 +44,7 @@ The foundational elements of print-based design—typography, grids, space, scal
 An emphasis on user actions makes core functionality immediately apparent and provides waypoints for the user.
 
 
-![](http://material-design.storage.googleapis.com/images/materialdesign-principles-flyingsquare_large_mdpi.png)
+![](images/introduction/materialdesign-principles-flyingsquare_large_mdpi.png)
 
 > Motion provides meaning
 

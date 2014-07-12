@@ -1,6 +1,6 @@
 # 介紹
 
-![Intro](/images/introduction/materialdesign-goals-landingimage_large_xhdpi.png)
+![Intro](images/introduction/materialdesign-goals-landingimage_large_xhdpi.png)
 
 
 我們挑戰自己，為我們的用戶創造一種視覺語言，遵循創新技術和科學的可能性，
@@ -13,20 +13,20 @@
 創造一種視覺語言，遵循創新技術和科學的可能性，
 組合出良好設計的經典原則。
 
-![Goal](/images/introduction/materialdesign-goals-swirlanddot_large_xhdpi.png)
+![Goal](images/introduction/materialdesign-goals-swirlanddot_large_xhdpi.png)
 
 
 開發一個單一的基礎系統，允許跨平台裝置和設備大小，並統一使用者的體驗。
 行動裝置的限制是基本的，但觸摸，聲音，鼠標和鍵盤都是優異的輸入方式。
 
 
-![](/images/introduction/materialdesign-goals-cutrectangles_large_xhdpi.png)
+![](images/introduction/materialdesign-goals-cutrectangles_large_xhdpi.png)
 
 ----
 
 ## 原則
 
-![Principles](/images/introduction/materialdesign-principles-layersquares_large_xhdpi.png)
+![Principles](images/introduction/materialdesign-principles-layersquares_large_xhdpi.png)
 
 > 質感隱喻
 
@@ -41,7 +41,7 @@
 
 
 
-![](/images/introduction/materialdesign-principles-circleplus_large_xhdpi.png)
+![](images/introduction/materialdesign-principles-circleplus_large_xhdpi.png)
 
 > 大膽、圖形、動機
 
@@ -50,7 +50,7 @@
 邊緣連接邊緣的圖像，大規模的排版，以及故意空白打造出大膽的圖形界面，讓用戶沉浸在使用者體驗。 
 
 
-![](/images/introduction/materialdesign-principles-flyingsquare_large_xhdpi.png)
+![](images/introduction/materialdesign-principles-flyingsquare_large_xhdpi.png)
 
 > 動畫提供意義
 

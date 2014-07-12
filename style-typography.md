@@ -7,7 +7,7 @@
 > [Roboto font](http://material-design.storage.googleapis.com/downloads/RobotoTTF.zip) *1.21 MB (.zip)*
 
 
-![](/images/style/style-typography-roboto-typography.roboto2_specimen_large_mdpi.png)
+![](images/style/style-typography-roboto-typography.roboto2_specimen_large_mdpi.png)
 
 ## 標準樣式
 
@@ -20,56 +20,56 @@
 文字尺寸指定伸縮像素(SP)可以使大尺寸的文字提高 [可訪問性](http://www.google.com/design/spec/usability/accessibility.html)。
 
 
-![](/images/style/style-typography1_large_mdpi.png)
+![](images/style/style-typography1_large_mdpi.png)
 
-![](/images/style/style-typography-8_large_mdpi.png)
+![](images/style/style-typography-8_large_mdpi.png)
 
 > 使用 Display  樣式的範例
 
-![](/images/style/style-typography2_large_mdpi.png)
+![](images/style/style-typography2_large_mdpi.png)
 
-![](/images/style/style-typography4_large_mdpi.png)
+![](images/style/style-typography4_large_mdpi.png)
 
 > 使用 Headline 樣式的範例
 
-![](/images/style/style-typography5_large_mdpi.png)
+![](images/style/style-typography5_large_mdpi.png)
 
 跳過許多元素，所有出現在標題列的應用欄都應該使用Title樣式。
 
-![](/images/style/style-typography6_large_mdpi.png)
+![](images/style/style-typography6_large_mdpi.png)
 
 > 使用 Title 樣式的範例
 
-![](/images/style/style-typography7_large_mdpi.png)
+![](images/style/style-typography7_large_mdpi.png)
 
 有些時候大的 Subhead 樣式會使用較小的Body樣式來替代，
 這些範例包括當資訊是介紹用途的一個小片段；
 或當標題與 Body-styled 這行的文字是互相配對的時候。
 
 
-![](/images/style/style-typography9_large_mdpi.png)
+![](images/style/style-typography9_large_mdpi.png)
 
 > 使用 Subhead  樣式的範例
 
-![](/images/style/style-typography-23_large_mdpi.png)
+![](images/style/style-typography-23_large_mdpi.png)
 
-![](/images/style/style-typography10_large_mdpi.png)
-
-> 使用 Body  樣式的範例
-
-![](/images/style/style-typography11_large_mdpi.png)
-
-![](/images/style/style-typography12_large_mdpi.png)
+![](images/style/style-typography10_large_mdpi.png)
 
 > 使用 Body  樣式的範例
 
-![](/images/style/style-typography13_large_mdpi.png)
+![](images/style/style-typography11_large_mdpi.png)
 
-![](/images/style/style-typography14_large_mdpi.png)
+![](images/style/style-typography12_large_mdpi.png)
+
+> 使用 Body  樣式的範例
+
+![](images/style/style-typography13_large_mdpi.png)
+
+![](images/style/style-typography14_large_mdpi.png)
 
 > 使用 Button 樣式的範例
 
-![](/images/style/style-typography15_large_mdpi.png)
+![](images/style/style-typography15_large_mdpi.png)
 
 ### 基本顏色/顏色對比
 
@@ -82,15 +82,15 @@
 這些顏色的組合都有經過對比比率的考慮，
 為了非典型使用者的回應。
 
-![](/images/style/style-typography-16_large_mdpi.png)
+![](images/style/style-typography-16_large_mdpi.png)
 
-![](/images/style/style-typography-17_large_mdpi.png)
+![](images/style/style-typography-17_large_mdpi.png)
 
-![](/images/style/style-typography-18_large_mdpi.png)
+![](images/style/style-typography-18_large_mdpi.png)
 
-![](/images/style/style-typography-19_large_mdpi.png)
+![](images/style/style-typography-19_large_mdpi.png)
 
-![](/images/style/style-typography-20_large_mdpi.png)
+![](images/style/style-typography-20_large_mdpi.png)
 
 ### 大型字/流動文字
 
@@ -101,15 +101,15 @@
 強烈不建議慣用小型文字去符合一個糟糕的專案，
 並依靠其作為退而求其次的最後手段。
 
-![](/images/style/style-typography-21_large_mdpi.png)
+![](images/style/style-typography-21_large_mdpi.png)
 
 > 搭配 的範例
 
-![](/images/style/style-typography-22_large_mdpi.png)
+![](images/style/style-typography-22_large_mdpi.png)
 
-![](/images/style/style-typography-23_large_mdpi.png)
+![](images/style/style-typography-23_large_mdpi.png)
 
-![](/images/style/style-typography-24_large_mdpi.png)
+![](images/style/style-typography-24_large_mdpi.png)
 
 ### 行高
 
@@ -118,22 +118,22 @@
 其他的樣式則應該以單行的文字顯示。
  
 
-![](/images/style/style-typography-25_large_mdpi.png)
+![](images/style/style-typography-25_large_mdpi.png)
 
 > 搭配的範例
 
-![](/images/style/style-typography-27_large_mdpi.png)
+![](images/style/style-typography-27_large_mdpi.png)
 
-![](/images/style/style-typography-30_large_mdpi.png)
+![](images/style/style-typography-30_large_mdpi.png)
 
 
 ### 斷行規則/斷字
 
-![](/images/style/style-typography-32_large_mdpi.png)
+![](images/style/style-typography-32_large_mdpi.png)
 
 > 可行
 
-![](/images/style/style-typography-33_large_mdpi.png)
+![](images/style/style-typography-33_large_mdpi.png)
 
 > 不可行
 
@@ -156,13 +156,13 @@
 
 來源：[Readability: the Optimal Line Length](http://baymard.com/blog/line-length-readability)
 
-![](/images/style/style-typography-34_large_mdpi.png)
+![](images/style/style-typography-34_large_mdpi.png)
 
 > - 太窄
 > - 理想範圍
 > - 太寬
 
-![](/images/style/style-typography-34_large_mdpi.png)
+![](images/style/style-typography-34_large_mdpi.png)
 
 > - 太窄
 > - 理想範圍
@@ -170,6 +170,6 @@
 
 ### 和字距調整
 
-![](/images/style/style-typography-36_large_mdpi.png)
+![](images/style/style-typography-36_large_mdpi.png)
 
 > *翻譯： Tillonter*

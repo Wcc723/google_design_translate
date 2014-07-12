@@ -62,4 +62,4 @@
 
 ----
 
-> *翻譯： [Tillonter](https://www.facebook.com/profile.php?id=100000295862188)*
+> *翻譯： Tillonter*

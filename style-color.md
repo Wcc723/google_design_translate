@@ -545,9 +545,7 @@
 
 ![](http://material-design.storage.googleapis.com/images/Style-Color-Themes-theme-02_large_xhdpi.png)
 
-> *翻譯： [Tillonter](https://www.facebook.com/profile.php?id=100000295862188)*
-
-
+> *翻譯： Tillonter*
 
 
 

@@ -172,4 +172,4 @@
 
 ![](/images/style/style-typography-36_large_mdpi.png)
 
-> *翻譯： [Tillonter](https://www.facebook.com/profile.php?id=100000295862188)*
+> *翻譯： Tillonter*

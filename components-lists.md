@@ -262,110 +262,110 @@ Center-align icon with text area.
 
 磁磚高度: 72 dp
 
-Left avatar padding: 16 dp
+(畫面)左邊界到大頭照的距離: 16 dp
 
-Text left padding: 72 dp
+(畫面)左邊界到文字的距離: 72 dp
 
-Text top and bottom padding: 16 dp
+文字上方與下方的內距: 16 dp
 
 Right icon padding: 16 dp
 
-Add 8 dp padding at the top and bottom of a list. One exception is at the top of a list with a subheader, because subheaders contain their own padding.
+在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
 ![](images/components/components-recommendedtwolinelists-9_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedtwolinelists-10_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedtwolinelists-11_large_mdpi.png)
 
-**Context**
+**使用情境**
 
 ### Three-line list
 
 #### Text only
 
-Primary text font: Roboto Regular 16 sp
+主要文字字體: Roboto Regular 16 sp
 
-Secondary text font: Roboto Regular 14 sp
+次要文字字體: Roboto Regular 14 sp
 
-Tile height: 88 dp
+磁磚高度: 88 dp
 
 Text padding: 16 dp
 
-Add 8 dp padding at the top and bottom of a list. One exception is at the top of a list with a subheader, because subheaders contain their own padding.
+在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
 ![](images/components/components-recommendedthreelinelists-1_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedthreelinelists-2_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedthreelinelists-3_large_mdpi.png)
 
-**Context**
+**使用情境**
 
 #### Avatar with text
 
-Primary text font: Roboto Regular 16 sp
+主要文字字體: Roboto Regular 16 sp
 
-Secondary text font: Roboto Regular 14 sp
+次要文字字體: Roboto Regular 14 sp
 
-Tile height: 88 dp
+磁磚高度: 88 dp
 
-Left avatar padding: 16 dp
+(畫面)左邊界到大頭照的距離: 16 dp
 
 Left text padding: 72 dp
 
 Top-align avatar with primary text.
 
-Add 8 dp padding at the top and bottom of a list. One exception is at the top of a list with a subheader, because subheaders contain their own padding.
+在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
 ![](images/components/components-recommendedthreelinelists-6_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedthreelinelists-7_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedthreelinelists-10_large_mdpi.png)
 
-**Context**
+**使用情境**
 
 #### Avatar with text and icon
 
-Primary text font: Roboto Regular 16 sp
+主要文字字體: Roboto Regular 16 sp
 
-Secondary text font: Roboto Regular 14 sp
+次要文字字體: Roboto Regular 14 sp
 
-Tile height: 88 dp
+磁磚高度: 88 dp
 
-Left avatar padding: 16 dp
+(畫面)左邊界到大頭照的距離: 16 dp
 
-Text left padding: 72 dp
+(畫面)左邊界到文字的距離: 72 dp
 
-Text top and bottom padding: 16 dp
+文字上方與下方的內距: 16 dp
 
 Right icon padding: 16 dp
 
 Top-align avatar and icon with primary text.
 
-Add 8 dp padding at the top and bottom of a list. One exception is at the top of a list with a subheader, because subheaders contain their own padding.
+在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
 ![](images/components/components-recommendedthreelinelists-8_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedthreelinelists-9_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedthreelinelists-12_large_mdpi.png)
 
-**Context**
+**使用情境**

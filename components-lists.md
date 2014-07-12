@@ -124,7 +124,7 @@
 
 ### 單行文字清單
 
-#### 只有文字
+#### 僅有文字
 
 字體: Roboto Regular 16 sp
 
@@ -198,9 +198,9 @@
 
 **使用情境**
 
-### Two-line list
+### 雙行文字清單
 
-#### Text only
+#### 僅有文字
 
 主要文字字體: Roboto Regular 16 sp
 
@@ -238,7 +238,7 @@
 
 文字上方與下方的內距: 16 dp
 
-Center-align icon with text area.
+圖示對準文字區域垂直置中。
 
 在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
@@ -268,7 +268,7 @@ Center-align icon with text area.
 
 文字上方與下方的內距: 16 dp
 
-Right icon padding: 16 dp
+(畫面)右邊界到圖示的距離: 16 dp
 
 在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
@@ -294,7 +294,7 @@ Right icon padding: 16 dp
 
 磁磚高度: 88 dp
 
-Text padding: 16 dp
+文字內距: 16 dp
 
 在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
@@ -310,7 +310,7 @@ Text padding: 16 dp
 
 **使用情境**
 
-#### Avatar with text
+#### 帶有文字的大頭貼
 
 主要文字字體: Roboto Regular 16 sp
 
@@ -320,9 +320,9 @@ Text padding: 16 dp
 
 (畫面)左邊界到大頭照的距離: 16 dp
 
-Left text padding: 72 dp
+(畫面)右邊界到圖示的距離: 72 dp
 
-Top-align avatar with primary text.
+大頭貼對齊主要文字上方。
 
 在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
@@ -338,7 +338,7 @@ Top-align avatar with primary text.
 
 **使用情境**
 
-#### Avatar with text and icon
+#### 帶有文字和圖示的大頭貼
 
 主要文字字體: Roboto Regular 16 sp
 
@@ -352,9 +352,9 @@ Top-align avatar with primary text.
 
 文字上方與下方的內距: 16 dp
 
-Right icon padding: 16 dp
+(畫面)右邊界到圖示的距離: 16 dp
 
-Top-align avatar and icon with primary text.
+大頭貼和圖示對齊主要文字上方。
 
 在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 

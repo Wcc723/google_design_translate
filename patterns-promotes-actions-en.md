@@ -3,9 +3,11 @@ Patterns > Promoted Actions
 
 Promoted Actions
 
+
 Contents
 Floating Action Button
 Floating Action Button
+
 
 Floating action buttons are a special case of promoted actions. They are distinguished by a circled icon floating above the UI and have special motion behaviors, related to morphing, launching, and its transferring anchor point.
 

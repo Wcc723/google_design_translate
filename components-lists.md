@@ -100,103 +100,103 @@
 
 **使用情境**
 
-In a **two-line** list, each tile contains a maximum of two lines of text. The amount of text can vary between tiles within the same list.
+在一個**雙行文字**清單中，每個磁磚最多可包含兩行文字。在同一個列表中，各個磁磚內的字數是可以不等的。
 
 ![](images/components/components-keylinesinlists-3_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-keylinesinlists-4_large_mdpi.png)
 
-**Context**
+**使用情境**
 
-In a three-line list, each tile contains a maximum of three lines of text.
+在一個三行文字清單中，每個磁磚最多可包含三行文字。
 
-The amount of text can vary between tiles within the same list.
+在同一個列表中，各個磁磚內的字數是可以不等的。
 
 ![](images/components/components-keylinesinlists-5_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-keylinesinlists-6_large_mdpi.png)
 
-**Context**
+**使用情境**
 
-### Single-line list
+### 單行文字清單
 
-#### Text only
+#### 只有文字
 
-Font: Roboto Regular 16 sp
+字體: Roboto Regular 16 sp
 
-Tile height: 48 dp
+磁磚高度: 48 dp
 
-Text padding: 16 dp
+文字內間距: 16 dp
 
-Add 8 dp padding at the top and bottom of a list. One exception is at the top of a list with a subheader, because subheaders contain their own padding.
+在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
 ![](images/components/components-singlelinelists-1_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-singlelinelists-2_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-singlelinelists-6_large_mdpi.png)
 
-**Context**
+**元素**
 
-#### Icon with text
+#### 帶有文字的圖示
 
-Font: Roboto Regular 16 sp
+字體: Roboto Regular 16 sp
 
-Tile height: 48 dp
+磁磚高度: 48 dp
 
-Left icon padding: 16 dp
+(畫面)左邊界到圖示的距離: 16 dp
 
-Text left padding: 72 dp
+(畫面)左邊界到文字的距離: 72 dp
 
-Text top and bottom padding: 16 dp
+文字上方與下方的內距: 16 dp
 
-Add 8 dp padding at the top and bottom of a list. One exception is at the top of a list with a subheader, because subheaders contain their own padding.
+在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
 ![](images/components/components-singlelinelists-7_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-singlelinelists-8_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-singlelinelists-3_large_mdpi.png)
 
-**Context**
+**元素**
 
-#### Avatar with text
+#### 帶有文字的大頭照
 
-Font: Roboto Regular 16 sp
+字體: Roboto Regular 16 sp
 
-Tile height: 56 dp
+磁磚高度: 56 dp
 
-Left avatar padding: 16 dp
+(畫面)左邊界到大頭照的距離: 16 dp
 
-Text left padding: 72 dp
+(畫面)左邊界到文字的距離: 72 dp
 
-Text top and bottom padding: 20 dp
+文字上方與下方的內距: 20 dp
 
-Add 8 dp padding at the top and bottom of a list. One exception is at the top of a list with a subheader, because subheaders contain their own padding.
+在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
 ![](images/components/components-singlelinelists-7_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-singlelinelists-8_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-singlelinelists-11_large_mdpi.png)
 
-**Context**
+**元素**
 
 ### Two-line list
 

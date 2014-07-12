@@ -6,7 +6,7 @@ Note: The graphic rings illustrated in the following examples represent animatio
 
 ---
 
-## Checkbox
+## 核取方塊
 
 Checkboxes allow the user to select multiple options from a set.
 
@@ -28,7 +28,7 @@ Checkboxes use animation to communicate focused and pressed states.
 
 ---
 
-## Radio Button
+## 選項按鈕
 
 Radio buttons allow the user to select one option from a set. Use radio buttons for exclusive selection if you think that the user needs to see all available options side-by-side.
 
@@ -46,7 +46,7 @@ Radio buttons use animation to communicate focused and pressed states.
 
 ---
 
-## Switch
+## 切換開關
 
 On/off switches toggle the state of a single settings option. The option that the switch controls, as well as the state it’s in, should be made clear from the corresponding inline label. Switches will take on the same visual properties of the radio button.
 

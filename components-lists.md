@@ -144,7 +144,7 @@
 
 ![](images/components/components-singlelinelists-6_large_mdpi.png)
 
-**元素**
+**使用情境**
 
 #### 帶有文字的圖示
 
@@ -170,7 +170,7 @@
 
 ![](images/components/components-singlelinelists-3_large_mdpi.png)
 
-**元素**
+**使用情境**
 
 #### 帶有文字的大頭照
 
@@ -196,7 +196,7 @@
 
 ![](images/components/components-singlelinelists-11_large_mdpi.png)
 
-**元素**
+**使用情境**
 
 ### Two-line list
 
@@ -226,41 +226,41 @@
 
 #### Avatar with text
 
-Primary text font: Roboto Regular 16 sp
+主要文字字體: Roboto Regular 16 sp
 
-Secondary text font: Roboto Regular 14 sp
+次要文字字體: Roboto Regular 14 sp
 
-Tile height: 72 dp
+磁磚高度: 72 dp
 
-Left avatar padding: 16 dp
+(畫面)左邊界到大頭照的距離: 16 dp
 
-Text left padding: 72 dp
+(畫面)左邊界到文字的距離: 72 dp
 
-Text top and bottom padding: 16 dp
+文字上方與下方的內距: 16 dp
 
 Center-align icon with text area.
 
-Add 8 dp padding at the top and bottom of a list. One exception is at the top of a list with a subheader, because subheaders contain their own padding.
+在清單的頂部和底部會(自動)增加 8 dp 的內距。唯一的例外是在清單頂部使用子標題，因為子標題已經有他們自己的內距了。
 
 ![](images/components/components-recommendedtwolinelists-6_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedtwolinelists-7_large_mdpi.png)
 
-**Element**
+**元素**
 
 ![](images/components/components-recommendedtwolinelists-8_large_mdpi.png)
 
-**Context**
+**使用情境**
 
 #### Avatar with text and icon
 
-Primary text font: Roboto Regular 16 sp
+主要文字字體: Roboto Regular 16 sp
 
-Secondary text font: Roboto Regular 14 sp
+次要文字字體: Roboto Regular 14 sp
 
-Tile height: 72 dp
+磁磚高度: 72 dp
 
 Left avatar padding: 16 dp
 

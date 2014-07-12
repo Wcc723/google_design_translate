@@ -369,3 +369,5 @@
 ![](images/components/components-recommendedthreelinelists-12_large_mdpi.png)
 
 **使用情境**
+
+> *翻譯：[陳聖博](https://www.facebook.com/Shengbo.Arthur.Chen)*

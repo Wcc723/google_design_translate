@@ -45,7 +45,7 @@
 * Usability
 	* [Accessibility](usability-accessibility.md)
 * Resources
-	* [Layout Templates](resources-layout-templates.md)
+	* [版型架構](resources-layout-templates.md)
 	* [Sticker Sheets](resources-sticker-sheets.md)
 	* [Roboto Font](resources-roboto-font.md)
 	* [Color Palettes](resources-color-palettes.md)

@@ -1,9 +1,5 @@
 # 開關
 
-Switches allow the user to select options. There are three kinds of switches: checkboxes, radio buttons, and on/off switches.
-
-Note: The graphic rings illustrated in the following examples represent animation and do not represent what buttons should look like in implementation.
-
 開關提供選項讓使用者選擇。有三種類型的開關：核取方塊、選項按鈕和 on/off 開關。
 
 注意：在接下來的例子中的圓形(譯註：半透明的)是代表一個(操作)動畫，並非按鈕實際的外觀。

@@ -24,7 +24,7 @@
 	* [對話框](components-dialogs.md)
 	* [分隔器](components-dividers.md)
 	* [網格](components-grids.md)
-	* [Lists](components-lists.md)
+	* [清單](components-lists.md)
 	* [List Controls](components-list-controls.md)
 	* [Menus](components-menus.md)
 	* [Prosgress and Activity](components-prosgress-and-activity.md)

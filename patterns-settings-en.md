@@ -32,6 +32,8 @@ If they include some of your most important settings, list them at the top witho
 Otherwise, list them at the bottom with a section divider called "OTHER", in order of importance.
 
 
+
+
 11 to 15 settings
 Same advice as above, but try 2 to 4 section dividers.
 
@@ -39,8 +41,12 @@ Also, look for "doubles": two settings that relate to one another, but not to an
 
 
 
+
 16 or more settings
 If you have any instances of 4 or more related settings, group them under a subscreen. Apply the guidance above to each subscreen.
+
+
+
 Choosing defaults
 
 Users will expect the initial value for each setting to be sensible. The following questions can help inform your decisions: Which choice would most users be likely to choose on their own if there were no default? Which choice is the most neutral or middle-of-the-road? Which choice is the least risky, controversial, or over-the-top? Which choice uses the least amount of battery or mobile data? Which choice most respects the user’s attention, and only interrupts when it is important?

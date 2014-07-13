@@ -4,14 +4,14 @@
 	* [介紹](material-design-introduction.md)
 * Animation
 	* [逼真的動畫效果](animation-authentic-motion.md)
-	* [Responsive Interaction](animation-responsive-interaction.md)
+	<!-- * [Responsive Interaction](animation-responsive-interaction.md) -->
 	* [有意義的動畫](animation-meaningful-transitions.md)
 	* [討人歡心的細節](animation-delightful-details.md)
 * Style
 	* [顏色](style-color.md)
 	* [排版樣式](style-typography.md)
-	* [Icons](style-icons.md)
-	* [Imagery](style-imagery.md)
+	<!-- * [Icons](style-icons.md) -->
+	<!-- * [Imagery](style-imagery.md) -->
 * Layout
 	* [原則](layout-principles.md)
 	* [指標及標線](layout-metrics-and-keylines.md)
@@ -25,23 +25,23 @@
 	* [分隔器](components-dividers.md)
 	* [網格](components-grids.md)
 	* [清單](components-lists.md)
-	* [List Controls](components-list-controls.md)
-	* [Menus](components-menus.md)
-	* [Prosgress and Activity](components-prosgress-and-activity.md)
-	* [Sliders](components-sliders.md)
-	* [Snackbars and Toasts](components-snackbars-and-toasts.md)
-	* [Subheaders](components-subheaders.md)
-	* [Switches](components-switches.md)
-	* [Tabs](components-tabs.md)
-	* [Text Fields](components-text-fields.md)
-	* [Tooltips](components-tooltips.md)
+	<!-- * [List Controls](components-list-controls.md) -->
+	<!-- * [Menus](components-menus.md) -->
+	<!-- * [Prosgress and Activity](components-prosgress-and-activity.md) -->
+	<!-- * [Sliders](components-sliders.md) -->
+	<!-- * [Snackbars and Toasts](components-snackbars-and-toasts.md) -->
+	<!-- * [Subheaders](components-subheaders.md) -->
+	<!-- * [Switches](components-switches.md) -->
+	<!-- * [Tabs](components-tabs.md) -->
+	<!-- * [Text Fields](components-text-fields.md) -->
+	<!-- * [Tooltips](components-tooltips.md) -->
 * Patterns
-	* [Selection](patterns-selection.md)
+	<!-- * [Selection](patterns-selection.md)
 	* [Gestures](patterns-gestures.md)
 	* [Promotes Actions](patterns-promotes-actions.md)
 	* [Settings](patterns-settings.md)
 	* [Imagery Treatment](patterns-imagery-treatment.md)
-	* [Search](patterns-search.md)
+	* [Search](patterns-search.md) -->
 * Usability
 	* [親和性](usability-accessibility.md)
 * Resources

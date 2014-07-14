@@ -1,14 +1,14 @@
 # 文字輸入框
 
-Text fields allow the user to input text. They can be single line, with or without scrolling, or multi-line, and can have an icon. Touching a text field places the cursor and automatically displays the keyboard. In addition to typing, text fields allow for a variety of other tasks, such as text selection (cut, copy, paste) and data lookup via auto-completion. See Patterns > Selection for text selection design.
+輸入框允許使用者輸入文字。可以是單行，啟用有或沒有捲軸，或者是多行，並且也可以具有圖示的輸入框。接觸時輸入框位置會放置游標，並且自動顯示鍵盤。除了打字之外，文字輸入框允許其他各種任務，例如文字選擇（剪下，複製，貼上）以及資料透過自動完成功能查詢。詳見 模式> 文字選擇設計
 
-Text fields can have different types. The type determines what kind of characters are allowed inside the field and may prompt the virtual keyboard to optimize its layout for frequently used characters. Common types include number, text, email address, phone number, person’s name, username, URL, street address, credit card number, PIN, and search query.
+文字輸入框可以有不同的類型。類型決定什麼樣的字符可以允許在領域裡，可能會提示虛擬鍵盤優化字符的佈局。常見類型包含數字，文字，電子信箱，電話號碼，個人姓名，帳號，網址，街道位置，信用卡號碼，PIN 以及查詢功能。
 
 --- 
 
 ## 單行文字框
 
-Single-line fields automatically scroll their content to the left as the text input cursor reaches the right edge of the input field.
+單行欄位在輸入時會自動從內文的左方直到游標至輸入框的右方邊緣
 
 ![](images/components/components-textfields-singlelinetextfields-textfields_single_03_large_mdpi.png)
 
@@ -16,10 +16,10 @@ Single-line fields automatically scroll their content to the left as the text in
 
 ### 亮色主題 
 
-- Hint and input font: Roboto Regular 16 sp
-- Tile height: 48 dp
-- Text top and bottom padding: 16 dp
-- Text field divider padding: 8 dp
+- 提示及輸入字體： Roboto Regular 16 sp
+- 方塊高度：48 dp
+- 文字的上下內距： 16 dp
+- 輸入框分隔器內距： 8 dp
 
 ![](images/components/components-textfields-singlelinetextfields-textfields_single_06_large_mdpi.png)
 
@@ -33,10 +33,10 @@ Single-line fields automatically scroll their content to the left as the text in
 
 ### 包含圖示的亮色主題
 
-- Hint and input font: Roboto Regular 16 sp
-- Tile height: 48 dp
-- Text top and bottom padding: 16 dp
-- Text field divider padding: 8dp
+- 提示及輸入字體： Roboto Regular 16 sp
+- 方塊高度： 48 dp
+- 文字的上下內距： 16 dp
+- 輸入框分隔器內距： 8dp
 
 ![](images/components/components-textfields-singlelinetextfields-textfields_single_10_large_mdpi.png)
 
@@ -52,11 +52,11 @@ Single-line fields automatically scroll their content to the left as the text in
 
 ## 包含滾動的單行文字框
 
-### Single-Line with Scrolling
+### 搭配捲軸的單行輸入框
 
-When text input in a single-line field is long and spans multiple lines, the text field should scroll to accommodate the text.
+當單列欄的輸入框是很長且跨越多行，則輸入框應該啟用滾動方式以能夠容納文字
 
-In the scrolling text field, a graphical indicator appears below the line. Touching the ellipsis jumps the cursor back to the beginning of the string.
+在滾動文字輸入框時，有個圖形畫的指示器顯示在線的下方。觸碰時將會跳至字串的最前方。
 
 ### 亮色主題
 
@@ -72,17 +72,17 @@ In the scrolling text field, a graphical indicator appears below the line. Touch
 
 ### 浮動的文字
 
-With floating inline labels, when the user engages with the text input field, the labels move to float above the field.
+當使用者正在輸入框輸入字串時，標籤將會浮動地移至欄位的上方
 
 ![](images/components/components-textfields-floatinglabels-textfields_single_14_large_mdpi.png)
 
 ### 亮色主題
 
-- Hint and input font: Roboto Regular 16 sp
-- Label font: Roboto Regular 12 sp
-- Tile height: 72dp
-- Text top and bottom padding: 16dp
-- Text field divider padding: 8dp
+- 提示及輸入字體： Roboto Regular 16 sp
+- 標籤字體： Roboto Regular 12 sp
+- 區塊高度： 72dp
+- 文字的上下內距： 16dp
+- 輸入框分隔器內距： 8dp
 
 ![](images/components/components-textfields-floatinglabels-textfields_single_17_large_mdpi.png)
 
@@ -98,7 +98,7 @@ With floating inline labels, when the user engages with the text input field, th
 
 ## 多行輸入框
 
-Multi-line text fields automatically break to a new line for overflow text and scroll vertically when the cursor reaches the lower edge.
+多行輸入框當超過字寬度時會自動換行至新的列，並且在游標到最下緣的時候會出現垂直捲軸
 
 ![](images/components/components-textfields-multilinetextfield-textfields_multi_03a_large_mdpi.png)
 
@@ -106,10 +106,10 @@ Multi-line text fields automatically break to a new line for overflow text and s
 
 ### 亮色主題
 
-- Hint and input font: Roboto Regular 16 sp
-- Label font: Roboto Regular 12 sp
-- Text top and bottom padding: 16 dp
-- Text field divider padding: 8 dp
+- 提示及輸入字體： Roboto Regular 16 sp
+- 標籤字體： Roboto Regular 12 sp
+- 文字的上下內距： 16 dp
+- 輸入框分隔器內距： 8 dp
 
 ![](images/components/components-textfields-multilinetextfield-textfields_multi_06_large_mdpi.png)
 
@@ -123,9 +123,9 @@ Multi-line text fields automatically break to a new line for overflow text and s
 
 ---
 
-## 全寬輸入筐
+## 全寬輸入框
 
-Full-width text fields are useful for more in-depth tasks.
+全寬輸入框適合用在較深入的工作項目
 
 ![](images/components/components-textfields-fullwidthtextfield-textfields_multi_10a_large_mdpi.png)
 
@@ -133,8 +133,8 @@ Full-width text fields are useful for more in-depth tasks.
 
 ### 單行與多行輸入框
 
-- Hint and input font: Roboto Regular 16 sp
-- Top and bottom padding for text: 20 dp
+- 提示及輸入字體： Roboto Regular 16 sp
+- 文字的上下內距：: 20 dp
 
 ![](images/components/components-textfields-fullwidthtextfield-textfields_multi_12_large_mdpi.png)
 
@@ -146,11 +146,11 @@ Full-width text fields are useful for more in-depth tasks.
 
 ## 字元數
 
-Use a character counter in fields where a character restriction is in place.
+在欄位上使用字元數可作為字數的限制提醒
 
 ### 包含字元數的單行輸入框
 
-Counter is Roboto Regular 12sp
+字元數是採用 Roboto Regular 12sp
 
 ![](images/components/components-textfields-charactercounter-textfields_counter_03a_large_mdpi.png)
 
@@ -158,7 +158,7 @@ Counter is Roboto Regular 12sp
 
 ### 包含字元數的多行輸入框
 
-- Counter text: Roboto Regular 12 sp
+- 字元數的文字: Roboto Regular 12 sp
 
 ![](images/components/components-textfields-charactercounter-textfields_counter_06a_large_mdpi.png)
 
@@ -178,7 +178,7 @@ Counter is Roboto Regular 12sp
 
 ## 自動輸入文字輸入框
 
-Use auto-complete text fields to present real-time suggestions or completions in popups, so users can enter information more accurately and efficiently.
+使用自動完成輸入框的時候，將會彈出視窗在當前頁面即時提供建議或者完整文字，如此使用者可以更精確以及更高效率的輸入訊息。
 
 ![](images/components/components-textfields-autocompletetextfield-textfields_autocomplete_03a_large_mdpi.png)
 
@@ -196,7 +196,7 @@ Use auto-complete text fields to present real-time suggestions or completions in
 
 ![](images/components/components-textfields-autocompletetextfield-textfields_autocomplete_10_large_mdpi.png)
 
-### Full-width inline auto-complete
+### 全寬行內輸入框自動完成
 
 ![](images/components/components-textfields-autocompletetextfield-textfields_autocomplete_12a_large_mdpi.png)
 
@@ -204,20 +204,20 @@ Use auto-complete text fields to present real-time suggestions or completions in
 
 ![](images/components/components-textfields-autocompletetextfield-textfields_autocomplete_15_large_mdpi.png)
 
-### In-line auto-complete
+### 行內輸入框自動完成
 
 ![](images/components/components-textfields-autocompletetextfield-textfields_autocomplete_18_large_mdpi.png)
 
 ---
 
-## Search Filter
+## 搜尋篩選器
 
-The app bar can act as a text input field. As the user types, the content underneath it is filtered and sorted.
+功能列能夠作為輸入框的欄位。依照類型，其下方的內容進行篩選與排序。
 
 ![](images/components/components.textfields_search_filtering_A_large_mdpi.png)
 
 ![](images/components/components.textfields_search_filtering_B_large_mdpi.png)
 
-### Full-width text field in app bar
+### 功能列上全寬的輸入框
 
 ![](images/components/components-textfields-searchfilter-textfields_filter_06_large_mdpi.png)

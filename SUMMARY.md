@@ -25,9 +25,9 @@
 	* [分隔器](components-dividers.md)
 	* [網格](components-grids.md)
 	* [清單](components-lists.md)
-	<!-- * [List Controls](components-list-controls.md) -->
-	<!-- * [Menus](components-menus.md) -->
-	<!-- * [Prosgress and Activity](components-prosgress-and-activity.md) -->
+	* [清單控制器](components-list-controls.md) 
+	* [菜單](components-menus.md) 
+	* [進度與活動](components-prosgress-and-activity.md) 
 	<!-- * [Sliders](components-sliders.md) -->
 	<!-- * [Snackbars and Toasts](components-snackbars-and-toasts.md) -->
 	<!-- * [Subheaders](components-subheaders.md) -->
@@ -35,7 +35,7 @@
 	<!-- * [Tabs](components-tabs.md) -->
 	<!-- * [Text Fields](components-text-fields.md) -->
 	<!-- * [Tooltips](components-tooltips.md) -->
-* Patterns
+* Patternsr
 	<!-- * [Selection](patterns-selection.md)
 	* [Gestures](patterns-gestures.md)
 	* [Promotes Actions](patterns-promotes-actions.md)

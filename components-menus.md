@@ -1,6 +1,5 @@
 # 菜單
 
----
 
 ## 使用
 
@@ -50,7 +49,7 @@
 
 > 層疊下拉式
 
----
+
 
 ## 菜單項目
 
@@ -90,31 +89,31 @@
 
 ![](images/components/components-menus-behavior-menus-p-01_large_mdpi.png)
 
-好的做法.
+> 好的做法.
 
 ![](images/components/components-menus-behavior-menus-p-02_large_mdpi.png)
 
-不好的做法.
-
-菜單在觸控的位置不需要用水平對齊
+> 不好的做法.
+>
+> 菜單在觸控的位置不需要用水平對齊
 
 ![](images/components/components-menus-behavior-menus-p-03a_large_mdpi.png)
 
-好的做法. 
+> 好的做法. 
 
 ![](images/components/components-menus-behavior-menus-p-03b_large_mdpi.png)
 
-好的做法.
+> 好的做法.
 
 ![](images/components/components-menus-behavior-menus-p-04a_large_mdpi.png)
 
-不好的做法.
+> 不好的做法.
 
 ![](images/components/components-menus-behavior-menus-p-04b_large_mdpi.png)
 
-不好的做法.
+> 不好的做法.
 
----
+
 
 ## 指標
 

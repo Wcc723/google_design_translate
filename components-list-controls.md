@@ -154,3 +154,6 @@
 
 
 ![](images/components/components-listcontrols-typesofmenucontrols-listcontrols_12_large_mdpi.png)
+
+
+> *翻譯： Peter*

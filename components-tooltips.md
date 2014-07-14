@@ -1,39 +1,61 @@
-原件 > 工具提示
+# 工具提示
 
+## 使用方式
 
-工具提示
+原件工具提示的使用方式有兩種：互動式與圖像優先式（非文字式）。
 
-內容
-使用方式
-游標與鍵盤工具提示
-觸控介面工具提示
+![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_06a_large_xhdpi.png)
 
+> 這麼做
 
-使用方式
+![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_06b_large_xhdpi.png)
 
-原件工具提示的使用方式有兩種：互動式與圖像優先式（非文字式）
-
+> 別這麼做
 
 工具提示與滑鼠移過出現的卡片不同，卡片提供的是豐富的資訊，包含圖片或固定格式的文字。
+
 工具提示也不是ALT屬性，ALT屬性通常是標示靜態圖片用的。
 
+![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_13a_large_xhdpi.png)
 
+> 這麼做
 
-游標與鍵盤工具提示
+![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_13b_large_xhdpi.png)
+
+> 別這麼做
+
+## 游標與鍵盤工具提示
 
 文字：Roboto Medium 10 sp
 
 背景顏色充填：90% 透明度
 
 
+![](http://material-design.storage.googleapis.com/images/components-tooltips-cursorkeyboardtooltips-tooltips_09_large_xhdpi.png)
 
-工具提示的運動方式
+![](http://material-design.storage.googleapis.com/images/components-tooltips-cursorkeyboardtooltips-tooltips_03_large_xhdpi.png)
 
+## 工具提示的運動方式
 
-觸控介面工具提示
+<video  width="360" height="384" controls="">
+<source src="//material-design.storage.googleapis.com/videos/components-tooltips-cursorkeyboardtooltips-tooltips_005_large_xhdpi.webm" type="video/webm">
+<source src="//material-design.storage.googleapis.com/videos/components-tooltips-cursorkeyboardtooltips-tooltips_005_large_xhdpi.mp4" type="video/mp4">
+</video>
 
-觸控介面工具提示
+## 觸控介面工具提示
 
+### 觸控介面工具提示
 
 文字：Roboto Medium 14 sp
+
 背景顏色充填：90% 透明度
+
+![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_16_large_xhdpi.png)
+
+![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_15a_large_xhdpi.png)
+
+![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_15b_large_xhdpi.png)
+
+![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_19a_large_xhdpi.png)
+
+![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_19b_large_xhdpi.png)

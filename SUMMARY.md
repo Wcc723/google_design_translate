@@ -28,13 +28,13 @@
 	* [清單控制器](components-list-controls.md) 
 	* [菜單](components-menus.md) 
 	* [進度與活動](components-prosgress-and-activity.md) 
-	<!-- * [Sliders](components-sliders.md) -->
+	* [滑軌](components-sliders.md)
 	<!-- * [Snackbars and Toasts](components-snackbars-and-toasts.md) -->
 	<!-- * [Subheaders](components-subheaders.md) -->
 	<!-- * [Switches](components-switches.md) -->
 	<!-- * [Tabs](components-tabs.md) -->
-	<!-- * [Text Fields](components-text-fields.md) -->
-	<!-- * [Tooltips](components-tooltips.md) -->
+	* [文字輸入框](components-text-fields.md)
+	* [工具提示](components-tooltips.md)
 * Patternsr
 	<!-- * [Selection](patterns-selection.md)
 	* [Gestures](patterns-gestures.md)

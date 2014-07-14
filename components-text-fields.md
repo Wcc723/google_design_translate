@@ -4,7 +4,7 @@
 
 文字輸入框可以有不同的類型。類型決定什麼樣的字符可以允許在領域裡，可能會提示虛擬鍵盤優化字符的佈局。常見類型包含數字，文字，電子信箱，電話號碼，個人姓名，帳號，網址，街道位置，信用卡號碼，PIN 以及查詢功能。
 
---- 
+
 
 ## 單行文字框
 
@@ -94,7 +94,7 @@
 
 ![](images/components/components-textfields-floatinglabels-redlines_08_large_mdpi.png)
 
----
+
 
 ## 多行輸入框
 

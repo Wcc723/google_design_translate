@@ -4,11 +4,11 @@
 
 原件工具提示的使用方式有兩種：互動式與圖像優先式（非文字式）。
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_06a_large_xhdpi.png)
+![](images/components/components-tooltips-usage-tooltips_06a_large_xhdpi.png)
 
 > 這麼做
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_06b_large_xhdpi.png)
+![](images/components/components-tooltips-usage-tooltips_06b_large_xhdpi.png)
 
 > 別這麼做
 
@@ -16,11 +16,11 @@
 
 工具提示也不是ALT屬性，ALT屬性通常是標示靜態圖片用的。
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_13a_large_xhdpi.png)
+![](images/components/components-tooltips-usage-tooltips_13a_large_xhdpi.png)
 
 > 這麼做
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_13b_large_xhdpi.png)
+![](images/components/components-tooltips-usage-tooltips_13b_large_xhdpi.png)
 
 > 別這麼做
 
@@ -31,9 +31,9 @@
 背景顏色充填：90% 透明度
 
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-cursorkeyboardtooltips-tooltips_09_large_xhdpi.png)
+![](images/components/components-tooltips-cursorkeyboardtooltips-tooltips_09_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-cursorkeyboardtooltips-tooltips_03_large_xhdpi.png)
+![](images/components/components-tooltips-cursorkeyboardtooltips-tooltips_03_large_xhdpi.png)
 
 ## 工具提示的運動方式
 
@@ -50,12 +50,12 @@
 
 背景顏色充填：90% 透明度
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_16_large_xhdpi.png)
+![](images/components/components-tooltips-touchuitooltips-tooltips_16_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_15a_large_xhdpi.png)
+![](images/components/components-tooltips-touchuitooltips-tooltips_15a_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_15b_large_xhdpi.png)
+![](images/components/components-tooltips-touchuitooltips-tooltips_15b_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_19a_large_xhdpi.png)
+![](images/components/components-tooltips-touchuitooltips-tooltips_19a_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_19b_large_xhdpi.png)
+![](images/components/components-tooltips-touchuitooltips-tooltips_19b_large_xhdpi.png)

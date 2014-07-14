@@ -15,6 +15,7 @@
 - Peter
 - Sheng-Bo
 - Xuan
+- Xunyi
 
 ## Github
 

@@ -4,11 +4,11 @@
 
 Use tooltips for elements that are 1) interactive and 2) primarily graphical (not textual).
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_06a_large_xhdpi.png)
+![](images/components/components-tooltips-usage-tooltips_06a_large_xhdpi.png)
 
 > Do.
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_06b_large_xhdpi.png)
+![](images/components/components-tooltips-usage-tooltips_06b_large_xhdpi.png)
 
 > Don't.
 
@@ -16,11 +16,11 @@ Tooltips are different then hovercards, which display richer information includi
 
 Tooltips are different than ALT-attributes, which are intended primarily for static images.
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_13a_large_xhdpi.png)
+![](images/components/components-tooltips-usage-tooltips_13a_large_xhdpi.png)
 
 > Do.
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-usage-tooltips_13b_large_xhdpi.png)
+![](images/components/components-tooltips-usage-tooltips_13b_large_xhdpi.png)
 
 > Don't.
 
@@ -30,9 +30,9 @@ Text: Roboto Medium 10 sp
 
 Background fill: 90% opaque
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-cursorkeyboardtooltips-tooltips_09_large_xhdpi.png)
+![](images/components/components-tooltips-cursorkeyboardtooltips-tooltips_09_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-cursorkeyboardtooltips-tooltips_03_large_xhdpi.png)
+![](images/components/components-tooltips-cursorkeyboardtooltips-tooltips_03_large_xhdpi.png)
 
 ## Tooltip motion
 
@@ -49,12 +49,12 @@ Text is Roboto Medium 14 sp
 
 Background fill is 90% opaque
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_16_large_xhdpi.png)
+![](images/components/components-tooltips-touchuitooltips-tooltips_16_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_15a_large_xhdpi.png)
+![](images/components/components-tooltips-touchuitooltips-tooltips_15a_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_15b_large_xhdpi.png)
+![](images/components/components-tooltips-touchuitooltips-tooltips_15b_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_19a_large_xhdpi.png)
+![](images/components/components-tooltips-touchuitooltips-tooltips_19a_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tooltips-touchuitooltips-tooltips_19b_large_xhdpi.png)
+![](images/components/components-tooltips-touchuitooltips-tooltips_19b_large_xhdpi.png)

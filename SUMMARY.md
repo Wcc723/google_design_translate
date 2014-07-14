@@ -36,8 +36,8 @@
 	* [文字輸入框](components-text-fields.md)
 	* [工具提示](components-tooltips.md)
 * Patternsr
-	<!-- * [Selection](patterns-selection.md)
-	* [Gestures](patterns-gestures.md)
+	* [選擇](patterns-selection.md)
+	<!-- * [Gestures](patterns-gestures.md)
 	* [Promotes Actions](patterns-promotes-actions.md)
 	* [Settings](patterns-settings.md)
 	* [Imagery Treatment](patterns-imagery-treatment.md)

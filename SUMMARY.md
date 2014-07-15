@@ -4,7 +4,7 @@
 	* [介紹](material-design-introduction.md)
 * Animation
 	* [逼真的動畫效果](animation-authentic-motion.md)
-	<!-- * [Responsive Interaction](animation-responsive-interaction.md) -->
+	* [響應式互動(動畫)設計](animation-responsive-interaction.md) 
 	* [有意義的動畫](animation-meaningful-transitions.md)
 	* [討人歡心的細節](animation-delightful-details.md)
 * Style

@@ -20,7 +20,7 @@
 
 <video width="360" height="640" src="http://material-design.storage.googleapis.com/videos/components-switches-checkbox-spec_checkbox_large_xhdpi.webm" controls=""></video>
 
-> Checkbox motion
+> 核取方塊的操作動畫
 
 ![](images/components/components-switches-checkbox-switches_07a_large_mdpi.png)
 
@@ -38,7 +38,7 @@
 
 <video width="360" height="640" src="http://material-design.storage.googleapis.com/videos/components-switches-radiobutton-spec_radio_large_xhdpi.webm" controls=""></video>
 
-> Radio motion
+> 選項按鈕的操作動畫
 
 ![](images/components/components-switches-radio_02_large_mdpi.png)
 

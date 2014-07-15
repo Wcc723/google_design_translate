@@ -69,3 +69,5 @@
 ![](images/components/components-switches-switch-mobile-fingertouch_large_mdpi.png)
 
 ![](images/components/components-switches-switch-desktop-fingertouch_large_mdpi.png)
+
+> *翻譯：[陳聖博](https://www.facebook.com/Shengbo.Arthur.Chen)*

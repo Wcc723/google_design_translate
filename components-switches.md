@@ -30,12 +30,6 @@
 
 ## 選項按鈕
 
-Radio buttons allow the user to select one option from a set. Use radio buttons for exclusive selection if you think that the user needs to see all available options side-by-side.
-
-Otherwise, consider a pulldown, which uses less space than displaying all options.
-
-Radio buttons use animation to communicate focused and pressed states.
-
 選項按鈕可以讓使用者從一組選項中進行單選。如果您認為使用者需要一口氣看到所有選項展開排列，請使用選項按鈕提供單一選擇。
 
 否則，請考慮使用一個下拉元件，其佔用的空間比把所有選項展開顯示來得少。

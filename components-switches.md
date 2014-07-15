@@ -48,11 +48,11 @@
 
 ## 切換開關
 
-On/off switches toggle the state of a single settings option. The option that the switch controls, as well as the state it’s in, should be made clear from the corresponding inline label. Switches will take on the same visual properties of the radio button.
+切換開關可以反覆地切換單一選項的狀態。該開關控制的選項及它所切換的狀態，必須很明確地與行內標籤一致。此外，切換開關也採用了與選項按鈕相同的外觀屬性。(譯註：都是圓形)
 
-Switches use animation to communicate focus and pressed states.
+切換開關使用動畫來表示是否取得焦點以及被按下的狀態。
 
-The on/off slide toggle with the words “on” and “off” baked within the asset is deprecated. Use the switch shown here instead.
+在切換開關滑桿旁顯示 “on” 和 “off” 字樣的做法已經被廢除，請以下圖所示的開關取代。
 
 ![](images/components/components-switches-switch-switches_spec_03_large_mdpi.png)
 

@@ -37,11 +37,11 @@
 	* [工具提示](components-tooltips.md)
 * Patternsr
 	* [選擇](patterns-selection.md)
-	<!-- * [Gestures](patterns-gestures.md)
-	* [Promotes Actions](patterns-promotes-actions.md)
-	* [Settings](patterns-settings.md)
-	* [Imagery Treatment](patterns-imagery-treatment.md)
-	* [Search](patterns-search.md) -->
+	<!-- * [Gestures](patterns-gestures.md) -->
+	<!-- * [Promotes Actions](patterns-promotes-actions.md) -->
+	<!-- * [Settings](patterns-settings.md) -->
+	<!-- * [Imagery Treatment](patterns-imagery-treatment.md) -->
+	<!-- * [Search](patterns-search.md) -->
 * Usability
 	* [親和性](usability-accessibility.md)
 * Resources

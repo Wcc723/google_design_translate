@@ -64,7 +64,7 @@
 
 ![](images/components/components-switches-switch-switches_spec_10b_large_mdpi.png)
 
-Use the outer radial expansion only on form factors that favor finger touch, where interaction may obstruct the element completely. For desktop usage with a mouse, you do not need this extra indication.
+為了幫助手指觸控，可以採圓形方式向外擴張，然而其互動性也可能會完全干擾到該元素 (譯註：可能是擴張後感應區的重疊而造成錯亂的互動行為之類的)。由於桌上型電腦是用滑鼠操作，您不需要前述這些額外的指示。
 
 ![](images/components/components-switches-switch-mobile-fingertouch_large_mdpi.png)
 

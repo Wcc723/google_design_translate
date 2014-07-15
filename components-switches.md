@@ -14,7 +14,7 @@
 
 但是如果您只有一個「開/關」選項，請避免使用核取方塊，而應該使用 on/off 開關就好。
 
-透過將一個方框換成一個勾選記號，這種操作勾選的動作，是令人感到更滿意和直接。
+透過將一個方框換成一個勾選記號，這種操作勾選的動作，令人感到更滿意、更直接。
 
 核取方塊使用動畫來表示是否取得焦點以及被按下的狀態。
 
@@ -35,6 +35,12 @@ Radio buttons allow the user to select one option from a set. Use radio buttons 
 Otherwise, consider a pulldown, which uses less space than displaying all options.
 
 Radio buttons use animation to communicate focused and pressed states.
+
+選項按鈕可以讓使用者從一組選項中進行單選。如果您認為使用者需要一口氣看到所有選項展開排列，請使用選項按鈕提供單一選擇。
+
+否則，請考慮使用一個下拉元件，其佔用的空間比把所有選項展開顯示來得少。
+
+選項按鈕使用動畫來表示是否取得焦點以及被按下的狀態。
 
 <video width="360" height="640" src="http://material-design.storage.googleapis.com/videos/components-switches-radiobutton-spec_radio_large_xhdpi.webm" controls=""></video>
 

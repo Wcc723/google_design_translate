@@ -8,15 +8,15 @@
 
 ## 核取方塊
 
-Checkboxes allow the user to select multiple options from a set.
+核取方塊可以讓使用者從一組選項中進行多選。
 
-If you have multiple on/off options appearing in a list, checkboxes are a good way to preserve space.
+假如您必須在一個清單中顯示多個「開/關」選項，使用核取方塊是一個節省空間的好方法。
 
-If you have a single on/off option, avoid using a checkbox and use an on/off switch instead.
+但是如果您只有一個「開/關」選項，請避免使用核取方塊，而應該使用 on/off 開關就好。
 
-By actively transforming from a box into a checkmark, the action of checking something off feels more fulfilling and directly manipulated.
+透過將一個方框換成一個勾選記號，這種操作勾選的動作，是令人感到更滿意和直接。
 
-Checkboxes use animation to communicate focused and pressed states.
+核取方塊使用動畫來表示是否取得焦點以及被按下的狀態。
 
 <video width="360" height="640" src="http://material-design.storage.googleapis.com/videos/components-switches-checkbox-spec_checkbox_large_xhdpi.webm" controls=""></video>
 

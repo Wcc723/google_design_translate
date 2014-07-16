@@ -31,7 +31,7 @@
 	* [滑軌](components-sliders.md)
 	<!-- * [Snackbars and Toasts](components-snackbars-and-toasts.md) -->
 	<!-- * [Subheaders](components-subheaders.md) -->
-	<!-- * [Switches](components-switches.md) -->
+	* [開關](components-switches.md)
 	* [頁籤](components-tabs.md)
 	* [文字輸入框](components-text-fields.md)
 	* [工具提示](components-tooltips.md)

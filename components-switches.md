@@ -4,7 +4,7 @@
 
 注意：在接下來的例子中的(半透明的)圓形，是代表一個(操作)動畫，並非按鈕實際的外觀。
 
----
+
 
 ## 核取方塊
 
@@ -26,7 +26,7 @@
 
 ![](images/components/components-switches-checkbox-switches_07b_large_mdpi.png)
 
----
+
 
 ## 選項按鈕
 
@@ -44,7 +44,7 @@
 
 ![](images/components/components-switches-radiobutton-radio_spec_12a_large_mdpi.png)
 
----
+
 
 ## 切換開關
 

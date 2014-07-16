@@ -52,7 +52,7 @@
 
 切換開關使用動畫來表示是否取得焦點以及被按下的狀態。
 
-在切換開關滑桿旁顯示 “on” 和 “off” 字樣的做法已經被廢除，請以下圖所示的開關取代。
+在切換開關滑軌旁顯示 “on” 和 “off” 字樣的做法已經被廢除，請以下圖所示的開關取代。
 
 ![](images/components/components-switches-switch-switches_spec_03_large_mdpi.png)
 

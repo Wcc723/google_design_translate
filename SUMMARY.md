@@ -35,7 +35,7 @@
 	* [頁籤](components-tabs.md)
 	* [文字輸入框](components-text-fields.md)
 	* [工具提示](components-tooltips.md)
-* Patternsr
+* Pattern
 	* [選擇](patterns-selection.md)
 	<!-- * [Gestures](patterns-gestures.md) -->
 	<!-- * [Promotes Actions](patterns-promotes-actions.md) -->

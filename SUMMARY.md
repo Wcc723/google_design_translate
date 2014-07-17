@@ -41,7 +41,7 @@
 	<!-- * [Promotes Actions](patterns-promotes-actions.md) -->
 	* [設定](patterns-settings.md)
 	<!-- * [Imagery Treatment](patterns-imagery-treatment.md) -->
-	<!-- * [Search](patterns-search.md) -->
+	* [搜尋](patterns-search.md) 
 * Usability
 	* [親和性](usability-accessibility.md)
 * Resources

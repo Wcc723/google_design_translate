@@ -39,7 +39,7 @@
 	* [選擇](patterns-selection.md)
 	* [手勢](patterns-gestures.md) 
 	<!-- * [Promotes Actions](patterns-promotes-actions.md) -->
-	<!-- * [Settings](patterns-settings.md) -->
+	* [設定](patterns-settings.md)
 	<!-- * [Imagery Treatment](patterns-imagery-treatment.md) -->
 	<!-- * [Search](patterns-search.md) -->
 * Usability

@@ -9,6 +9,8 @@ In material design, apps are responsive to and eager for user input:
 
 Responsive interaction elevates an app from something that delivers information to the user upon request to something that communicates with the user in a tangible way.
 
+---
+
 ## Examples
 
 <video width="360" height="405" controls="">
@@ -31,6 +33,8 @@ Responsive interaction elevates an app from something that delivers information 
 </video>
 
 > Radial action
+
+---
 
 ## Surface Reaction
 
@@ -56,13 +60,15 @@ Input occurs at specific points: at the contact point of a finger or at the mic 
 
 > ouch ripple - drag in/out
 
+---
+
 ## Material Response
 
 In addition to ink-like actions on the surface, the material itself can also respond to interaction. The material can lift up when touched or clicked, indicating an active state. The user can generate new or transform existing material upon touch or click, or directly manipulate sheets of material, dragging or flinging them.
 
 ### Best Practices
 
-### Point of origin
+#### Point of origin
 
 When new material is generated as a result of direct user interaction, the motion of surface growth should originate from the point of input.
 
@@ -85,7 +91,7 @@ When new material is generated as a result of direct user interaction, the motio
 > Paper appears from center of screen, breaking relationship with input.
 
 
-### Lift on touch
+#### Lift on touch
 
 When a card or separable element is activated, the card should lift to indicate an active state.
 
@@ -95,6 +101,8 @@ When a card or separable element is activated, the card should lift to indicate 
 </video>
 
 > Lift upon touch
+
+---
 
 ## Radial Action
 

@@ -1,16 +1,8 @@
 #Grids
+
 Grid lists are an alternative to standard list views. Grid lists are distinct from grids used for layouts and other visual presentations.
 
-
->Contents
->
->Usage
->
->Content
->
->Behavior
->
->Keylines
+---
 
 ##Usage
 
@@ -36,6 +28,7 @@ If the text in tiles needs to be prominent enough to distinguish between primary
 ---
 
 ##Content
+
 ###Content in tiles
 
 Tile content consists of primary content and secondary content. Primary content is the main differentiating element, typically an image. Secondary content can be an action or text.
@@ -66,6 +59,7 @@ Actions can open a subsequent view such as a card or hovercard.
 ---
 
 ##Behavior
+
 ###Scrolling
 
 Grids typically scroll only vertically.
@@ -76,13 +70,13 @@ Cut off grid tiles to communicate the scroll direction for content overflow.
 
 ![](images/components/components-grids-behavior-spec_grid_drawings_06_large_mdpi.png)
 
-*Do.*
-Indicate content overflow by cutting off grid tiles.
+> *Do.*
+>
+> Indicate content overflow by cutting off grid tiles.
 
 ![](images/components/components-grids-behavior-spec_grid_drawings_05_large_mdpi.png)
 
-*Don't.*
-
+> *Don't.*
 
 ###Gestures
 
@@ -103,6 +97,7 @@ A grid list does not transform into a list when horizontal space contracts. Grid
 ---
 
 ##Keylines
+
 ###Grid list header/footers
 
 ####Single-line header/footer
@@ -137,7 +132,7 @@ Carefully consider whether secondary text is needed in grid lists that use multi
 
 ![](images/components/components-grids-keylines-imageOnlyGrid_01_large_mdpi.png)
 
-*Element*
+> *Element*
 
 ![](images/components/components-grids-keylines-imageOnlyGrid_03_large_mdpi.png)
 
@@ -157,11 +152,11 @@ Grid padding: 4 dp
 
 ![](images/components/components-grids-keylines-SingleLineGrid_01b_large_mdpi.png)
 
-*Element*
+> *Element*
 
 ![](images/components/components-grids-keylines-SingleLineGrid_02_large_mdpi.png) 
 
-*Context*
+> *Context*
 
 ####Text with icon
 
@@ -183,7 +178,7 @@ The secondary action can be flush right or flush left within the footer or heade
 
 ![](images/components/components-grids-keylines-SingleLineGrid_03d_large_mdpi.png)
 
-*Element*
+> *Element*
 
 ![](images/components/components-grids-keylines-SingleLineGrid_04_large_mdpi.png)
 
@@ -204,11 +199,11 @@ Grid padding: 4 dp
 
 ![](images/components/components-grids-keylines-TwoLineGrid_01b_large_mdpi.png)
 
-*Element*
+> *Element*
 
 ![](images/components/components-grids-keylines-TwoLineGrid_02_large_mdpi.png)
  
-*Context*
+> *Context*
 
 ####Text with icon
 
@@ -230,8 +225,8 @@ Grid padding is 4 dp
 
 ![](images/components/components-grids-keylines-TwoLineGrid_03d_large_mdpi.png)
 
-*Element*
+> *Element*
 
 ![](images/components/components-grids-keylines-TwoLineGrid_04_large_mdpi.png)
 
-*Context*
+> *Context*

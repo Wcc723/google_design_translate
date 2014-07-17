@@ -2,11 +2,7 @@
 
 A card is a piece of paper that contains a unique data set of related, heterogeneous information, for example, a photo, text, and link all about a single subject. Cards typically are an entry point to more complex and detailed information. Cards have a constant width and variable height. The maximum height is limited to what can fit within a single view on a platform, but it can temporarily expand as needed (for example, to display a comment field). Cards do not flip to reveal information on their back.
 
-> Contents
-> Usage
-> Content
-> Actions
-> Behavior
+---
 
 ## Usage
 
@@ -37,47 +33,47 @@ Use a card layout when displaying content that:
 
 ![](images/components/components-cards-usage-cardvstilea_large_mdpi.png)
 
-Do.
-
-1. Cards have rounded corners.
-
-2. Cards can have multiple actions.
-
-3. Cards can be dismissable and rearranged.
+> Do.
+>
+> 1. Cards have rounded corners.
+> 
+> 2. Cards can have multiple actions.
+> 
+> 3. Cards can be dismissable and rearranged.
 
 ![](images/components/components-cards-usage-cardvstileb_large_mdpi.png)
 
-Don't.
-
-This is a tile, not a card.
-
-1. Tiles have square corners.
-
-2. Tiles have no more than two actions.
+> Don't.
+> 
+> This is a tile, not a card.
+> 
+> 1. Tiles have square corners.
+> 
+> 2. Tiles have no more than two actions.
 
 ![](images/components/components-cards-usage-card_noa_large_mdpi.png)
 
-Do.
-
-A quickly scannable list, instead of cards, is an appropriate way to represent homogeneous content that doesn't have many actions.
+> Do.
+> 
+> A quickly scannable list, instead of cards, is an appropriate way to represent homogeneous content that doesn't have many actions.
 
 ![](images/components/components-cards-usage-card_nob_large_mdpi.png)
 
-Don't.
-
-The use of cards here distracts the user from being able to quickly scan. These list items are also not dismissable, so having them on separate cards is confusing.
+> Don't.
+> 
+> The use of cards here distracts the user from being able to quickly scan. These list items are also not dismissable, so having them on separate cards is confusing.
 
 ![](images/components/components-cards-usage-card_no2a_large_mdpi.png)
 
-Do.
-
-Grid tiles are a clean and lightweight way to present a gallery of images.
+> Do.
+> 
+> Grid tiles are a clean and lightweight way to present a gallery of images.
 
 ![](images/components/components-cards-usage-card_no2b_large_mdpi.png)
 
-Don't.
-
-Cards are unnecessary in a gallery of images (homogeneous content).
+> Don't.
+> 
+> Cards are unnecessary in a gallery of images (homogeneous content).
 
 ### Card layout guidelines
 
@@ -107,6 +103,8 @@ Gutters between cards: 8 dp
 
 ![](images/components/components-cards-15_large_mdpi.png)
 
+---
+
 ## Content
 
 Card content type and quantity can vary greatly depending on the content being expressed. Cards provide context and an entry point to more robust information and views; make sure not to overload cards with extraneous information or actions.
@@ -120,6 +118,8 @@ Place primary content at the top of the card. Use hierarchy to direct users’ a
 ![](images/components/components-cards-usage-card_travel_large_mdpi.png)
 
 ![](images/components/components-cards-content-card_notes_large_mdpi.png)
+
+---
 
 ## Actions
 
@@ -154,6 +154,8 @@ Although cards can support multiple actions, UI controls, and an overflow menu, 
 ![](images/components/components-cards-actions-card_actionsc_large_mdpi.png)
 
 ![](images/components/components-cards-actions-card_actionsd_large_mdpi.png)
+
+---
 
 ## Behavior
 

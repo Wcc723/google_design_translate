@@ -2,9 +2,11 @@
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorstory-01_large_xhdpi.png)
 
-statements juxtaposed with muted environments, taking cues from contemporary architecture, road signs, pavement marking tape, and sports courts. Emphasize bold shadows and highlights. Introduce unexpected and vibrant colors.
+Color is inspired by bold color statements juxtaposed with muted environments, taking cues from contemporary architecture, road signs, pavement marking tape, and sports courts. Emphasize bold shadows and highlights. Introduce unexpected and vibrant colors.
 
 > [Color Swatch](http://quantum-paper.storage.googleapis.com/downloads/color_swatches.zip)
+
+---
 
 ## UI Color Palette
 
@@ -468,6 +470,7 @@ The color palette starts with primary colors and fills in the spectrum to create
 </ul>
 </section>
 
+---
 
 ## UI Color Application
 
@@ -514,6 +517,7 @@ If your accent color is to light or dark for the background color the general fa
 
 ![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-04_large_xhdpi.png)
 
+---
 
 ## Themes
 
@@ -527,8 +531,6 @@ Themes are a way to apply a consistent tone to an app. The style specifies the d
 ![](http://material-design.storage.googleapis.com/images/Style-Color-Themes-theme-01_large_xhdpi.png)
 
 ![](http://material-design.storage.googleapis.com/images/Style-Color-Themes-theme-02_large_xhdpi.png)
-
-
 
 
 

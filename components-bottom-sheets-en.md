@@ -2,18 +2,9 @@
 
 One way to present a set of actions to a user is with bottom sheets, a sheet of paper that slides up from the bottom edge of the screen. Bottom sheets offer flexibility in the display of clear and simple actions that do not need explanation.
 
-**內容**
+---
 
-[Usage](#usage)
-
-[Content](#content)
-
-[Behavior](#behavior)
-
-[Specs](#specs)
-
-
-<h2 id='usage'>Usage<h4>
+## Usage
 
 Bottom sheets are especially suitable when three or more actions are displayed to the user and when the actions do not require descriptive explanation. If there are two or fewer actions or detailed description is required, consider using a menu or dialog instead.
 
@@ -23,7 +14,7 @@ You can use bottom sheets to show actions related to other apps or to allow entr
 
 ---
 
-<h2 id='content'>Content<h4>
+## Content
 
 In a standard list-style bottom sheet, each action should have a text description and a left-aligned icon. When necessary, you can use separators to logically group actions. You can also use subheaders or titles to give context to the choices.
 
@@ -35,13 +26,13 @@ A scrollable grid-style bottom sheet can be used for a bottom sheet that contain
 
 ---
 
-<h2 id='behavior'>Behavior<h4>
+## Behavior
 
 When displaying a bottom sheet, it should animate upwards from the bottom edge of the screen. The previous content dims to give the user context of where they were previously and the modal nature of the choice. Tapping on the dimmed area dismisses the sheet, as does swiping down on the sheet. If the sheet contains more actions that can fit in the initial display, the sheet is scrollable. Scrolling should also pull up the sheet container and eventually cover the entire screen. When the action sheet covers the entire screen, add a dismiss button to the header, on the left hand side of the title.
 
 ---
 
-<h2 id='specs'>Specs<h4>
+## Specs
 
 The following font and color specs and redlines are provided for mobile apps.
 

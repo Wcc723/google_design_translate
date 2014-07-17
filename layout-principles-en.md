@@ -6,6 +6,8 @@ The layout guidelines also encourage apps to have a consistent look and feel by 
 
 Before delving into layout details, consider again what material design is: a design based on the qualities of paper. Understanding the rules of how paper behaves and is crafted is important.
 
+---
+
 ## Paper Craft
 
 **In material design, every pixel drawn by an application resides on a sheet of paper.** Paper has a flat background color and can be sized to serve a variety of purposes. A typical layout is composed of multiple sheets of paper.
@@ -67,7 +69,6 @@ Toolbars can change height dynamically once they become pinned. When resizing, t
 ![](images/layout/layout-principles-papercraft-papercraft-10a_large_xhdpi.png)
 
 
-
 ### Floating Actions
 
 A **floating action** is a circular paper separate from a toolbar.
@@ -82,6 +83,7 @@ Never introduce a decorative seam merely to provide an anchoring point for an ac
 
 ![](images/layout/layout-principles-papercraft-papercraft-12a_large_xhdpi.png)
 
+---
 
 ## Responsive Pricipples
 
@@ -102,6 +104,8 @@ The Desktop Template demonstrates a few responsive screens with all of the grid 
 > [Desktop Template](http://material-design.storage.googleapis.com/downloads/Layout_Desktop_Whiteframe.ai)
 
 ![](images/layout/layout-principles-responsive-responsive-01_large_xhdpi.png)
+
+---
 
 ## Dimensionality
 

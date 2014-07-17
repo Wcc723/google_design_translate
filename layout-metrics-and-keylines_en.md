@@ -18,12 +18,13 @@ All components align to an 8 dp square baseline grid. Type aligns to a 4 dp base
 
 > See detailed information on [typography](style-typography.md).
 
+---
+
 ## Keylines and Spacing
 
 ### Mobile
 
 The mobile layout template includes a wide variety of screens and information about how keylines and spacing work across screen edges and elements. Below is a sample of the screens included in the download.
-
 
 > [Mobile Layout Template](http://material-design.storage.googleapis.com/downloads/Layout_Mobile_Whiteframe.ai) (Download)
 
@@ -186,6 +187,8 @@ The desktop layout template includes 4 different screens each with 4 different w
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-keylines-keylines-desktopd_large_xhdpi.png)
 
+---
+
 ## Ratio Keylines
 
 ### Ratio Keylines
@@ -208,6 +211,8 @@ Applies to mobile screen width and UI element widths on mobile, tablet, and desk
 
 > Example
 
+---
+
 ## Incremental Keylines
 
 ### Incremental Keylines
@@ -223,6 +228,8 @@ Applies mostly to desktop, often to tablet, rarely to mobile. Number of incremen
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-incrementalkeylines-incrementalkeylines-03_large_xhdpi.png)
 
 ![](http://material-design.storage.googleapis.com/images/layout-metrics-incrementalkeylines-incrementalkeylines-04_large_xhdpi.png)
+
+---
 
 ## Touch Target Size
 

@@ -81,11 +81,11 @@ List tiles can be programmatically sorted or filtered by date, file size, alphab
 
 ![](images/components/components-lists-6_large_mdpi.png)
 
-Do.
+> Do.
 
 ![](images/components/components-lists-7_large_mdpi.png)
 
-Don't.
+> Don't.
 
 ---
 
@@ -95,11 +95,11 @@ In a **single-line** list, each tile contains a single line of text. The amount 
 
 ![](images/components/components-keylinesinlists-1_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-keylinesinlists-2_large_mdpi.png)
 
-**Context**
+> **Context**
 
 In a **two-line** list, each tile contains a maximum of two lines of text. The amount of text can vary between tiles within the same list.
 
@@ -109,7 +109,7 @@ In a **two-line** list, each tile contains a maximum of two lines of text. The a
 
 ![](images/components/components-keylinesinlists-4_large_mdpi.png)
 
-**Context**
+> **Context**
 
 In a three-line list, each tile contains a maximum of three lines of text.
 
@@ -117,11 +117,11 @@ The amount of text can vary between tiles within the same list.
 
 ![](images/components/components-keylinesinlists-5_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-keylinesinlists-6_large_mdpi.png)
 
-**Context**
+> **Context**
 
 ### Single-line list
 
@@ -137,15 +137,15 @@ Add 8 dp padding at the top and bottom of a list. One exception is at the top of
 
 ![](images/components/components-singlelinelists-1_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-singlelinelists-2_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-singlelinelists-6_large_mdpi.png)
 
-**Context**
+> **Context**
 
 #### Icon with text
 
@@ -163,15 +163,15 @@ Add 8 dp padding at the top and bottom of a list. One exception is at the top of
 
 ![](images/components/components-singlelinelists-7_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-singlelinelists-8_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-singlelinelists-3_large_mdpi.png)
 
-**Context**
+> **Context**
 
 #### Avatar with text
 
@@ -189,15 +189,15 @@ Add 8 dp padding at the top and bottom of a list. One exception is at the top of
 
 ![](images/components/components-singlelinelists-7_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-singlelinelists-8_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-singlelinelists-11_large_mdpi.png)
 
-**Context**
+> **Context**
 
 ### Two-line list
 
@@ -215,15 +215,15 @@ Add 8 dp padding at the top and bottom of a list. One exception is at the top of
 
 ![](images/components/components-recommendedtwolinelists-1_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedtwolinelists-2_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedtwolinelists-3_large_mdpi.png)
 
-**Context**
+> **Context**
 
 #### Avatar with text
 
@@ -245,15 +245,15 @@ Add 8 dp padding at the top and bottom of a list. One exception is at the top of
 
 ![](images/components/components-recommendedtwolinelists-6_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedtwolinelists-7_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedtwolinelists-8_large_mdpi.png)
 
-**Context**
+> **Context**
 
 #### Avatar with text and icon
 
@@ -275,15 +275,15 @@ Add 8 dp padding at the top and bottom of a list. One exception is at the top of
 
 ![](images/components/components-recommendedtwolinelists-9_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedtwolinelists-10_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedtwolinelists-11_large_mdpi.png)
 
-**Context**
+> **Context**
 
 ### Three-line list
 
@@ -301,15 +301,15 @@ Add 8 dp padding at the top and bottom of a list. One exception is at the top of
 
 ![](images/components/components-recommendedthreelinelists-1_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedthreelinelists-2_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedthreelinelists-3_large_mdpi.png)
 
-**Context**
+> **Context**
 
 #### Avatar with text
 
@@ -329,15 +329,15 @@ Add 8 dp padding at the top and bottom of a list. One exception is at the top of
 
 ![](images/components/components-recommendedthreelinelists-6_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedthreelinelists-7_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedthreelinelists-10_large_mdpi.png)
 
-**Context**
+> **Context**
 
 #### Avatar with text and icon
 
@@ -361,12 +361,12 @@ Add 8 dp padding at the top and bottom of a list. One exception is at the top of
 
 ![](images/components/components-recommendedthreelinelists-8_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedthreelinelists-9_large_mdpi.png)
 
-**Element**
+> **Element**
 
 ![](images/components/components-recommendedthreelinelists-12_large_mdpi.png)
 
-**Context**
+> **Context**

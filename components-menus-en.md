@@ -1,7 +1,5 @@
 # Menus
 
----
-
 ## Usage
 
 A menu is a temporary piece of paper emitted from a button, an action, a pointer, or another control that contains at least two menu items.
@@ -90,29 +88,29 @@ Do not display a duplicate of the selected menu item.
 
 ![](images/components/components-menus-behavior-menus-p-01_large_mdpi.png)
 
-Do.
+> Do.
 
 ![](images/components/components-menus-behavior-menus-p-02_large_mdpi.png)
 
-Don't.
+> Don't.
 
 Menus do not horizontally align based on touch location.
 
 ![](images/components/components-menus-behavior-menus-p-03a_large_mdpi.png)
 
-Do.
+> Do.
 
 ![](images/components/components-menus-behavior-menus-p-03b_large_mdpi.png)
 
-Do.
+> Do.
 
 ![](images/components/components-menus-behavior-menus-p-04a_large_mdpi.png)
 
-Don't.
+> Don't.
 
 ![](images/components/components-menus-behavior-menus-p-04b_large_mdpi.png)
 
-Don't.
+> Don't.
 
 ---
 

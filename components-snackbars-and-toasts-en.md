@@ -16,11 +16,11 @@ Snackbars should generally only be tall enough to accommodate one string, and th
 
 ![](images/components/components-toasts-usage-spec_toast_do_20_large_mdpi.png) 
 
-Do.
+> Do.
 
 ![](images/components/components-toasts-usage-spec_toast_dont_20_large_mdpi.png)
  
-Don't.
+> Don't.
 
 ### Transient
 
@@ -28,11 +28,11 @@ For usability, snackbars should not contain the only way to access a core use ca
  
 ![](images/components/components-toasts-usage-spec_toast_do_22_large_mdpi.png)
  
-Do.
+> Do.
 
 ![](images/components/components-toasts-usage-spec_toast_dont_22_large_mdpi.png) 
 
-Don't.
+> Don't.
 
 ### 0-1 actions, not dismiss or cancel
 
@@ -40,11 +40,11 @@ If an action is present, comply with dialog spacing and affordance rules. For tw
 
 ![](images/components/components-toasts-usage-spec_toast_do_24_large_mdpi.png) 
 
-Do.
+> Do.
  
 ![](images/components/components-toasts-usage-spec_toast_dont_24_large_mdpi.png)
 
-Don't.
+> Don't.
 
 ### Don’t block the floating action button
 
@@ -52,11 +52,11 @@ Move your floating action button vertically to accommodate the snackbar height.
 
 ![](images/components/components-toasts-usage-spec_toast_do_26_large_mdpi.png) 
 
-Do.
+> Do.
 
 ![](images/components/components-toasts-usage-spec_toast_dont_26_large_mdpi.png)
 
-Don't.
+> Don't.
 
 ---
 

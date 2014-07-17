@@ -1,13 +1,16 @@
 # Typography
 
+---
+
 ## Roboto
 
 Since the Ice Cream Sandwich release, Roboto has been the standard typeface for Android. In this version, Roboto has been refined extensively to work across the wider set of supported platforms. It is slightly wider and rounder, giving it greater clarity and making it more optimistic.
 
 > [Roboto font](http://material-design.storage.googleapis.com/downloads/RobotoTTF.zip)
 
-
 ![](images/style/style-typography-roboto-typography.roboto2_specimen_large_mdpi.png)
+
+---
 
 ## Standard Styles
 

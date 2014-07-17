@@ -12,21 +12,21 @@ In addition, fully saturated icons in your design are generally always affordanc
 
 Buttons should be designed in accordance with your app’s color theme.
 
-> Usage
+## Usage
 
 ![](images/components/components-buttons-usage-01_intro_large_mdpi.png)
 
-Floating action button
+> Floating action button
 
 ![](images/components/components-buttons-usage-02_intro_large_mdpi.png)
 
-Raised button
+> Raised button
 
 ![](images/components/components-buttons-usage-03_intro_large_mdpi.png)
 
-Flat button
+> Flat button
 
-#### Main buttons
+### Main buttons
 
 Choosing button type  for your main buttons depends on the primacy of the button, the number of containers on screen, and the overall layout of the screen.
 
@@ -38,7 +38,7 @@ Finally, look at your specific layout. You should use one type of button primari
 
 ![](images/components/components-buttons-usage-05_chart_large_mdpi.png)
 
-#### Buttons in dialogs
+### Buttons in dialogs
 
 Use primarily ink buttons on dialogs to prevent too many layers of dimension.
 
@@ -46,7 +46,7 @@ Use primarily ink buttons on dialogs to prevent too many layers of dimension.
 
 ![](images/components/components-buttons-dialog_usage_2_large_mdpi.png)
 
-#### Buttons inline
+### Buttons inline
 
 Choose raised or flat depending on your specific layout. Make sure to allow enough padding around flat unfilled buttons so the user can easily find them.
 
@@ -54,7 +54,7 @@ Choose raised or flat depending on your specific layout. Make sure to allow enou
 
 ![](images/components/components-buttons-usage-2_usage_padding_large_mdpi.png)
 
-#### Persistent footer buttons
+### Persistent footer buttons
 
 If your app requires actions to be persistent and readily available to the user, first consider using the floating action button. If it is an action that is not promoted but still needs to be easy to access, use persistent footer buttons.
 
@@ -73,6 +73,8 @@ With the addition of a divider, a persistent footer button can also be used for 
 ![](images/components/components-buttons-persistant-footer-4a_large_mdpi.png)
 
 ![](images/components/components-buttons-persistant-footer-4b_large_mdpi.png)
+
+---
 
 ## Main buttons
 
@@ -102,13 +104,15 @@ Raised buttons emphasize functions that would otherwise get lost on a busy or wi
 
 ![](images/components/components-buttons-usage-raised-1a_large_mdpi.png)
 
-Do。
-Correct use of raised buttons.
+> Do.
+> 
+> Correct use of raised buttons.
 
 ![](images/components/components-buttons-usage-raised-1b_large_mdpi.png)
 
-Don't.
-Buttons are hard to see.
+> Don't.
+> 
+> Buttons are hard to see.
 
 ### Flat buttons
 
@@ -120,13 +124,15 @@ Use flat buttons for contexts such as toolbars, dialogs, and popovers to avoid g
 
 ![](images/components/components-buttons-usage-flat-do_large_mdpi.png)
 
-Do.
-Correct use of flat buttons.
+> Do.
+> 
+> Correct use of flat buttons.
 
 ![](images/components/components-buttons-usage-flat-dont_large_mdpi.png)
 
-Don't.
-Raised buttons are too heavy.
+> Don't.
+> 
+> Raised buttons are too heavy.
 
 ### Flat and raised button states
 
@@ -142,44 +148,47 @@ When representing button states in mocks, you can use graphic rings to represent
 
 ![](images/components/components-buttons-states-for-mocks-1a_large_mdpi.png)
 
-Flat Light/Light color
-
-Minimum width: 88 DP, Height: 36 DP
-
-Hover: 20% #999, Pressed: 40% #999, Disabled: 10% #999
+> Flat Light/Light color
+> 
+> Minimum width: 88 DP, Height: 36 DP
+> 
+> Hover: 20% #999, Pressed: 40% #999, Disabled: 10% #999
 
 ![](images/components/components-buttons-states-for-mocks-1b_large_mdpi.png)
 
-Flat Dark/Dark Color
-
-Minimum width: 88 DP, Height: 36 DP
-
-Hover: 15% #ccc, Pressed: 25% #ccc, Disabled: 10% #ccc
+> Flat Dark/Dark Color
+> 
+> Minimum width: 88 DP, Height: 36 DP
+> 
+> Hover: 15% #ccc, Pressed: 25% #ccc, Disabled: 10% #ccc
 
 ![](images/components/components-buttons-states-for-mocks-2a_large_mdpi.png)
 
-Raised Light/Light Color
-
-Minimum width: 88 DP, Height: 36 DP
+> Raised Light/Light Color
+> 
+> Minimum width: 88 DP, Height: 36 DP
 
 ![](images/components/components-buttons-states-for-mocks-2b_large_mdpi.png)
 
-Raised Dark/Dark Color
-
-Minimum width: 88 DP, Height: 36 DP
-
-Normal: Color 500, Hover: Color 600, Pressed: Color 700,
-Disabled: 10% #ccc
+> Raised Dark/Dark Color
+> 
+> Minimum width: 88 DP, Height: 36 DP
+>
+> Normal: Color 500, Hover: Color 600, Pressed: Color 700,
+> 
+> Disabled: 10% #ccc
 
 ### Buttons in motion
 
 <embed src="images/components/components-buttons-mainbuttons-buttons-motion1_large_xhdpi.webm" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 
-Flat buttons
+> Flat buttons
 
 <video controls="" autoplay="" name="media"><source src="images/components/components-buttons-mainbuttons-buttons-motionraised_large_xhdpi.webm"> </video>
 
-Raised buttons
+> Raised buttons
+
+---
 
 ## Other buttons
 
@@ -226,7 +235,3 @@ A segmented pulldown where the displayed state is text editable, such as a font 
 Desktop app bar specs
 
 ![](images/components/components-buttons-desktop-dropdowns_large_mdpi.png)
-
----
-
-> *翻譯：Weiju*

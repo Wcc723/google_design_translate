@@ -7,7 +7,6 @@ Gestures are divided into **Touch Mechanics** (what your fingers do on the scree
 Note that Drag, Swipe, and Fling gesture activities are covered in their own section due to their highly contextual results.
 
 
-
 ### Touch mechanics
 
 Touch mechanics is what the user's fingers do on the screen.

@@ -4,6 +4,8 @@
 
 In material design, imagery—whether illustration or photography—is constructed but never contrived, magical but never overproduced. The style is optimistic, delightful and honest. Materiality, texture, depth, unexpected use of color, and appreciation of context are emphasized. The principles of imagery support the goal of purposeful, thoughtful, beautiful UIs.
 
+---
+
 ## Principles
 
 When using illustration and photography to enhance the user experience, choose images that express personal relevance, information and delight.
@@ -17,6 +19,7 @@ When using illustration and photography to enhance the user experience, choose i
 ![](images/style/style-imagery-principles-information_large_xhdpi.png)
 
 > **Information**
+> 
 > Convey specific information. Facilitate comprehension to create an experience that feels intelligent.
 
 ![](images/style/style-imagery-principles-delight_large_xhdpi.png)
@@ -36,6 +39,8 @@ Incorporate logic to ensure images are dynamic, context-intelligent, and context
 Don’t be afraid of obscuring or alluding to integrated heros and thumbnails through color and content overlays.
 
 ![](images/style/style-imagery-principles-immersive_20obscure_large_xhdpi.png)
+
+---
 
 ## Best Practices
 
@@ -149,6 +154,8 @@ Maintain the original integrity of the image. Don’t apply heavy filters or gau
 ![](images/style/style-imagery-bestpractices-manipulate-lake-dont_large_xhdpi.png)
 
 > Don't
+
+---
 
 ## UI Integration
 

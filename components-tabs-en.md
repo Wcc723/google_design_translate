@@ -68,11 +68,11 @@ Tabs are also not used for carousels or pagination of content (for example, swip
 
 ![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_do_10_large_mdpi.png)
  
-Do.
+> Do.
  
 ![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_dont_10_large_mdpi.png)
 
-Don't.
+> Don't.
 
 ### Tab characteristics
 
@@ -92,19 +92,19 @@ Keeping tabs adjacent to their content helps maintain the relationship between t
  
 ![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_do_06_large_mdpi.png)
 
-Do.
+> Do.
 
 ![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_dont_06_large_mdpi.png)
  
-Don't.
+> Don't.
 
 ![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_do_08_large_mdpi.png)
  
-Do.
+> Do.
 
 ![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_dont_08_large_mdpi.png)
  
-Don't.
+> Don't.
 
 
 ---

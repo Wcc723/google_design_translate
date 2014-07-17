@@ -18,7 +18,6 @@ The layout of your start screen requires special attention. This is the first sc
 
 Ask yourself: "What will typical users most likely want to do in my app?", and structure your start screen experience accordingly.
 
-
 **Put content forward.** Many apps focus on the content display. Avoid navigation-only screens and instead let people get to the core experience of your app right away by making content the centerpiece of your start screen. Choose layouts that are visually engaging and appropriate for the data type and screen size.
 
 **Anchor navigation and actions.** Like any toolbar, the app bar can organize important actions. Its position at the top of a screen makes it ideal for presenting navigation controls, including switching between tabs or opening the left navigation bar. If you content is searchable, include the Search action in the app bar so people can cut through the navigation hierarchy.
@@ -94,6 +93,8 @@ Define a primary horizontal or vertical divider.
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-uiregions-uiregions-07_large_xhdpi.png)
 
+---
+
 ## Toolbars
 
 Toolbars are versatile and can be applied to various places in an app. Here are some examples of where you can use toolbars.
@@ -133,6 +134,8 @@ Toolbars are versatile and can be applied to various places in an app. Here are 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-toolbars-toolbars-08a_large_xhdpi.png)
 
 > Bottom Toolbar shelf
+
+---
 
 ## App Bar
 
@@ -193,6 +196,8 @@ For extended app bars, the height is equal to the default height plus content in
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-14_large_xhdpi.png)
 
+---
+
 ## Menus
 
 A menu is a temporary sheet of paper that always overlaps the app bar, rather than behaving as an extension of the app bar.
@@ -207,6 +212,8 @@ A menu is a temporary sheet of paper that always overlaps the app bar, rather th
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-19_large_xhdpi.png)
 
+---
+
 ## Side Nav
 
 If present, the left and right nav drawers can be pinned for permanent display or they can float temporarily as overlays. The content in the left nav should primarily be navigation- or identity-based. The content in the right nav should primarily be a deeper level of info secondary to the main content on a page.
@@ -214,6 +221,8 @@ If present, the left and right nav drawers can be pinned for permanent display o
 ![](http://material-design.storage.googleapis.com/images/layout-structure-sidenav-sidenav-01_large_xhdpi.png)
 
 ![](http://material-design.storage.googleapis.com/images/layout-structure-sidenav-sidenav-02_large_xhdpi.png)
+
+---
 
 ## Structure
 
@@ -251,6 +260,8 @@ Floating max width: 304 dp
 ![](http://material-design.storage.googleapis.com/images/layout-structure-drive_chrome-02_large_xhdpi.png)
 
 > Desktop right nav drawer
+
+---
 
 ## Whiteframes
 

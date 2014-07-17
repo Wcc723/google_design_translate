@@ -1,6 +1,7 @@
 
 # Icons
 
+---
 
 ## System Icons
 
@@ -43,7 +44,6 @@ Two sets of shapes with varying sizes are available for you to use for icons in 
  
 ![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-grid_proportion_sizesc_large_xhdpi.png)
 
-
 ![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-grid_proportion_sizesd_large_xhdpi.png)
 
 ![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-grid_proportion_sizese_large_xhdpi.png)
@@ -62,7 +62,6 @@ Apply round corners to square and rectangular whole shapes. A play on round corn
 ![](http://material-design.storage.googleapis.com/images/style-systemicons-stroke-terminala_large_xhdpi.png)
 
 ![](http://material-design.storage.googleapis.com/images/style-systemicons-stroke-terminalb_large_xhdpi.png)
- 
  
 Each system icon size set requires a different round corner for optical consistency.
 

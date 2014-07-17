@@ -37,7 +37,7 @@
 	* [工具提示](components-tooltips.md)
 * Pattern
 	* [選擇](patterns-selection.md)
-	<!-- * [Gestures](patterns-gestures.md) -->
+	* [Gestures](patterns-gestures-en.md) 
 	<!-- * [Promotes Actions](patterns-promotes-actions.md) -->
 	<!-- * [Settings](patterns-settings.md) -->
 	<!-- * [Imagery Treatment](patterns-imagery-treatment.md) -->

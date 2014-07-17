@@ -19,4 +19,4 @@
 <source src="//material-design.storage.googleapis.com/videos/animation-delightfulDetails-statusChange-example_large_xhdpi.mp4" type="video/mp4">
 </video>
 
-> *翻譯： Peter*
+> *翻譯： [Peter](https://www.facebook.com/viator75)*

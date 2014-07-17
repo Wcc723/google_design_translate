@@ -79,7 +79,7 @@ There are two major patterns for in-app search: **persistent search** and **expa
 > 就像前面所建議的一樣，搜尋結果顯示在工具列下方的頁面主要區域。
 
 
-
+> *翻譯：[Charlene](https://www.facebook.com/charlene.feng.7)*
 
 
 

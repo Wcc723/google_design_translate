@@ -156,4 +156,4 @@
 ![](images/components/components-listcontrols-typesofmenucontrols-listcontrols_12_large_mdpi.png)
 
 
-> *翻譯： Peter*
+> *翻譯： [Peter](https://www.facebook.com/viator75)*

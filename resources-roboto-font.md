@@ -6,4 +6,4 @@
 > [Roboto Font](http://material-design.storage.googleapis.com/downloads/RobotoTTF.zip) *1.21 MB (.zip)*
 
 
-> *翻譯： Peter*
+> *翻譯： [Peter](https://www.facebook.com/viator75)*

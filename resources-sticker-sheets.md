@@ -73,4 +73,4 @@
 > 工具提示[Tooltips Stickersheet](http://material-design.storage.googleapis.com/downloads/stickersheet_tooltips.ai)
 *32.9 MB (.ai)*
 
-> *翻譯： Peter*
+> *翻譯： [Peter](https://www.facebook.com/viator75)*

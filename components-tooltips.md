@@ -59,3 +59,5 @@
 ![](images/components/components-tooltips-touchuitooltips-tooltips_19a_large_xhdpi.png)
 
 ![](images/components/components-tooltips-touchuitooltips-tooltips_19b_large_xhdpi.png)
+
+> *翻譯： [Peter](https://www.facebook.com/viator75)*

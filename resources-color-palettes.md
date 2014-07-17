@@ -9,4 +9,4 @@ zip檔案中有色票樣本，可安裝到Adobe Photoshop與Adobe Illustrator中
 *0.13 MB (.zip)*
 
 
-> *翻譯： Peter*
+> *翻譯： [Peter](https://www.facebook.com/viator75)*

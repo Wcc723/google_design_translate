@@ -120,4 +120,4 @@
 > 避免使用無連續性或無順序性的動線，物件進出時也要避免看似隨機的出入動線。
 
 
-> *翻譯： Peter*
+> *翻譯： [Peter](https://www.facebook.com/viator75)*

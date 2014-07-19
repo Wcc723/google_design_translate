@@ -30,7 +30,7 @@
 	* [進度與活動](components-prosgress-and-activity.md) 
 	* [滑軌](components-sliders.md)
 	<!-- * [Snackbars and Toasts](components-snackbars-and-toasts.md) -->
-	<!-- * [Subheaders](components-subheaders.md) -->
+	* [Subheaders](components-subheaders.md)
 	* [開關](components-switches.md)
 	* [頁籤](components-tabs.md)
 	* [文字輸入框](components-text-fields.md)

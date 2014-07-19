@@ -1,11 +1,11 @@
 # Color
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorstory-01_large_xhdpi.png)
+![](images/style/style-color-colorstory-01_large_xhdpi.png)
 
 Color is inspired by bold color statements juxtaposed with muted environments, taking cues from contemporary architecture, road signs, pavement marking tape, and sports courts. Emphasize bold shadows and highlights. Introduce unexpected and vibrant colors.
 
 > [Color Swatch](http://quantum-paper.storage.googleapis.com/downloads/color_swatches.zip)
-
+ 
 ---
 
 ## UI Color Palette
@@ -480,9 +480,9 @@ The color palette starts with primary colors and fills in the spectrum to create
 Limit your choice of colors by choosing three color hues in the primary and one accent color in the secondary palette. The accent color may or may not need fall back options
 
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-01a_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-01a_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-01b_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-01b_large_xhdpi.png)
 
 
 ### Use alpha values for grey text, icons, and dividers
@@ -494,28 +494,28 @@ Other elements, such as icons and dividers, also benefit from having an alpha va
 For white or black text on colored backgrounds, see these tables of color palettes for the appropriate contrast ratios and alpha values.
 
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-02_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-02_large_xhdpi.png)
 
 Bold use of color in large fields in the UI is strongly encouraged. Different elements in the UI will take on different parts of the color theme. Toolbars and larger color blocks will take on the primary 500. This is the main color of your app. The status bar should be the darker 700 tint of your primary color.
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-03_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-03_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-04_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-04_large_xhdpi.png)
 
 ### Accent color
 
 The vibrant accent color are used for your primary action buttons as well as components such as switchers or sliders. Left aligned section icons or section titles can also take on the accent color
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-05_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-05_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-08_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-08_large_xhdpi.png)
 
 ### Fallback accent colors
 
 If your accent color is to light or dark for the background color the general fallback rule is to choose a darker or lighter tint of the accent color. If your accent color doesn’t work at all, fall back to use the primary 500 color on white backgrounds. If the background color is the primary 500 color fall back to white 100% or black 54%.
 
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-04_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-04_large_xhdpi.png)
 
 ---
 
@@ -528,9 +528,9 @@ Themes are a way to apply a consistent tone to an app. The style specifies the d
 
 > [Theme](http://material-design.storage.googleapis.com/downloads/stickersheet_uielements.ai)
 
-![](http://material-design.storage.googleapis.com/images/Style-Color-Themes-theme-01_large_xhdpi.png)
+![](images/style/style-Color-Themes-theme-01_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/Style-Color-Themes-theme-02_large_xhdpi.png)
+![](images/style/style-Color-Themes-theme-02_large_xhdpi.png)
 
 
 

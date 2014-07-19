@@ -7,54 +7,54 @@ Tabs make it easy to explore and switch between different views or functional as
 ## Usage
 
 A tab provides the affordance for displaying an associated grouping of content. A tab label succinctly describes the tab’s associated grouping of content.
-
+ 
 ### Mobile Tabs
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-02_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-02_large_mdpi.png)
 
 > Extended app bar + tab bar
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-03_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-03_large_mdpi.png)
 
 > Inset search + app bar + tab bar
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-06_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-06_large_mdpi.png)
 
 > Default app bar + tab bar
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-08_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-08_large_mdpi.png)
  
 > Default app bar + scrollable tab bar
  
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-07_large_mdpi.png) 
+![](images/components/components-tabs-usage-tabs-spec-07_large_mdpi.png) 
 
 > Text color same as tab indicator
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-17_large_mdpi.png) 
+![](images/components/components-tabs-usage-tabs-spec-17_large_mdpi.png) 
  
 > Tab bar locked on scroll
 
 ### Desktop tabs
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-09_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-09_large_mdpi.png)
  
 > Default app bar + tab bar
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-15_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-15_large_mdpi.png)
 
 > Addition of “More” overflow dropdown menu
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-12_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-12_large_mdpi.png)
 
 > Tab overflow pagination, Step 1
  
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-13_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-13_large_mdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-16_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-16_large_mdpi.png)
  
 > Menu expanded
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-14_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-14_large_mdpi.png)
 
 > Tab bar centered
 
@@ -66,11 +66,11 @@ Although tabbed content may be navigational in nature (e.g., map route options t
 
 Tabs are also not used for carousels or pagination of content (for example, swiping between pages of apps).
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_do_10_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs_do_10_large_mdpi.png)
  
 > Do.
  
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_dont_10_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs_dont_10_large_mdpi.png)
 
 > Don't.
 
@@ -90,19 +90,19 @@ Tabs are grouped together and the group of tabs are in turn connected with their
 
 Keeping tabs adjacent to their content helps maintain the relationship between the two, as too great a separation can introduce ambiguity.
  
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_do_06_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs_do_06_large_mdpi.png)
 
 > Do.
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_dont_06_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs_dont_06_large_mdpi.png)
  
 > Don't.
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_do_08_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs_do_08_large_mdpi.png)
  
 > Do.
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs_dont_08_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs_dont_08_large_mdpi.png)
  
 > Don't.
 
@@ -123,7 +123,7 @@ Tab labels may be icons or text, and must not be truncated.
 
 Avoid the need for cross-tab comparison of content; significant cross-tab comparison may indicate the content would benefit from a different organization or presentation.
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-content-tabs_15_large_mdpi.png)
+![](images/components/components-tabs-content-tabs_15_large_mdpi.png)
 
 ---
 
@@ -137,7 +137,7 @@ Fixed tabs display all tabs concurrently and are best used with content that ben
 
 The maximum number of tabs is effectively limited by the view’s width. Fixed tabs have equal width, based on the widest tab label. To navigate between fixed tabs, touch the tab or swipe the content area left or right.
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-typesoftabs-tabs-spec-06_large_mdpi.png)
+![](images/components/components-tabs-typesoftabs-tabs-spec-06_large_mdpi.png)
 
 ### Scrollable tabs
 
@@ -145,9 +145,9 @@ Scrollable tabs display a subset of tabs at any given moment, and can contain lo
 
 To navigate between scrollable tabs, touch the tab, swipe the tabs left or right, or swipe the content area left or right.
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-12_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-12_large_mdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-usage-tabs-spec-13_large_mdpi.png)
+![](images/components/components-tabs-usage-tabs-spec-13_large_mdpi.png)
 
 ---
 
@@ -167,7 +167,7 @@ Active text color: #fff or secondary color
 
 Disabled text color: #fff 60%
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-typesoftabs-tabs-spec-04_large_mdpi.png)
+![](images/components/components-tabs-typesoftabs-tabs-spec-04_large_mdpi.png)
 
 ### Scrollable
 
@@ -181,7 +181,7 @@ Active text color: #fff or secondary color
 
 Disabled text color: #fff 60%
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-typesoftabs-tabs-spec-05_large_mdpi.png)
+![](images/components/components-tabs-typesoftabs-tabs-spec-05_large_mdpi.png)
 
 ### Desktop/Tablet
 
@@ -195,7 +195,7 @@ Active text color: #fff or secondary color
 
 Disabled text color: #fff 60%
 
-![](http://material-design.storage.googleapis.com/images/components-tabs-typesoftabs-tabs-spec-10_large_mdpi.png)
+![](images/components/components-tabs-typesoftabs-tabs-spec-10_large_mdpi.png)
 
 ### Tab touch target animation
 

@@ -17,6 +17,7 @@ A **grid list** is a continuous element consisting of tessellated, regular subdi
 **Tiles** hold content, and can span one or more cells vertically or horizontally.
 
 ![](images/components/components-grids-usage-spec_grid_drawings_02a_large_mdpi.png)
+
 ![](images/components/components-grids-usage-spec_grid_drawings_02b_large_mdpi.png)
 
 If the text in tiles needs to be prominent enough to distinguish between primary content pieces, consider using a different container, like a list or cards, that is optimized for displaying text and facilitating reading comprehension.

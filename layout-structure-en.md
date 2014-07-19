@@ -61,37 +61,37 @@ Regardless of the top-level view strategy you select, in-context navigation is a
 
 This structure includes a permanent app bar and floating action button. An optional bottom bar can be added for additional functionality or action overflow. Side nav menus that users can access as needed overlay all other structural elements.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-uiregions-uiregions-01_large_xhdpi.png)
+![](images/layout/layout-structure-uiregions-uiregions-01_large_xhdpi.png)
 
 ### Tablet
 
 This structure shows a permanent app bar with floating action button. The app bar absorbs elements from tablet and mobile bottom bars. An optional bottom bar can be added for additional functionality or action overflow. A left navigation menu that users can can access as needed overlays all other structural elements. A right nav menu can be accessed temporarily or pinned for permanent display.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-uiregions-uiregions-02_large_xhdpi.png)
+![](images/layout/layout-structure-uiregions-uiregions-02_large_xhdpi.png)
 
 ### Desktop
 
 This structure contains a permanent app bar with floating action button. The app bar absorbs elements from tablet and mobile bottom bars. Where possible, the window controls are absorbed into the app bar. Side navigation menus can be accessed temporarily or pinned for permanent display. Side nav menus as well as the content canvas can have their own secondary toolbars for tabs, palettes, or secondary actions.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-uiregions-uiregions-03_large_xhdpi.png)
+![](images/layout/layout-structure-uiregions-uiregions-03_large_xhdpi.png)
 
 ### UI Guidance
 
 Define a primary horizontal or vertical divider.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-uiregions-uiregions-04_large_xhdpi.png)
+![](images/layout/layout-structure-uiregions-uiregions-04_large_xhdpi.png)
 
 > Avoid slicing up the interface into too many regions which can cause L shapes. Instead, use whitespace to delineate secondary areas.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-uiregions-uiregions-05_large_xhdpi.png)
+![](images/layout/layout-structure-uiregions-uiregions-05_large_xhdpi.png)
 
 > Break edges with cards and floating action buttons.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-uiregions-uiregions-06_large_xhdpi.png)
+![](images/layout/layout-structure-uiregions-uiregions-06_large_xhdpi.png)
 
 > Use cards to organize content when specific behaviors are needed or if informational groupings require greater separation than whitespace or dividers can provide.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-uiregions-uiregions-07_large_xhdpi.png)
+![](images/layout/layout-structure-uiregions-uiregions-07_large_xhdpi.png)
 
 ---
 
@@ -99,39 +99,39 @@ Define a primary horizontal or vertical divider.
 
 Toolbars are versatile and can be applied to various places in an app. Here are some examples of where you can use toolbars.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-toolbars-toolbars-01_large_xhdpi.png)
+![](images/layout/layout-structure-toolbars-toolbars-01_large_xhdpi.png)
 
 > Full-width, default height app bar
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-toolbars-toolbars-02_large_xhdpi.png)
+![](images/layout/layout-structure-toolbars-toolbars-02_large_xhdpi.png)
 
 > Full-width, default height app bar
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-toolbars-toolbars-02_large_xhdpi.png)
+![](images/layout/layout-structure-toolbars-toolbars-02_large_xhdpi.png)
 
 > Full-width, extended height app bar spanning multiple column widths
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-toolbars-toolbars-03_large_xhdpi.png)
+![](images/layout/layout-structure-toolbars-toolbars-03_large_xhdpi.png)
 
 > Column-width toolbars at multiple levels of hierarchy
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-toolbars-toolbars-04_large_xhdpi.png)
+![](images/layout/layout-structure-toolbars-toolbars-04_large_xhdpi.png)
 
 > Flexible toolbar and card toolbar
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-toolbars-toolbars-05_large_xhdpi.png)
+![](images/layout/layout-structure-toolbars-toolbars-05_large_xhdpi.png)
 
 > Floating toolbar
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-toolbars-toolbars-06_large_xhdpi.png)
+![](images/layout/layout-structure-toolbars-toolbars-06_large_xhdpi.png)
 
 > Detached toolbar palette
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-toolbars-toolbars-07a_large_xhdpi.png)
+![](images/layout/layout-structure-toolbars-toolbars-07a_large_xhdpi.png)
 
 > Bottom Toolbar that launches to a shelf and clings to top of keyboard or other bottom component
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-toolbars-toolbars-08a_large_xhdpi.png)
+![](images/layout/layout-structure-toolbars-toolbars-08a_large_xhdpi.png)
 
 > Bottom Toolbar shelf
 
@@ -147,21 +147,21 @@ If your app uses a nav drawer, the nav icon opens it and can morph into a back a
 
 The right icons are app-related actions. The menu icon opens the overflow menu, which contains menu items like, help, settings, and feedback.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-01_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-01_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-02_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-02_large_xhdpi.png)
 
 > Light
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-03_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-03_large_xhdpi.png)
 
 > Dark
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-04_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-04_large_xhdpi.png)
 
 > Colored
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-05_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-05_large_xhdpi.png)
 
 > Transparent
 
@@ -177,24 +177,24 @@ Tablet/Desktop: 64dp
 
 For extended app bars, the height is equal to the default height plus content increment(s).
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-06_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-06_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-07_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-07_large_xhdpi.png)
 
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-08_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-08_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-09_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-09_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-10_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-10_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-11_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-11_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-12_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-12_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-13_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-13_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-14_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-14_large_xhdpi.png)
 
 ---
 
@@ -202,15 +202,15 @@ For extended app bars, the height is equal to the default height plus content in
 
 A menu is a temporary sheet of paper that always overlaps the app bar, rather than behaving as an extension of the app bar.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-15_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-15_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-16_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-16_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-17_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-17_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-18_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-18_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-appbar-appbar-19_large_xhdpi.png)
+![](images/layout/layout-structure-appbar-appbar-19_large_xhdpi.png)
 
 ---
 
@@ -218,9 +218,9 @@ A menu is a temporary sheet of paper that always overlaps the app bar, rather th
 
 If present, the left and right nav drawers can be pinned for permanent display or they can float temporarily as overlays. The content in the left nav should primarily be navigation- or identity-based. The content in the right nav should primarily be a deeper level of info secondary to the main content on a page.
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-sidenav-sidenav-01_large_xhdpi.png)
+![](images/layout/layout-structure-sidenav-sidenav-01_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-sidenav-sidenav-02_large_xhdpi.png)
+![](images/layout/layout-structure-sidenav-sidenav-02_large_xhdpi.png)
 
 ---
 
@@ -246,18 +246,18 @@ Desktop/tablet: Pinned, width should align to columns.
 
 Floating max width: 304 dp
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-sidenav-sidenav-03_large_xhdpi.png)
+![](images/layout/layout-structure-sidenav-sidenav-03_large_xhdpi.png)
 
 > Mobile
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-sidenav-sidenav-04_large_xhdpi.png)
+![](images/layout/layout-structure-sidenav-sidenav-04_large_xhdpi.png)
 
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-drive_chrome-04_large_xhdpi.png)
+![](images/layout/layout-structure-drive_chrome-04_large_xhdpi.png)
 
 > Desktop left nav drawer
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-drive_chrome-02_large_xhdpi.png)
+![](images/layout/layout-structure-drive_chrome-02_large_xhdpi.png)
 
 > Desktop right nav drawer
 
@@ -269,35 +269,35 @@ Whiteframes provide a variety of layout structures using a consistent approach t
 
 > [Whiteframe](http://material-design.storage.googleapis.com/downloads/Whiteframes.ai)
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_bigtop_large_xhdpi.png)
+![](images/layout/layout-structure-whiteframe_bigtop_large_xhdpi.png)
 
 > Carded content that expands and collapses
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_calendar_large_xhdpi.png)
+![](images/layout/layout-structure-whiteframe_calendar_large_xhdpi.png)
 
 > Overlaid content details and focused app bar on mobile
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_contacts_large_xhdpi.png)
+![](images/layout/layout-structure-whiteframe_contacts_large_xhdpi.png)
 
 > Overlapping content card with multiple toolbars and background image on mobile
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_drive_large_xhdpi.png)
+![](images/layout/layout-structure-whiteframe_drive_large_xhdpi.png)
 
 > Extended app bar and right nav drawer
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_gallery_large_xhdpi.png)
+![](images/layout/layout-structure-whiteframe_gallery_large_xhdpi.png)
 
 > Left nav drawer and 1-up stream on mobile
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_mail_large_xhdpi.png)
+![](images/layout/layout-structure-whiteframe_mail_large_xhdpi.png)
 
 > Source list
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_maps_large_xhdpi.png)
+![](images/layout/layout-structure-whiteframe_maps_large_xhdpi.png)
 
 > Fullscreen background image with inset search field and carded search results
 
-![](http://material-design.storage.googleapis.com/images/layout-structure-whiteframe_music_large_xhdpi.png)
+![](images/layout/layout-structure-whiteframe_music_large_xhdpi.png)
 
 > Expandable footer drawer
 

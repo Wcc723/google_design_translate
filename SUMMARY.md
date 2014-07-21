@@ -29,8 +29,8 @@
 	* [菜單](components-menus.md) 
 	* [進度與活動](components-prosgress-and-activity.md) 
 	* [滑軌](components-sliders.md)
-	<!-- * [Snackbars and Toasts](components-snackbars-and-toasts.md) -->
-	* [Subheaders](components-subheaders.md)
+	* [Snackbars and Toasts](components-snackbars-and-toasts.md)
+	* [副標題](components-subheaders.md)
 	* [開關](components-switches.md)
 	* [頁籤](components-tabs.md)
 	* [文字輸入框](components-text-fields.md)
@@ -38,9 +38,9 @@
 * Pattern
 	* [選擇](patterns-selection.md)
 	* [手勢](patterns-gestures.md) 
-	<!-- * [Promotes Actions](patterns-promotes-actions.md) -->
+	* [促進式指令](patterns-promotes-actions.md)
 	* [設定](patterns-settings.md)
-	<!-- * [Imagery Treatment](patterns-imagery-treatment.md) -->
+	* [影像處理](patterns-imagery-treatment.md)
 	* [搜尋](patterns-search.md) 
 * Usability
 	* [親和性](usability-accessibility.md)

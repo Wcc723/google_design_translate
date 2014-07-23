@@ -2,280 +2,279 @@
 
 ![](images/style/style-imagery-style_philosophy_large_xhdpi.png)
 
-In material design, imagery—whether illustration or photography—is constructed but never contrived, magical but never overproduced. The style is optimistic, delightful and honest. Materiality, texture, depth, unexpected use of color, and appreciation of context are emphasized. The principles of imagery support the goal of purposeful, thoughtful, beautiful UIs.
+在material design，影像，無論插圖或攝影的構造，都是沒有做作的、神奇的、但從來沒有產量過剩的情形。
+風格是樂觀的、令人愉快和誠實的。實質性、質地、深度、意想不到的色彩運用，以及應用程式內容的強調。
+圖像的原則支持目的性，有想法，以及漂亮的使用者介面。
 
-## Principles
+## 原則
 
-When using illustration and photography to enhance the user experience, choose images that express personal relevance, information and delight.
+當使用插圖和攝影來提升用戶體驗，建議選擇表達個人相關信息和喜悅的圖像。
 
 ![](images/style/style-imagery-principles-personal_20relevance_large_xhdpi.png)
 
-> **Personal Relevance**
+> **個人相關**
 >
-> Use evocative imagery that establishes an emotional connection with the app.
+> 使用令人回味的影像，建立與應用程序的情感聯繫。
 
 ![](images/style/style-imagery-principles-information_large_xhdpi.png)
 
-> **Information**
-> Convey specific information. Facilitate comprehension to create an experience that feels intelligent.
+> **內含訊息**
+> 傳達特定的信息讓使用者便於理解，創造一個智能的感覺經驗。
 
 ![](images/style/style-imagery-principles-delight_large_xhdpi.png)
 
-> **Delight**
+> **樂趣情境**
 >
-> Delight the user with unexpected but relevant imagery to make the experience feel magical.
+> 使用讓使用者愉悅且意想不到但訊息相關的圖像，使對方覺得不可思議、並不謀而合。
 
-### Appreciation of context
+### 應用程式內容
 
-Incorporate logic to ensure images are dynamic, context-intelligent, and context-relevant. Predictive visuals display a level of intelligence that substantially improves the user experience.
+統合邏輯以確保圖像是動態、生動的，上下文易理解，以及上下文有相關性。能預測的視覺效果顯示了傳達的層級，大幅改善使用者體驗。
 
 ![](images/style/style-imagery-principles-appreciaton_content_large_xhdpi.png)
 
-### Be Immersive
+### 身歷其境
 
-Don’t be afraid of obscuring or alluding to integrated heros and thumbnails through color and content overlays.
+別害怕嘗試遮蔽或去提示整合的英雄們，
+以及小圖覆蓋色彩、內文遮蔽等等。
 
 ![](images/style/style-imagery-principles-immersive_20obscure_large_xhdpi.png)
 
-## Best Practices
+## 最佳實踐
 
-### Use Multiple Mediums
+### 使用各種不同媒介
 
-Both illustration and photography can live within the same product. Photography automatically implies a degree of specificity and should be used to showcase specific entities and stories. Illustration is effective for representing concepts and metaphors where specific photography might be alienating.
+這兩張圖和攝影可以使用在同一個產品中。攝影直覺意味著一定程度的特殊性，應該用來展示個別、實質和故事。
+插圖則是有效的代表概念，以及隱喻特殊的圖像中的距離感。
 
 ![](images/style/style-imagery-bestpractices-multiple-mediums-a_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 > 
-> For specific entities, look first to photographic representation.
+> 對於明確的實體，使用第一眼能注意到的照片表示。
 
 ![](images/style/style-imagery-bestpractices-multiple-mediums-b_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 > 
-> When total specificity is not available or applicable, illustration conveys your app's intelligence while allowing at-a-glance comprehension of content.
+> 當所有的特殊性不可用或不適用，使用插畫能清楚傳達應用程式的情報，在使用者一覽易理解的內容時。
 
 ![](images/style/style-imagery-bestpractices-watch_stock-do_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 >
-> If you use photography to convey a concept, develop considered, even metaphorical, pieces.
+> 如果你用照片來傳達一個概念、發展研究，甚至是隱喻以及片段。
 
 ![](images/style/style-imagery-bestpractices-watch-stock-dont_large_xhdpi.png)
 
-> Don't.
+> 不能這麼做
 >
-> Don't default to literal stock photography.
+> 不要預設當成是文字的圖片庫
 
-### Stay away from stock
+### 遠離圖庫
 
-Use imagery to express a distinctive voice and exemplify creative excellence.
+用圖像來傳達一種獨特的聲音和體現創意的卓越。
 
-For specific entities or branded content, use specific imagery. For more abstract content, be interpretive. Photographic stock and clipart is neither specific nor interpretive.
+對於特定的實體或品牌的內容，用具體的意象。
+對於較抽象的內容，多一些敘述內容。
+照片圖庫和拼貼畫面並不能傳達內容的額外資訊或暗示。
 
 ![](images/style/style-imagery-bestpractices-stock-do_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 
 ![](images/style/style-imagery-bestpractices-stock-dont_large_xhdpi.png)
 
-> Don't
+> 不能這麼做
 
-### Have a point of focus
+### 聚焦一個重點
 
-Have an iconic point of focus in your imagery. Focus ranges from a single entity to an overarching composition. Ensure that a clear concept is conveyed to the user in a memorable way.
+使用具有焦點、且有標誌性意義的圖像。聚焦範圍從單一實體到全體組合。確保用一個難忘的方式將清晰的概念傳達給使用者。
 
 ![](images/style/style-imagery-bestpractices-point-focus-reminder-do_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 
 ![](images/style/style-imagery-bestpractices-point-focus-reminder-dont_large_xhdpi.png)
 
-> Don't
+> 不能這麼做
 
 ![](images/style/style-imagery-bestpractices-point-focus-sf-do_large_xhdpi.png)
 
-> Do
+> 能這麼做
 
 ![](images/style/style-imagery-bestpractices-point-focus-sf-dont_large_xhdpi.png)
 
-> Don't
+> 不能這麼做
 
 ![](images/style/style-imagery-bestpractices-point-focus-flight-do_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 
 ![](images/style/style-imagery-bestpractices-point-focus-flight-dont_large_xhdpi.png)
 
-> Don't.
+> 不能這麼做
 
-### Build narratives
+### 創造一個故事
 
-Create an immersive story and a sense of context.
+營造一個有故事背景以及內容的感覺。
 
 ![](images/style/style-imagery-bestpractices-narrative-appointment-do_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 
 ![](images/style/style-imagery-bestpractices-narrative-appointment-dont_large_xhdpi.png)
 
-> Don't
+> 不能這麼做
 
 ![](images/style/style-imagery-bestpractices-narrative-carseat-do_large_xhdpi.png)
 
-> Do
+> 能這麼做
 
 ![](images/style/style-imagery-bestpractices-narrative-carseat-dont_large_xhdpi.png)
 
-> Don't.
+> 不能這麼做
 
 
-### Don't Over-Manipulate
+### 不要過度加工
 
-Maintain the original integrity of the image. Don’t apply heavy filters or gaussian blurs to imagery, especially when trying to hide degradation.
+保留圖像的原始完整性。
+不要施加沉重的濾鏡或高斯模糊效果，
+尤其是為了要隱藏圖片解析度太差。
 
 ![](images/style/style-imagery-bestpractices-manipulate-flowers-do_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 
 ![](images/style/style-imagery-bestpractices-manipulate-flowers-dont_large_xhdpi.png)
 
-> Don't
+> 不能這麼做
 
 ![](images/style/style-imagery-bestpractices-manipulate-lake-do_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 
 ![](images/style/style-imagery-bestpractices-manipulate-lake-dont_large_xhdpi.png)
 
-> Don't
+> 不能這麼做
 
-## UI Integration
+## 使用者介面統合
 
-### Resolution
+### 決議
 
-Make sure your images are appropriately sized for their containers and across platforms. The framework emphasizes large images. Ideally, the assets should not appear pixelated. Test appropriate resolution sizes for specific ratios and devices.
+請確保您的圖像的大小適應各種發佈此產品的平台、裝置。
+使用的框架注重高畫質圖像。理想情況下，不應該會出現像素化。測試合適的大小以及比率支援各種設備。
 
 
 ![](images/style/style-imagery-integration-resolutiona_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 >
-> Appropriately sized imagery
+> 適當大小的圖樣
 
 ![](images/style/style-imagery-integration-resolutionb_large_xhdpi.png)
 
 
-> Don't.
+> 不能這麼做
 > 
-> Degraded imagery
+> 解析度太差的圖像
 
-### Introduce Scale
+### 縮放大小
 
-Introduce alternative scales to create levels of visual importance.
+使用替換的縮放大小來創造視覺重要性的層級。
 
 ![](images/style/style-imagery-integration-introduce_scalea_large_xhdpi.png)
 
-> Within a gallery context, introduce thumbnails of various sizes to convey content hierarchy.
+> 在一個畫廊內容中，引入各種尺寸的略縮圖來傳達內容層次結構。
 
 ![](images/style/style-imagery-integration-introduce_scaleb_large_xhdpi.png)
 
-> Encourage multiple containers living in the same ecosystem.
+> 建議畫面有多種內容時使用同一種系統架構呈現。
 
-### Text Protection
+### 凸顯文字
 
-To make typography legible on imagery, add text protection scrims.
+為了使文字清晰的顯示在圖像上方，添加文字保護的紗。
 
 ![](images/style/style-imagery-integration-typetreatment1do_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 >
-> Dark scrims should ideally be between 20%-40% opacity depending on the content. Light scrims should ideally range from 40%-60% opacity depending on the content.
+> 取決於不同內容，陰影的不透明度應當在20％-40％最為理想，光暈的理想範圍則在40％-60％不透明度。
 
 ![](images/style/style-imagery-integration-typetreatment1dont_large_xhdpi.png)
 
-> Don't
+> 不能這麼做
 > 
-> Don't heavily obscure imagery with text protection scrims.
+> 不要用太厚重的陰影來保護文字，導致圖片晦暗。
 
 ![](images/style/style-imagery-integration-typetreatment2do_large_xhdpi.png)
 
 
-> Do.
+> 能這麼做
 >
-> For larger real estate, target specific areas for text protection instead of blanketing the entire image.
+> 對於較大的區塊，如果要凸顯文字，請保護特定區域，而不是籠罩整個圖像。
 
 ![](images/style/style-imagery-integration-typetreatment2dont_large_xhdpi.png)
 
-> Don't.
+> 不能這麼做
 >
-> Don’t "over-scrim" large images.
+> 不要將整張圖像套上一層遮罩。
 
 ![](images/style/style-imagery-integration-typetreatment3do_large_xhdpi.png)
 
-> Do.
+> 能這麼做
 >
-> Color overlays are different than text-protection scrims and can be used as a design element. When creating complementary color overlays, color-sample from the juxtaposed content to create a unified palette and show content awareness.
+> 顏色疊加跟文字保護不同，可以用來作為設計元素。當創建補色疊加，從並列的顏色樣本來創建一個統一的調色板以及顯示內容的意象。
 
 ![](images/style/style-imagery-integration-typetreatment3dont_large_xhdpi.png)
 
-> Don't
+> 不能這麼做
 
-### Avatars and Thumbnails
+### 頭像跟略縮圖
 
-Avatars and thumbnails represent entities or content, either literally through photography or conceptually through illustration. Generally, they are tap targets that lead to a primary view of the entity or content.
+頭像和縮略圖代表的實體或內容，無論是從字面上通過攝影或概念，通過例證。一般來說，它們是影響主視圖與實體內容的目標。
 
-Avatars can be used to represent people. For personal avatars, offer personalization options. As users may choose not to personalize an avatar, provide delightful defaults. When used with a specific logo, avatars can also be used to represent brand.
+化身可被用於表示人。對於個人頭像，提供個性化的選擇。由於用戶可以選擇不進行個人化頭像，提供令人愉快的默認值。
+當與一個特定的標誌使用，替身也可以用來表示品牌。
 
-Thumbnails allude to more information—letting the user peek into content—and assist navigation. Thumbnails let you include imagery in tight spaces.
+縮略圖暗示更多的信息讓用戶一窺內容，並協助導航。縮略圖讓你可以在狹小的空間置放圖片。
 
 ![](images/style/style-imagery-integration-imagetypeavatarsa_large_xhdpi.png)
 
-> Avatars make an app feel more personal—and occupy minimal space.
+> 化身使一個應用程式感覺更多人使用，且佔用最小空間。
 
 ![](images/style/style-imagery-integration-imagetypeavatarsb_large_xhdpi.png)
 
-> A brand avatar communicates information at a glance, as does the thumbnail image.
+> 一個企業形象的略縮圖，一目了然了傳達企業形象。
 
-### Hero Images
+### 英雄形象
 
-Hero images are images that are usually anchored in a prominent position, above the fold, such as a banner at the top of the screen. They serve to draw in a user, provide context about the content, or reinforce brand.
+英雄形象圖片，通常是擺放在突出位置，如橫幅在畫面的頂部。他們為拉攏使用者，提供了與上下文有關的內容，或加強了品牌意念
 
 ![](images/style/style-imagery-integration-imagetypeheroa_large_xhdpi.png)
 
-> **Feature image**
+> **特徵圖像**
 >
-> A feature image is a bold, primary point of focus within a heterogeneous layout.
+> 特徵圖像是在異類佈局中重要而基本的焦點。
 
 ![](images/style/style-imagery-integration-imagetypeherob_large_xhdpi.png)
 
-> **Integrated hero image**
+> **英雄形象集合**
 >
-> Integrated hero images create a setting for heterogeneous pieces of content within a layout. They are not the primary points of focus.
+> 整合的英雄圖像建立了一個設置在不同的版面內文片段中。他們不是主要的焦點。
 
-### Gallery
+### 畫廊
 
-Gallery images are bold visual hero images within homogeneous layouts in either a grid or as a single image.
+畫廊內的圖像是強烈的英雄形象圖片，每個圖像都使用grid系統均勻的佈置，作為一張圖的單一形象，
 
 ![](images/style/style-imagery-integration-imagetypegallerya_large_xhdpi.png)
 
-> **Photo grid**
+> **圖片網格**
 
 ![](images/style/style-imagery-integration-imagetypegalleryb_large_xhdpi.png)
 
-> **Gallery image**
+> **畫廊圖片**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+> *翻譯： Tillonter*
 

@@ -11,7 +11,7 @@
 	* [顏色](style-color.md)
 	* [排版樣式](style-typography.md)
 	* [圖示](style-icons.md)
-	<!-- * [Imagery](style-imagery.md) -->
+	* [圖像](style-imagery.md)
 * Layout
 	* [原則](layout-principles.md)
 	* [指標及標線](layout-metrics-and-keylines.md)

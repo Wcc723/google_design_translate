@@ -6,16 +6,16 @@
 
 感謝下面人員參與本翻譯計畫(依暱稱第一個英文字母排序)：
 
-- Casper
+- [Casper](http://wcc723.github.io/)
 - Charlene
-- Frances
-- Helen
+- [Frances](https://www.facebook.com/Francishuang1224)
+- [Helen](http://weijutu.blogspot.tw/)
 - Mkdodos
 - Tillonter
-- Peter
+- [Peter](https://www.facebook.com/viator75)
 - Xuan
 - Xunyi
-- 陳聖博
+- [陳聖博](https://www.facebook.com/Shengbo.Arthur.Chen)
 
 ## Github
 

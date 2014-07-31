@@ -23,4 +23,6 @@
 
 ## 校稿
 
-對於翻譯有任何問題，可以在 Issue 中提出。
+對於翻譯有任何問題，可以在 [Issue](https://github.com/Wcc723/google_design_translate/issues) 中提出，或者使用 [Pull requests](https://github.com/Wcc723/google_design_translate/pulls) 。
+
+當然直接聯絡 [負責人](https://www.facebook.com/chihcheng.wang.3) 也是可以的。

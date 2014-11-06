@@ -33,10 +33,9 @@
 
 ![](images/style/style-imagery-principles-appreciaton_content_large_xhdpi.png)
 
-### 身歷其境
+### 3D思維
 
-別害怕嘗試遮蔽或去提示整合的英雄們，
-以及小圖覆蓋色彩、內文遮蔽等等。
+別害怕以色彩和文字疊層遮掩或提示到整合的英雄圖像與小圖示。
 
 ![](images/style/style-imagery-principles-immersive_20obscure_large_xhdpi.png)
 
@@ -277,4 +276,5 @@
 
 
 > *翻譯： Tillonter*
-
+>
+> *校稿： [陳世能](https://www.facebook.com/shihneng.chen)*

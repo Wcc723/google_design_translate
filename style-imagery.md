@@ -2,32 +2,32 @@
 
 ![](images/style/style-imagery-style_philosophy_large_xhdpi.png)
 
-在material design，影像，無論插圖或攝影的構造，都是沒有做作的、神奇的、但從來沒有產量過剩的情形。
-風格是樂觀的、令人愉快和誠實的。實質性、質地、深度、意想不到的色彩運用，以及應用程式內容的強調。
-圖像的原則支持目的性，有想法，以及漂亮的使用者介面。
+圖像不只是裝飾。圖像是一個幫助你傳遞和差異化你的產品的強大工具。大膽、生動、有目的的圖像有助於吸引使用者。
+
+不論心情是壓抑且緩和的或者是明亮且多彩的，以下的原則和最佳實作可以幫助你成功地整合圖像並且賦予你的應用程式生命，適用於任何品牌形象。
 
 ## 原則
 
-當使用插圖和攝影來提升用戶體驗，建議選擇表達個人相關信息和喜悅的圖像。
+當使用圖片和影像來提升用戶體驗，建議選擇可以傳達個人相關的、資訊和喜悅，這些原則可以幫助傳遞你的產品的圖像涵義。
 
 ![](images/style/style-imagery-principles-personal_20relevance_large_xhdpi.png)
 
 > **個人相關**
 >
-> 使用令人回味的影像，建立與應用程序的情感聯繫。
+> 一個聰明的應用程式會有可以準確反映內文和使用者所居住的世界。
 
 ![](images/style/style-imagery-principles-information_large_xhdpi.png)
 
 > **內含訊息**
-> 傳達特定的信息讓使用者便於理解，創造一個智能的感覺經驗。
+> 傳達特定的信息，加速並促進理解。
 
 ![](images/style/style-imagery-principles-delight_large_xhdpi.png)
 
-> **樂趣情境**
+> **喜悅**
 >
-> 使用讓使用者愉悅且意想不到但訊息相關的圖像，使對方覺得不可思議、並不謀而合。
+> 具有美感的體貼想法與合適的內文，可以讓你產品感覺是特殊的並且和你的使用者感受相關，藉此使你的使用者覺得愉快。
 
-### 應用程式內容
+### 善用上下文
 
 統合邏輯以確保圖像是動態、生動的，上下文易理解，以及上下文有相關性。能預測的視覺效果顯示了傳達的層級，大幅改善使用者體驗。
 
@@ -43,26 +43,25 @@
 
 ### 使用各種不同媒介
 
-這兩張圖和攝影可以使用在同一個產品中。攝影直覺意味著一定程度的特殊性，應該用來展示個別、實質和故事。
-插圖則是有效的代表概念，以及隱喻特殊的圖像中的距離感。
+這兩張圖和攝影可以使用在同一個產品中。攝影自動地意味著一定程度的特殊性，應該用來展示特定的對象和故事。插圖是一個在攝影可能無法有效表達意念的情形下，卻能有效地展現概念和隱喻的方式。
 
 ![](images/style/style-imagery-bestpractices-multiple-mediums-a_large_xhdpi.png)
 
 > 能這麼做
 > 
-> 對於明確的實體，使用第一眼能注意到的照片表示。
+> 對於明確的實體，首先使用攝影來表達。
 
 ![](images/style/style-imagery-bestpractices-multiple-mediums-b_large_xhdpi.png)
 
 > 能這麼做
 > 
-> 當所有的特殊性不可用或不適用，使用插畫能清楚傳達應用程式的情報，在使用者一覽易理解的內容時。
+> 當所有的特殊性不可用或不適用，使用插畫能清楚傳達應用程式情報，同時也提供了對於內容的立即了解。
 
 ![](images/style/style-imagery-bestpractices-watch_stock-do_large_xhdpi.png)
 
 > 能這麼做
 >
-> 如果你用照片來傳達一個概念、發展研究，甚至是隱喻以及片段。
+> 對於特定的概念，使用特定的照片。
 
 ![](images/style/style-imagery-bestpractices-watch-stock-dont_large_xhdpi.png)
 
@@ -93,46 +92,66 @@
 ![](images/style/style-imagery-bestpractices-point-focus-reminder-do_large_xhdpi.png)
 
 > 能這麼做
+>
+> 讓意思可以立刻被辨別。
 
 ![](images/style/style-imagery-bestpractices-point-focus-reminder-dont_large_xhdpi.png)
 
 > 不能這麼做
+>
+> 不要讓使用者尋思圖像中要表達的意思。
 
 ![](images/style/style-imagery-bestpractices-point-focus-sf-do_large_xhdpi.png)
 
 > 能這麼做
+>
+> 具有最強力傳達能力的圖像，包含了少量地具有意義的元素和最少的使人分心的元素。
 
 ![](images/style/style-imagery-bestpractices-point-focus-sf-dont_large_xhdpi.png)
 
 > 不能這麼做
+> 
+> 當重點被模糊掉了，圖像的傳達能力的特質也就消失了。
 
 ![](images/style/style-imagery-bestpractices-point-focus-flight-do_large_xhdpi.png)
 
 > 能這麼做
+>
+> 一個清晰的重點在第一眼就傳遞了整個概念。
 
 ![](images/style/style-imagery-bestpractices-point-focus-flight-dont_large_xhdpi.png)
 
 > 不能這麼做
+>
+> 失去了重點讓圖像毫無意義。
 
 ### 創造一個故事
 
-營造一個有故事背景以及內容的感覺。
+營造一個讓人身歷其境的故事和一個對內容的感覺來讓應用程式人性化。透過視覺化的故事來定義一個情緒。令人有所啟發的？陰沉的？歡樂的？
 
 ![](images/style/style-imagery-bestpractices-narrative-appointment-do_large_xhdpi.png)
 
 > 能這麼做
+>
+> 一個可以說故事的影像是非常有趣而且可以傳遞訊息的。
 
 ![](images/style/style-imagery-bestpractices-narrative-appointment-dont_large_xhdpi.png)
 
 > 不能這麼做
+>
+> 一個沒有故事的影像喪失了可以傳遞情緒、品牌和內容的機會。
 
 ![](images/style/style-imagery-bestpractices-narrative-carseat-do_large_xhdpi.png)
 
 > 能這麼做
+>
+> 適當地與內容相連結的概念更有效地傳送你的訊息與品牌。
 
 ![](images/style/style-imagery-bestpractices-narrative-carseat-dont_large_xhdpi.png)
 
 > 不能這麼做
+>
+> 一個與內容無關的呈現方式是無趣的。
 
 
 ### 不要過度加工
@@ -159,7 +178,7 @@
 
 ## 使用者介面統合
 
-### 決議
+### 解析度
 
 請確保您的圖像的大小適應各種發佈此產品的平台、裝置。
 使用的框架注重高畫質圖像。理想情況下，不應該會出現像素化。測試合適的大小以及比率支援各種設備。
@@ -188,7 +207,7 @@
 
 ![](images/style/style-imagery-integration-introduce_scaleb_large_xhdpi.png)
 
-> 建議畫面有多種內容時使用同一種系統架構呈現。
+> 推薦在同一個生態圈中使用各種容器。
 
 ### 凸顯文字
 
@@ -198,7 +217,7 @@
 
 > 能這麼做
 >
-> 取決於不同內容，陰影的不透明度應當在20％-40％最為理想，光暈的理想範圍則在40％-60％不透明度。
+> 取決於不同內容，深的紗的不透明度應當在20％-40％、淺的紗應當在40％-60％最為理想。
 
 ![](images/style/style-imagery-integration-typetreatment1dont_large_xhdpi.png)
 
@@ -231,24 +250,23 @@
 
 ### 頭像跟略縮圖
 
-頭像和縮略圖代表的實體或內容，無論是從字面上通過攝影或概念，通過例證。一般來說，它們是影響主視圖與實體內容的目標。
+頭像和縮略圖代表的實體或內容，無論是從字面上通過攝影或概念。一般來說，它們是點擊進入內容主要畫面的目標。
 
-化身可被用於表示人。對於個人頭像，提供個性化的選擇。由於用戶可以選擇不進行個人化頭像，提供令人愉快的默認值。
-當與一個特定的標誌使用，替身也可以用來表示品牌。
+頭像可被用於表示人。對於個人頭像，提供個性化的選擇。由於用戶可以選擇不進行個人化頭像，提供令人愉快的預設頭像。 當與一個特定的標誌使用，替身也可以用來表示品牌。
 
 縮略圖暗示更多的信息讓用戶一窺內容，並協助導航。縮略圖讓你可以在狹小的空間置放圖片。
 
 ![](images/style/style-imagery-integration-imagetypeavatarsa_large_xhdpi.png)
 
-> 化身使一個應用程式感覺更多人使用，且佔用最小空間。
+> 頭像使一個應用程式感覺更個人化，且佔用最小空間。
 
 ![](images/style/style-imagery-integration-imagetypeavatarsb_large_xhdpi.png)
 
-> 一個企業形象的略縮圖，一目了然了傳達企業形象。
+> 一個企業形象的頭像，一目了然地傳達企業形象。
 
 ### 英雄形象
 
-英雄形象圖片，通常是擺放在突出位置，如橫幅在畫面的頂部。他們為拉攏使用者，提供了與上下文有關的內容，或加強了品牌意念
+英雄形象圖片，通常是擺放在突出位置，如橫幅在畫面的頂部。他們為拉攏使用者，提供了與上下文有關的內容，或加強了品牌意念。
 
 ![](images/style/style-imagery-integration-imagetypeheroa_large_xhdpi.png)
 
@@ -264,7 +282,7 @@
 
 ### 畫廊
 
-畫廊內的圖像是強烈的英雄形象圖片，每個圖像都使用grid系統均勻的佈置，作為一張圖的單一形象，
+畫廊內的圖像是將有著類似格式的強烈視覺化英雄圖像，其放在grid中或者以單獨一張影像作顯示。
 
 ![](images/style/style-imagery-integration-imagetypegallerya_large_xhdpi.png)
 

@@ -21,15 +21,15 @@
 在手機的平台上，一個選項的處理會被夾在開始與結束的選項中。最理想關於文字在清單上跳出的標準動作是讓文字立即地在下面出現（但最好不要重疊到選項本身）。
 
 文字選擇處理
- 
+
 ![](images/patterns/patterns-selection-selection-textfields_select_03a_large_xhdpi.png)
 
 ![](images/patterns/patterns-selection-selection-textfields_select_03b_large_xhdpi.png)
- 
+
 文字選擇 — 亮主題
 
 ![](images/patterns/patterns-selection-selection-textfields_select_06_large_xhdpi.png)
- 
+
 文字選擇 — 暗主題
 
 ![](images/patterns/patterns-selection-selection-textfields_select_08_large_xhdpi.png)
@@ -37,9 +37,9 @@
 剪下、拷貝、貼上及更多於以上出現的選項區域之跳出清單，當使用者選擇「更多」的鈕時，則跳出的樣子將會往圖示方向倒，而跑出的清單將會從圖示中心往外變大。在字型的文字選擇清單上是Roboto Medium 14sp,app,caps.
 
 
- 
+
 ![](images/patterns/patterns-selection-selection-textfields_select_11a_large_xhdpi.png)
- 
+
 ![](images/patterns/patterns-selection-selection-textfields_select_11b_large_xhdpi.png)
 
 ![](images/patterns/patterns-selection-selection-textfields_select_11c_large_xhdpi.png)
@@ -47,7 +47,7 @@
 ![](images/patterns/patterns-selection-selection-textfields_select_11d_large_xhdpi.png)
 
 ![](images/patterns/patterns-selection-selection-textfields_select_12_large_xhdpi.png)
- 
+
 文字選擇是一種有效地單選內容，如同選項必須在臨近的區塊一樣。然而，選項的方向可能會隨著使用者動作的次數而改變。
 
 

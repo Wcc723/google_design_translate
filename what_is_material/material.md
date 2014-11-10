@@ -26,21 +26,6 @@ Material永遠都是1dp厚
 
 Material會投射陰影。
 
-<div class="figure-row">
-            <figure class="example do">
-                          <div class="media">
-                      <div class="qp-ui qp-ui-video-player qp-ui-video-player-mouse qp-ui-video-player-playing" data-qp-ui="{ 'VideoPlayer': {} }" data-qp-ui-data-id="qp:j">
-              <video id="1-None_0B0NGgBg38lWWRWJfTERvdnM1bGc" crossorigin="anonymous" preload="metadata" loop="" tabindex="0">
-                              <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWSE9IaUpqYzlpSW8/whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007.webm" type="video/webm">
-                                            <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWRWJfTERvdnM1bGc/whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007.mp4" type="video/mp4">
-                            </video>
-            </div>
-                    </div>
-                        <figcaption>
-          <div class="caption-title">Do.</div><p>Material casts shadows.</p>
-        </figcaption>
-              </figure>
-          </div>
 陰影是因為material元素間在z軸上的不同高度自然產生的。
 
 <div class="qp-ui qp-ui-video-player qp-ui-video-player-mouse qp-ui-video-player-playing" data-qp-ui="{ 'VideoPlayer': {} }" data-qp-ui-data-id="qp:j">
@@ -49,7 +34,11 @@ Material會投射陰影。
                                             <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWRWJfTERvdnM1bGc/whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007.mp4" type="video/mp4">
                             </video>
             </div>
+Do.
+Material投射陰影
 
+Don't
+陰影大小永遠不會用material來做估計
 
 內容以不同形狀與顏色顯示在material上。內容不會增加material的厚度。
 

@@ -2,6 +2,10 @@
 
 * Material Design 
 	* [介紹](material-design-introduction.md)
+* What is material?
+	* [* Environment](whats-material-environment.md)
+	* [* Material properties](whats-material-material-properties.md)
+	* [* Objects in 3D space](whats-material-objects-in-3dspace.md)
 * Animation
 	* [逼真的動畫效果](animation-authentic-motion.md)
 	* [響應式互動(動畫)設計](animation-responsive-interaction.md) 
@@ -49,7 +53,8 @@
 	* [貼紙範本](resources-sticker-sheets.md)
 	* [Roboto 字型](resources-roboto-font.md)
 	* [調色板](resources-color-palettes.md)
-
+* What's new
+	* [* What's new](whats-new.md)
 
 
 

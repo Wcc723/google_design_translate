@@ -31,6 +31,7 @@
 	* [清單](components-lists.md)
 	* [清單控制器](components-list-controls.md) 
 	* [菜單](components-menus.md) 
+	* [* Pickers](components-pickers.md)
 	* [進度與活動](components-prosgress-and-activity.md) 
 	* [滑軌](components-sliders.md)
 	* [Snackbars and Toasts](components-snackbars-and-toasts.md)
@@ -42,6 +43,8 @@
 * Pattern
 	* [選擇](patterns-selection.md)
 	* [手勢](patterns-gestures.md) 
+	* [* Navigation drawer](patterns-navigation-drawer.md)
+	* [* Navigation transitions](patterns-navigation-transitions.md)
 	* [促進式指令](patterns-promotes-actions.md)
 	* [設定](patterns-settings.md)
 	* [影像處理](patterns-imagery-treatment.md)

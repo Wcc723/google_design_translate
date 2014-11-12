@@ -12,24 +12,24 @@ Elevation is the relative position of an object along its parent’s z-axis. Ele
 
 Elevation is measured in the same units as the x and y axes, typically in density independent pixels (dps). Since material has a standard 1dp thickness, all elevation distances are measured from one top surface to another top surface.
 
-![](/images/whats-material/whatismaterial_3d_elevation1.png)
+![](images/whats-material/whatismaterial_3d_elevation1.png)
 
 
 ### Resting elevation
 
 All material objects have a resting elevation, whether the object is a small component or a sheet that spans the entire display.
 
-![](/images/whats-material/whatismaterial_3d_elevation2.png)
+![](images/whats-material/whatismaterial_3d_elevation2.png)
 
 > Examples of typical resting elevations for components.
 
 In the static state, the resting elevation for an object does not change. It is constant throughout an app. If an object changes elevation, it should return to its resting elevation as soon as possible.
 
-![](/images/whats-material/whatismaterial_3d_elevation3.png)
+![](images/whats-material/whatismaterial_3d_elevation3.png)
 
 The resting elevation for a given component type is consistent across apps throughout a platform. However, that same component type may have different resting elevations from platform to platform depending on the depth of the environment (e.g., TV has a greater depth than mobile or desktop).
 
-![](/images/whats-material/whatismaterial_3d_elevation4.png)
+![](images/whats-material/whatismaterial_3d_elevation4.png)
 
 ### Responsive elevation and dynamic elevation offsets
 
@@ -39,35 +39,35 @@ Dynamic elevation offsets are relative to the resting state of the component, an
 
 Once the input event is completed or cancelled, the component will return to its resting elevation.
 
-![](/images/whats-material/whatismaterial_3d_elevation5.png)
+![](images/whats-material/whatismaterial_3d_elevation5.png)
 
 # Functional shadows
 
 Shadows provide several important visual cues about the arrangement of objects in space. Shadows are the only visual affordance indicating the amount of separation between surfaces. The elevation of an object determines the visual appearance of its shadow.
 
-![](/images/whats-material/whatismaterial_3d_elevation_shadow1.png)
+![](images/whats-material/whatismaterial_3d_elevation_shadow1.png)
 
 > Without a shadow, there is nothing to indicate that the floating action button is a separate surface from the background surfaces.
 
-![](/images/whats-material/whatismaterial_3d_elevation_shadow2.png)
+![](images/whats-material/whatismaterial_3d_elevation_shadow2.png)
 
 > Crisp shadows indicate both the floating action button and the app bar are separate surfaces very close to the background surface.
 
-![](/images/whats-material/whatismaterial_3d_elevation_shadow3.png)
+![](images/whats-material/whatismaterial_3d_elevation_shadow3.png)
 
 > Softer, larger shadows indicate the floating action button is at a higher elevation than the app bar.
 
 In motion, shadows also provide cues about an object’s direction of movement. This is another useful tool to indicate whether the distance between surfaces is increasing or decreasing.
 
-![](/images/whats-material/whatismaterial_3d_elevation_shadow4.png)
+![](images/whats-material/whatismaterial_3d_elevation_shadow4.png)
 
 > Without a shadow to indicate elevation, it’s unclear whether this circle is scaling at the same elevation, or simply increasing its elevation.
 
-![](/images/whats-material/whatismaterial_3d_elevation_shadow5.png)
+![](images/whats-material/whatismaterial_3d_elevation_shadow5.png)
 
 > The shadow grows softer and larger as the object’s elevation increases and grows crisper and smaller as the elevation decreases.
 
-![](/images/whats-material/whatismaterial_3d_elevation_shadow6.png)
+![](images/whats-material/whatismaterial_3d_elevation_shadow6.png)
 
 > In this case, the consistent shadow helps the user understand that the object is changing shape as opposed to changing elevation.
 
@@ -83,10 +83,10 @@ Children inherit transformation properties from their parent, such as position, 
 
 The hierarchy of parents and children determines how objects and groups of objects interact with one another. For example, child objects have minimal z-axis separation from their parent; other objects do not get inserted between parents and children.
 
-![](/images/whats-material/whatismaterial_3d_relationship1.png)
+![](images/whats-material/whatismaterial_3d_relationship1.png)
 
 > The raised button (child) scrolls off screen as its parent content scrolls.
 
-![](/images/whats-material/whatismaterial_3d_relationship2.png)
+![](images/whats-material/whatismaterial_3d_relationship2.png)
 
 > The cards (siblings, and children of the card collection) scroll off screen as the floating action button (its own parent) remains in place.

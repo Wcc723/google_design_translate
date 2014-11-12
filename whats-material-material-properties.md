@@ -6,13 +6,13 @@ Material has certain immutable characteristics and inherent behaviors. Understan
 
 Material has **varying x & y dimensions** (measured in dps) and a **uniform thickness** (1dp). Material **never** has a thickness of 0.
 
-![](/images/whats-material/whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png)
+![](images/whats-material/whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png)
 
 > Do.
 >
 > The height and width of material can vary.
 
-![](/images/whats-material/whatismaterial_materialproperties_physicalproperties_thickness_02_no.png)
+![](images/whats-material/whatismaterial_materialproperties_physicalproperties_thickness_02_no.png)
 
 > Don't.
 >
@@ -65,21 +65,21 @@ Material is solid.
 
 Input events cannot pass through material.
 
-![](/images/whats-material/whatismaterial_properties_physical3.png)
+![](images/whats-material/whatismaterial_properties_physical3.png)
 
 > Do.
 
-![](/images/whats-material/whatismaterial_properties_physical4.png)
+![](images/whats-material/whatismaterial_properties_physical4.png)
 
 > Don't.
 
 Multiple material elements cannot occupy the same point in space simultaneously.
 
-![](/images/whats-material/whatismaterial_properties_physical5.png)
+![](images/whats-material/whatismaterial_properties_physical5.png)
 
 > Do.
 
-![](/images/whats-material/whatismaterial_properties_physical6.png)
+![](images/whats-material/whatismaterial_properties_physical6.png)
 
 > Don't.
 
@@ -87,7 +87,7 @@ Material cannot pass through other material.
 
 For example, one sheet of material cannot pass through another sheet of material when changing elevation.
 
-![](/images/whats-material/whatismaterial_properties_physical7.png)
+![](images/whats-material/whatismaterial_properties_physical7.png)
 
 > Don't.
 

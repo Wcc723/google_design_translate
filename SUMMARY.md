@@ -41,14 +41,17 @@
 	* [文字輸入框](components-text-fields.md)
 	* [工具提示](components-tooltips.md)
 * Pattern
+	* [* Data formats](patterns-data-formats.md)
 	* [選擇](patterns-selection.md)
 	* [手勢](patterns-gestures.md) 
 	* [* Navigation drawer](patterns-navigation-drawer.md)
 	* [* Navigation transitions](patterns-navigation-transitions.md)
+	* [* Scrolling techniques](patterns-scrolling-techniques.md)
 	* [促進式指令](patterns-promotes-actions.md)
 	* [設定](patterns-settings.md)
 	* [影像處理](patterns-imagery-treatment.md)
 	* [搜尋](patterns-search.md) 
+	* [* Swipe to refresh](patterns-swipe-to-refresh.md)
 * Usability
 	* [親和性](usability-accessibility.md)
 * Resources

@@ -3,9 +3,10 @@
 * [Introduction](README.md)
 * Material Design 
    * [介紹](material-design-introduction.md)
-* [What is material?](what_is_material/README.md)
-   * [環境](what_is_material)
-   * [Material特性](what_is_material/material.md)
+* Material
+   * [環境](material-environment.md)
+   * [Material特性](material-properties.md)
+   * [3D空間中的物件](material-3d-space.md)
 * Animation
    * [逼真的動畫效果](animation-authentic-motion.md)
    * [響應式互動(動畫)設計](animation-responsive-interaction.md)

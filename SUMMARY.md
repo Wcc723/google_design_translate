@@ -3,9 +3,9 @@
 * Material Design 
 	* [介紹](material-design-introduction.md)
 * What is material?
-	* [* Environment](whats-material-environment.md)
-	* [* Material properties](whats-material-material-properties.md)
-	* [* Objects in 3D space](whats-material-objects-in-3dspace.md)
+	* [* 環境](whats-material-environment.md)
+	* [* Material 特性](whats-material-material-properties.md)
+	* [* 3D 空間中的物件](whats-material-objects-in-3dspace.md)
 * Animation
 	* [逼真的動畫效果](animation-authentic-motion.md)
 	* [響應式互動(動畫)設計](animation-responsive-interaction.md) 

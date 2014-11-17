@@ -42,6 +42,7 @@
 	* [工具提示](components-tooltips.md)
 * Pattern
 	* [* Data formats](patterns-data-formats.md)
+	* [* Errors](patterns-errors.md)
 	* [選擇](patterns-selection.md)
 	* [手勢](patterns-gestures.md) 
 	* [* Navigation drawer](patterns-navigation-drawer.md)

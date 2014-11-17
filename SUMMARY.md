@@ -55,6 +55,7 @@
 	* [* Swipe to refresh](patterns-swipe-to-refresh.md)
 * Usability
 	* [親和性](usability-accessibility.md)
+	* [* Bidirectionality](usability-bidirectionality.md)
 * Resources
 	* [版型架構](resources-layout-templates.md)
 	* [貼紙範本](resources-sticker-sheets.md)

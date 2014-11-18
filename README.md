@@ -13,6 +13,7 @@
 - [Mkdodos](https://www.facebook.com/mkdodos)
 - Tillonter
 - [Peter](https://www.facebook.com/viator75)
+- [Sean](https://www.facebook.com/shihneng.chen)
 - Xuan
 - Xunyi
 - [陳聖博](https://www.facebook.com/Shengbo.Arthur.Chen)

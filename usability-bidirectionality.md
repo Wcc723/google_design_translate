@@ -1,168 +1,164 @@
-# Bidirectionality
+# 雙向性
 
-A well-designed app supports bidirectionality, which means that it can be localized easily for language scripts that are written and read from right-to-left (RTL) or left-to-right (LTR). RTL scripts include Arabic, Hebrew, and Persian.
+一個設計良好的應用程式支援雙向性，這個意思是說它可以輕易的轉換成由右向左（RTL）、由左向右（LTR）書寫及閱讀的語言體制。由右向左的語言體制包含了阿拉伯語、希伯來語和波斯語。
 
-Bidirectionality affects not only text but also layout and iconography.
+雙向性影響的不止是文字，也影響了格式與圖示。
 
+## 使用者界面鏡像概述
 
-## UI mirroring overview
+RTL和LTR主要的差異是時間的方向。對於使用RTL體制語言的讀者來說，時間是從右邊移動到左邊。這些用戶期待使用者界面也從右邊向左邊流動以準確的反應時間的方向。
 
-The main difference between RTL and LTR interfaces is the direction of time. For speakers of languages that use RTL scripts, time moves from right to left. These users expect the UI to flow from right to left to accurately reflect the direction of time.
+鏡像式的變化使用者界面從LTR到RTL或是反過來從RTL到LTR，這邊指的包括應用程式的格式與圖像元素。
 
-Mirroring—changing the UI from LTR to RTL or vice-versa—includes both the layout of the app and graphical elements.
-An RTL layout is the mirror image of the LTR layout. Icons are to the right of text fields. The navigation buttons are in reverse order, with the back button on the right side.
+一個RTL的格式是LTR格式的鏡像。圖示在文字區塊的右邊。導航用按鈕排序反了過來，『前一頁』按鈕位於右邊。
 
-Icons that hint at a specific direction, like the speaker icon, are mirrored. Other icons, such as a camera and a check mark, remain unmirrored intentionally.
+提示了特定方向的圖示以鏡像方式處理，如說話者圖示。其他圖示故意不做鏡像處理，比如說相機與勾選圖示。
 
 ![](images/usability/usability_bidirectionality_mirror1.png)
 
-> Example using LTR UI
+> 使用LTR使用者界面的範例
 
 ![](images/usability/usability_bidirectionality_mirror2.png)
 
-> Example using RTL UI
+> 使用RTL使用者界面的範例
 
-## RTL mirroring guidelines
+## RTL鏡像準則
 
-Follow these guidelines for mirroring text, layout, and iconography to support right-to-left UIs.
+依據這些準則來鏡像處理文字、格式與圖示來支援RTL使用者界面。
 
-The guiding principle for RTL interfaces is that time moves from right to left. Forward points to the left, backwards points to the right.
+RTL使用者界面的原則就是時間是從右邊流向左邊。『向前』指向左邊、『向後』指向右邊。
 
-The most important icons for mirroring are back and forward buttons.
+需要做鏡像處理的最重要圖示是向前與向後按鈕。
 
-### When to mirror
+### 何時做鏡像處理
 
-Back and forward navigational buttons are reversed.
+作為導航的向前與向後按鈕顛倒了過來。
 
 ![](images/usability/usability_bidirectionality_guidelines_when1.png)
 
-> LTR back button
+> LTR向後按鈕
 
 ![](images/usability/usability_bidirectionality_guidelines_when2.png)
 
-> RTL back button
+> RTL向後按鈕
 
 ![](images/usability/usability_bidirectionality_guidelines_when3.png)
 
-> LTR forward button
+> LTR向前按鈕
 
 ![](images/usability/usability_bidirectionality_guidelines_when4.png)
 
-> RTL forward button
+> RTL向後按鈕
 
-An icon that shows forward movement should be mirrored.
+一個表示向前的動作的圖式應該要被鏡像處理。
 
 ![](images/usability/usability_bidirectionality_guidelines_when5.png)
 
-> An LTR bicycle moving forward points to the right.
+> 一個LTR的自行車往前移動方向指向右方
 
 ![](images/usability/usability_bidirectionality_guidelines_when6.png)
 
-> An RTL bicycle moving forward points to the left.
+> 一個RTL的自行車往前移動方向指向左方
 
-Other things are more subtle. For example, a icon that represents a setting uses a slash through the icon to indicate the off state. In an LTR interface, the slash goes from top left to bottom right. In an RTL interface, the slash goes from top right to bottom left.
+其他的事項更為細微。舉例來說，一個在圖像上使用斜線來表達關閉狀態的圖示，在LTR使用者界面上，斜線是從左上到右下；在RTL使用者界面上，斜線是從右上到左下。
 
 ![](images/usability/usability_bidirectionality_guidelines_when7.png)
 
-> An LTR off state of airplane mode.
+> LTR下的關閉飛航模式狀態
 
 ![](images/usability/usability_bidirectionality_guidelines_when8.png)
 
-> An RTL off state of airplane mode.
+> RTL下的關閉飛航模式狀態
 
-Within the image, the slash is mirrored. The airplane itself points straight up. So no special treatment is needed.
+在這個圖片中，斜線做了鏡像處理。飛機本身指向了上方，所以不需要做特別處理。
 
-A volume icon with a slider at its right side should be mirrored. The slider should progress RTL, and the sound waves should emerge from the right.
+一個右方有著滑桿的音量圖示應該要被鏡像處理。滑桿應該要從右到左，音波應該從右邊出現。
 
 ![](images/usability/usability_bidirectionality_guidelines_when9.png)
 
-> LTR volume with slider
+> LTR下的音量控制滑桿
 
 ![](images/usability/usability_bidirectionality_guidelines_when10.png)
 
-> RTL volume with speaker icon and slider mirrored
+> RTL下的喇叭音量圖示與滑桿做了鏡像處理
 
-Icons of people, heads, or faces should typically mirror, especially if they appear close to text. This is so the people face forward, towards the text, instead of backward, shying away from the text.
+關於人們、頭像或臉孔的圖示應該被鏡像處理，尤其是當它們出現在靠近文字的地方時。人臉應該面向前方，朝向文字，而不是面向後方，避開文字。
 
-This can sometimes be very subtle, as with an angled or slightly turned face, or a grouping of faces.
+這有時可以是非常細微的，像是一個或一組稍微轉向、偏開的臉孔。
 
 ![](images/usability/usability_bidirectionality_guidelines_when11.png)
 
-> LTR group icon
+> LTR下的群組圖示
 
 ![](images/usability/usability_bidirectionality_guidelines_when12.png)
 
-> RTL group icon
+> RTL下的群組圖示
 
-Sometimes, both the horizontal and circular direction of time are implied in an icon. For example, the redo and undo buttons in Google Docs have both a horizontal direction and a circular direction.
+有時候平面和環形的時間方向都以隱喻方式呈現在一個圖示中。比方說，Google Docs中重做和取消的按鈕都有著平面和環形的方向。
 
-In LTR, these point to the same direction in both circular and horizontal representations of time. In RTL, choose whether to show circular or horizontal direction.
+在LTR中，這些環形和平面的時間表達方式都指向了同一個方向，在RTL中則選擇顯示環形或者是平面方向。
 
 ![](images/usability/usability_bidirectionality_guidelines_when13.png)
-> LTR redo and undo button in docs
+> LTR下的文件內重做和取消按鈕
 
-Icons that contain representations of text need careful mirroring.
+包含了文字顯示方式的圖示需要小心的鏡像處理。
 
-Text is right-aligned in RTL. If there is a paragraph indent at the beginning of a paragraph, an unfinished line at the end of the paragraph, or a ragged right side, the icons need to be mirrored.
+文字在RTL中是靠右的。如果圖示中有在段落開頭有文字縮排、段落中有未完成的一行文字或者有一個不平整的右側，那它就需要被做鏡像處理。
 
 ![](images/usability/usability_bidirectionality_guidelines_when14.png)
 
-> LTR chat icon
+> LTR下的聊天圖示
 
 ![](images/usability/usability_bidirectionality_guidelines_when15.png)
-> RTL chat icon
+> RTL下的聊天圖示
 
-### When not to mirror
+### 何時不做鏡像處理
 
-While the linear representation of time is mirrored in RTL, the **circular** direction of time is not. Clocks still turn clockwise for RTL languages. A clock icon or a circular refresh or progress indicator with an arrow pointing clockwise should not be mirrored.
+線性的時間表達在RTL中需要做鏡像處理，而**環形的**時間方向不需要。時鐘在RTL語言中依舊是瞬時中旋轉。時鐘圖示、還行的重整圖示或者順時鐘方向的進度圖示不應該做鏡像處理。
 
 ![](images/usability/usability_bidirectionality_guidelines_whennot1.png)
 
-> Refresh icon
+> 重整圖示
 
 ![](images/usability/usability_bidirectionality_guidelines_whennot2.png)
-> History icon
+> 歷史圖示
 
-Some icons refer to physical objects that are not mirrored in the right-to-left world.
+某些表達實體物件的圖示在RTL的世界中也不是鏡像的。
 
-For example, physical keyboards look the same everywhere in the world, so they should not be mirrored.
+舉例來說，實體的鍵盤在世界上每個地方看起來都一樣，所以它們不應該被鏡像處理。
 
 ![](images/usability/usability_bidirectionality_guidelines_whennot3.png)
 
-> Keyboard icon
+> 鍵盤圖示
 
 ![](images/usability/usability_bidirectionality_guidelines_whennot4.png)
 
-> Headset icon
+> 耳機圖示
 
-Certain icons might seem directional but they actually represent holding an object with one’s right hand.
+有些圖是看起來好像是有方向性的，但是它們實際上是代表著一個人的右手拿著一個物體。
 
-For example, the search icon typically has its handle at the bottom right side, because the majority of users are right-handed.
+比方說，搜尋圖示一般來說它的手把位於右下方，這是因為大部份的人都是右撇子。
 
-The majority of users in RTL-writing countries are also right-handed, so such icons should not be mirrored.
+在RTL書寫的國家中，大部份的人也還是右撇子，所以這些圖是不應該做鏡像處理。
 
 ![](images/usability/usability_bidirectionality_guidelines_whennot5.png)
 
-> Search icon
+> 搜尋圖示
 
 ![](images/usability/usability_bidirectionality_guidelines_whennot6.png)
 
-Media playback buttons and the progress indicator are not mirrored. The LTR direction of these elements represents the direction of the tape, not the direction of time.
+媒體回播按鈕和進度條不做鏡像處理。這些元素的LTR方向表示卡帶的方向而不是時間的方向。
 
 ![](images/usability/usability_bidirectionality_guidelines_whennot7.png)
 
-## Other localization considerations
+## 其他本地化的考量
 
-While considering bidirectionality in app design, think also about other factors for localized apps.
+當考慮應用程式設計中的雙向性時，同時也要想想本地化應用程式的其他要素。
 
-Because text in graphical elements will always require localization, try to convey concepts in ways that don’t use text.
+因為圖像元素中的文字也需要被本地化，所以試著已不需要文字的方式傳達概念。
 
-Numbers are also text. Icons containing numbers must be localized for languages that use different numerals. For example, Bengali, Marathi, Nepali, and most Arabic locales use different forms of numbers. An icon containing these numerals would have to be redrawn to accommodate their shape.
+數字也是文字。包含數字的圖示也需要為使用不同數字系統的語言做本地化。比如說，孟加拉語、馬拉地語和大部分的阿拉伯語系使用不同的數字形式。一個包含這些數字的圖示會需要重畫來遷就它們的形狀。
 
-Context matters; mirroring may be needed even for LTR locales. For example, if one is editing an RTL paragraph inside an English document in an English UI in Google Docs, the buttons for numbered and bulleted lists, and indent and unindent should be mirrored to suit RTL even though the primary UI direction is LTR.
-
-
-
-
+內文也很重要，甚至在LTR語系中也需要做鏡像處理。像是在Google Docs中的英文使用者界面中的英文文件編輯一段RTL段落，有編號的項目符號列表按鈕、縮排與不縮排都應該被鏡像處理來符合RTL，即使主要的使用者界面方式還是LTR。
 
 

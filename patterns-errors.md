@@ -15,9 +15,9 @@ As with all feedback, prioritize which messages are most important, communicate 
 Give context for user input errors to help users fix them. Politely let users know as soon as possible that they have made an error that they need to correct. Don’t let them submit a long form before telling them they made an error. Disable a form submission button if errors are detected. If the error can only be found after the user has submitted a form, be clear about what went wrong and what the user specifically needs to do to fix it.
 
 
-### Text field input  
+### Text field input
 
-Helper text may appear at any time before, during, or after user interaction. Error text should not appear before user interaction with the field. Helper text may transform into error text if the user inputs incorrect text.  
+Helper text may appear at any time before, during, or after user interaction. Error text should not appear before user interaction with the field. Helper text may transform into error text if the user inputs incorrect text.
 
 Do not slow down users with too much text on screen. Not every text field needs helper and/or error text.
 
@@ -132,7 +132,7 @@ If possible, give your user an action that will help them address the error. Don
 
 ![](images/patterns/patterns_errors_app1.png)
 
-> Alert dialog: app feedback about an error that is blocking normal operation  
+> Alert dialog: app feedback about an error that is blocking normal operation
 
 ![](images/patterns/patterns_errors_app2.png)
 
@@ -179,7 +179,7 @@ Incompatible state errors occur when users attempt to run operations that confli
 
 #### General incompatibility
 
-Be clear about why the error is occurring and where it originates.  
+Be clear about why the error is occurring and where it originates.
 
 Example:
 

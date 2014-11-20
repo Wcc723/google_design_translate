@@ -1,14 +1,14 @@
-# Navigational transitions
+# 導航式動畫
 
-Navigational transitions occur when the user is taken from one state to another within the app, such as moving from a high-level view to a detailed view or a task-completion view. Most transitions are hierarchical in nature, but non-hierarchical transitions also occur.
+導航式動畫只有當用戶在應用程式中從某一狀態被帶領到另一個狀態才會發生，像是從縱觀的視角轉換到細節的視角或是任務完成的視角。大部份的動畫自然而然地是階層式的，但是非階層式的動畫也會發生。
 
-These brief moments are very important for the user experience. Consider the user’s journey carefully to determine which transition to use when. Different kinds of transitions are appropriate for various cases.
+這些短暫的時間對於用戶經驗來說是很重要的。仔細的考量用戶的使用過程來決定什麼動畫在什麼時候使用。不同的動畫在不同情形下都是合適的。
 
-## Parent to child
+## 從parent到child
 
-One of the most important transitions is when the user “drills down” into content. It can be thought of as a parent-to-child transition, because it is hierarchical in nature.
+一個最重要的動畫是當用戶"往下鑽探"到內容時。這可以想成是從parent到child的動畫，因為這很自然是階層式的。
 
-In material design, a parent-to-child transition is indicated by a change in elevation. The surface or the area of the surface that the user touches should lift up and expand into place from its origin. This motion guides the user from point A to point B and should highlight both the origin as well as the destination. It should feel natural, using the material motion curves, and familiar, because the expansion and movement from the origin appears logical.
+在material design中，一個從parent到child的動畫是以高度的變化來做顯示。用戶觸碰的表面或表面所在的區域應該從它本來的位置上昇並且擴展。此動作帶領用戶從A點到B點，同時應該強調原來位置和目的位置。利用material動作曲線來實作，這一切應該感覺上要是自然與熟悉的，因為從原來位置擴展和移動感覺上很符合邏輯。
 
 
 <video id="1-None_0B2wX4iIvu8L6OG5GWnBqWFFRdVU" width="760" height="420" controls="">
@@ -17,15 +17,15 @@ In material design, a parent-to-child transition is indicated by a change in ele
 </video>
 
 
-## Sibling to sibling
+## 從sibling到sibling
 
-Transitions that are not hierarchical in nature behave differently than hierarchical transitions. You can think of non-hierarchical transitions as sibling transitions.
+非階層式的動畫與階層式動畫的表現方式不同。你可以把非階層式動畫想成從sibling到sibling。
 
-An example for this kind of transition is when a user navigates through a row of tabs. There is no elevation change; the content and surface of each tab stays on the same elevation level. New content slides in from the right and pushes its sibling off screen to the left.
+一個這類動畫的範例是當用戶在一排標籤中移動時。這時候沒有高度變化，標籤的內容、表面都停留在同一個高度。新的內容從右邊滑進來並且把它的sibling推出畫面左側。
 
 <video id="1-None_0B2wX4iIvu8L6bDNpdXBkdElHWDg" width="760" height="420" controls="">
 <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B2wX4iIvu8L6bXdoMlplMWtMeWs/patterns_navigational-transitions_sibling-to-sibling_tabs-01_xhdpi.webm" type="video/webm">
 <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B2wX4iIvu8L6bDNpdXBkdElHWDg/patterns_navigational-transitions_sibling-to-sibling_tabs-01_xhdpi.mp4" type="video/mp4">
 </video>
 
-> Sibling transition
+> Sibling動畫

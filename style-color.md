@@ -1,6 +1,6 @@
 # 顏色
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorstory-01_large_xhdpi.png)
+![](images/style/style-color-colorstory-01_large_xhdpi.png)
 
 顏色的靈感是來自於設置在寧靜場合之中強烈顏色的標示，參考當代建築、道路標誌、地面標線
 以及體育場給的啟發，強調明顯的陰影、高光、令人意外的資訊以及鮮豔的色彩。
@@ -9,8 +9,15 @@
 
 ## 使用者介面色票
 
+This color palette comprises primary and accent colors that can be used for illustration or to develop your brand colors. They’ve been designed to work harmoniously with each other.
+
 這些色票起始於基本的顏色，填滿色譜建立一個完整的，可給 Android、Web、 iOS使用的色票，
 這些色票的範圍再500色以內。
+
+> [Download color swatches](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNT0dFWFBjdTNKaXM/color_swatches.zip)
+>
+> 0.02 MB (.zip)
+
 
 <section class="color-group">
 <ul>
@@ -134,28 +141,28 @@
 
 
 <section class="color-group">
-<ul>
-<li class="color main-color" style="background-color: #5677fc;">
-<span class="name light-strong">Blue</span>
-<span class="shade light-strong">500</span>
-<span class="hex light-strong">#5677fc</span>
-</li>
-<li class="color dark" style="background-color: #e7e9fd;"><span class="shade expanded">50</span><span class="hex">#e7e9fd</span></li>
-<li class="color dark" style="background-color: #d0d9ff;"><span class="shade">100</span><span class="hex">#d0d9ff</span></li>
-<li class="color dark" style="background-color: #afbfff;"><span class="shade expanded">200</span><span class="hex">#afbfff</span></li>
-<li class="color dark" style="background-color: #91a7ff;"><span class="shade">300</span><span class="hex">#91a7ff</span></li>
-<li class="color dark" style="background-color: #738ffe;"><span class="shade expanded">400</span><span class="hex">#738ffe</span></li>
-<li class="color light-strong" style="background-color: #5677fc;"><span class="shade">500</span><span class="hex">#5677fc</span></li>
-<li class="color light-strong" style="background-color: #4e6cef;"><span class="shade expanded">600</span><span class="hex">#4e6cef</span></li>
-<li class="color light-strong" style="background-color: #455ede;"><span class="shade">700</span><span class="hex">#455ede</span></li>
-<li class="color" style="background-color: #3b50ce;"><span class="shade expanded">800</span><span class="hex">#3b50ce</span></li>
-<li class="color" style="background-color: #2a36b1;"><span class="shade expanded">900</span><span class="hex">#2a36b1</span></li>
-<li class="color dark" style="background-color: #a6baff;"><span class="shade accent">A100</span><span class="hex">#a6baff</span></li>
-<li class="color light-strong" style="background-color: #6889ff;"><span class="shade accent expanded">A200</span><span class="hex">#6889ff</span></li>
-<li class="color light-strong" style="background-color: #4d73ff;"><span class="shade accent expanded">A400</span><span class="hex">#4d73ff</span></li>
-<li class="color light-strong" style="background-color: #4d69ff;"><span class="shade accent">A700</span><span class="hex">#4d69ff</span></li>
-</ul>
-</section>
+    <ul>
+      <li class="color main-color" style="background-color: #2196F3;">
+        <span class="name light-strong">Blue</span>
+        <span class="shade light-strong">500</span>
+        <span class="hex light-strong">#2196f3</span>
+      </li>
+      <li class="color dark" style="background-color: #e3f2fd;"><span class="shade expanded">50</span><span class="hex">#e3f2fd</span></li>
+      <li class="color dark" style="background-color: #bbdefb;"><span class="shade">100</span><span class="hex">#bbdefb</span></li>
+      <li class="color dark" style="background-color: #90caf9;"><span class="shade expanded">200</span><span class="hex">#90caf9</span></li>
+      <li class="color dark" style="background-color: #64b5f6;"><span class="shade">300</span><span class="hex">#64b5f6</span></li>
+      <li class="color dark" style="background-color: #42a5f5;"><span class="shade expanded">400</span><span class="hex">#42a5f5</span></li>
+      <li class="color light-strong" style="background-color: #2196f3;"><span class="shade">500</span><span class="hex">#2196f3</span></li>
+      <li class="color light-strong" style="background-color: #1e88e5;"><span class="shade expanded">600</span><span class="hex">#1e88e5</span></li>
+      <li class="color light-strong" style="background-color: #1976d2;"><span class="shade">700</span><span class="hex">#1976d2</span></li>
+      <li class="color" style="background-color: #1565c0;"><span class="shade expanded">800</span><span class="hex">#1565c0</span></li>
+      <li class="color" style="background-color: #0d47a1;"><span class="shade expanded">900</span><span class="hex">#0d47a1</span></li>
+      <li class="color dark divide" style="background-color: #82b1ff;"><span class="shade accent">A100</span><span class="hex">#82b1ff</span></li>
+      <li class="color light-strong" style="background-color: #448aff;"><span class="shade accent expanded">A200</span><span class="hex">#448aff</span></li>
+      <li class="color light-strong" style="background-color: #2979ff;"><span class="shade accent expanded">A400</span><span class="hex">#2979ff</span></li>
+      <li class="color light-strong" style="background-color: #2962ff;"><span class="shade accent">A700</span><span class="hex">#2962ff</span></li>
+    </ul>
+  </section>
 
 
 <section class="color-group">
@@ -235,28 +242,28 @@
 
 
 <section class="color-group">
-<ul>
-<li class="color main-color" style="background-color: #259b24;">
-<span class="name light-strong">Green</span>
-<span class="shade light-strong">500</span>
-<span class="hex light-strong">#259b24</span>
-</li>
-<li class="color dark" style="background-color: #d0f8ce;"><span class="shade expanded">50</span><span class="hex">#d0f8ce</span></li>
-<li class="color dark" style="background-color: #a3e9a4;"><span class="shade">100</span><span class="hex">#a3e9a4</span></li>
-<li class="color dark" style="background-color: #72d572;"><span class="shade expanded">200</span><span class="hex">#72d572</span></li>
-<li class="color dark" style="background-color: #42bd41;"><span class="shade">300</span><span class="hex">#42bd41</span></li>
-<li class="color dark" style="background-color: #2baf2b;"><span class="shade expanded">400</span><span class="hex">#2baf2b</span></li>
-<li class="color light-strong" style="background-color: #259b24;"><span class="shade">500</span><span class="hex">#259b24</span></li>
-<li class="color light-strong" style="background-color: #0a8f08;"><span class="shade expanded">600</span><span class="hex">#0a8f08</span></li>
-<li class="color light-strong" style="background-color: #0a7e07;"><span class="shade">700</span><span class="hex">#0a7e07</span></li>
-<li class="color" style="background-color: #056f00;"><span class="shade expanded">800</span><span class="hex">#056f00</span></li>
-<li class="color" style="background-color: #0d5302;"><span class="shade expanded">900</span><span class="hex">#0d5302</span></li>
-<li class="color dark" style="background-color: #a2f78d;"><span class="shade accent">A100</span><span class="hex">#a2f78d</span></li>
-<li class="color dark" style="background-color: #5af158;"><span class="shade accent expanded">A200</span><span class="hex">#5af158</span></li>
-<li class="color dark" style="background-color: #14e715;"><span class="shade accent expanded">A400</span><span class="hex">#14e715</span></li>
-<li class="color dark" style="background-color: #12c700;"><span class="shade accent">A700</span><span class="hex">#12c700</span></li>
-</ul>
-</section>
+    <ul>
+      <li class="color main-color" style="background-color: #4caf50;">
+        <span class="name light-strong">Green</span>
+        <span class="shade light-strong">500</span>
+        <span class="hex light-strong">#4caf50</span>
+      </li>
+      <li class="color dark" style="background-color: #e8f5e9;"><span class="shade expanded">50</span><span class="hex">#e8f5e9</span></li>
+      <li class="color dark" style="background-color: #c8e6c9;"><span class="shade">100</span><span class="hex">#c8e6c9</span></li>
+      <li class="color dark" style="background-color: #a5d6a7;"><span class="shade expanded">200</span><span class="hex">#a5d6a7</span></li>
+      <li class="color dark" style="background-color: #81c784;"><span class="shade">300</span><span class="hex">#81c784</span></li>
+      <li class="color dark" style="background-color: #66bb6a;"><span class="shade expanded">400</span><span class="hex">#66bb6a</span></li>
+      <li class="color light-strong" style="background-color: #4caf50;"><span class="shade">500</span><span class="hex">#4caf50</span></li>
+      <li class="color light-strong" style="background-color: #43a047;"><span class="shade expanded">600</span><span class="hex">#43a047</span></li>
+      <li class="color light-strong" style="background-color: #388e3c;"><span class="shade">700</span><span class="hex">#388e3c</span></li>
+      <li class="color" style="background-color: #2e7d32;"><span class="shade expanded">800</span><span class="hex">#2e7d32</span></li>
+      <li class="color" style="background-color: #1b5e20;"><span class="shade expanded">900</span><span class="hex">#1b5e20</span></li>
+      <li class="color dark divide" style="background-color: #b9f6ca;"><span class="shade accent">A100</span><span class="hex">#b9f6ca</span></li>
+      <li class="color dark" style="background-color: #69f0ae;"><span class="shade accent expanded">A200</span><span class="hex">#69f0ae</span></li>
+      <li class="color dark" style="background-color: #00e676;"><span class="shade accent expanded">A400</span><span class="hex">#00e676</span></li>
+      <li class="color dark" style="background-color: #00c853;"><span class="shade accent">A700</span><span class="hex">#00c853</span></li>
+    </ul>
+  </section>
 
 
 <section class="color-group">
@@ -470,6 +477,13 @@
 </ul>
 </section>
 
+<section class="color-group">
+    <ul>
+      <li class="color" style="background-color: #000000;"><span class="shade accent">Black</span><span class="hex">#000000</span></li>
+      <li class="color dark" style="background-color: #ffffff;"><span class="shade accent expanded">White</span><span class="hex">#ffffff</span></li>
+    </ul>
+  </section>
+
 
 ## 使用者介面的顏色運用
 
@@ -480,9 +494,20 @@
 強調色依情況，是可有可無的預備方案。
 
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-01a_large_xhdpi.png)
+#### Related
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-01b_large_xhdpi.png)
+> [Customize the Color Palette](http://developer.android.com/training/material/theme.html#ColorPalette)
+>
+> Define your app’s color palette.
+
+
+![](images/style/style-color-colorapplication-color_application-01a_large_xhdpi.png)
+
+> Example of a primary color palette
+
+![](images/style/style-color-colorapplication-color_application-01b_large_xhdpi.png)
+
+> Example of a secondary palette
 
 
 ### 使用alpha值設定你的灰色文字、icon以及分隔線
@@ -498,27 +523,60 @@
 其他元素，如icon與分隔線，也可使用黑色的alpha值來設定，
 而不是以實心顏色做選擇，這樣可以確保它們在任何背景上不會突兀。
 
-對於彩色背景裡的黑白文字，在色票表裡找出他們適當的對比度以及alpha值。
+<!-- 對於彩色背景裡的黑白文字，在色票表裡找出他們適當的對比度以及alpha值。 -->
 
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-02_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-02_large_xhdpi.png)
 
-極力推薦在大標題的欄位用大膽顯眼的色系，不同的介面元素用不同的色系主題，
+![](images/style/style_color_uiapplication_alpha2.png)
+
+<!-- 極力推薦在大標題的欄位用大膽顯眼的色系，不同的介面元素用不同的色系主題，
 工具列及較大的色塊區域使用500的原色，這是你應用程式的主色調，
-狀態列則是用700的暗色調。
+狀態列則是用700的暗色調。 -->
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-03_large_xhdpi.png)
+### Toolbars and status bars
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-04_large_xhdpi.png)
+Toolbars and larger color blocks should use the primary 500 color, which should be the main color of your app. The status bar should be the darker 700 tint of your primary color.
+
+Bold use of color in large fields in the UI is encouraged. Different elements in the UI can take on different parts of your color theme.
+
+![](images/style/style-color-colorapplication-color_application-03_large_xhdpi.png)
+
+![](images/style/style-color-colorapplication-color_application-04_large_xhdpi.png) 
+
+
 
 ### 強調色
 
 充滿活力的強調色用於您的主要操作按鈕以及組件，如切換式選單或拉桿。
 靠左對齊的部分icon或章節標題也可以使用強調色。
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-05_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-05_large_xhdpi.png)
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-08_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-08_large_xhdpi.png)
+
+![](images/style/style_color_uiapplication_accent3.png)
+
+> Do.
+>
+> Only use the accent color for body text to accent a web link.
+
+![](images/style/style_color_uiapplication_accent4.png)
+
+> Don't.
+>
+> Don’t use the accent color for body text color.
+
+![](images/style/style_color_uiapplication_accent5.png)
+
+> Do.
+
+![](images/style/style_color_uiapplication_accent6.png)
+
+> Don't.
+>
+> Don’t use the accent color for app bars or larger areas of color. Avoid using the same color for the floating action button and the background.
+
 
 ### 次要強調色
 
@@ -527,23 +585,32 @@
 如果你的背景已經是500的純色，次要強調色則回歸100%白或54%黑。
 
 
-![](http://material-design.storage.googleapis.com/images/style-color-colorapplication-color_application-04_large_xhdpi.png)
+![](images/style/style-color-colorapplication-color_application-04_large_xhdpi.png)
 
+> Do.
+
+![](images/style/style_color_uiapplication_fallback2.png)
+
+> Don't.
 
 ## 主題
 
-主題是一種方式，讓應用程式應用同一種色調，
-這個風格奠定了表面的亮暗、陰影的層級、和油墨元素裡的適當不透明度，
-為了促進應用程式畫面的一致性，提供了兩種主題可選擇:
+Themes let you apply a consistent tone to an app. The theme specifies the darkness of the surfaces, level of shadow, and appropriate opacity of ink elements.
 
-- Light 亮色調
-- Dark 暗色調
+To promote greater consistency between apps, two themes are available: Light and Dark.
 
-> [Theme](http://material-design.storage.googleapis.com/downloads/stickersheet_uielements.ai)
 
-![](http://material-design.storage.googleapis.com/images/Style-Color-Themes-theme-01_large_xhdpi.png)
+> [Download Theme](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B71WflkWs_SAcDhkeFlZbmVJdG8/stickersheet_uielements.ai)
+>
+> 1.23MB (.ai)
 
-![](http://material-design.storage.googleapis.com/images/Style-Color-Themes-theme-02_large_xhdpi.png)
+> [**Using the Material Theme**](http://developer.android.com/training/material/theme.html)
+>
+> Customize the design to your brand identity.
+
+![](images/style/Style-Color-Themes-theme-01_large_xhdpi.png)
+
+![](images/style/Style-Color-Themes-theme-02_large_xhdpi.png)
 
 > *翻譯： Tillonter*
 

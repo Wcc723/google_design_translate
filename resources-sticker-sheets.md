@@ -1,4 +1,45 @@
 
+
+# Sticker sheets & icons
+
+## Components
+
+The sticker sheets have been updated to reflect the latest refinements to the components and integrated into a comprehensive sticker sheet that is easier to use.
+
+In the sticker sheet, you can find various elements that make up layouts, including light and dark symbols for status bars, app bars, bottom toolbars, cards, dropdown menus, search field, dividers, side navs, dialogs, floating action buttons, and other components.
+
+The sticker sheet elements align to an 8dp grid and type baselines fall on a 4dp grid.
+
+The text box offset is set to Leading (Type > Area Type Options). The sticker sheet also contains character styles that you can use for any text box.
+
+> Components sticker sheet for Adobe Photoshop
+>
+> [237.74 MB (.psd)](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7MGtzS0lpeFZUYmc/stickersheet_general.psd)
+
+> Components sticker sheet for Adobe Illustrator
+>
+> [189.09 MB (.ai)](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7WDR5Q25OcXVuU28/stickersheet_general.ai)
+
+> Components sticker sheet for Sketch
+>
+> [6.67 MB (.sketch)](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7Q3FVZ0FnM18yTHM/stickersheet_general.sketch)
+
+
+## System icons
+
+Material design system icons include common icons used across different apps, such as icons used for media playback, communication, content editing, connectivity, and so on. The download includes ~750 icons, provided as SVGs, appropriately sized PNGs for all density devices, and both PNG and SVG sprites.
+
+> System icons
+>
+> [56.51 MB (.zip)](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNZ19ldS1aNzdTQkU/material-design-icons-1.0.0.zip)
+
+
+**[System icons in Github](https://github.com/google/material-design-icons)**
+
+You can also download system icons from Github.
+
+<!--  以下為舊版文章 -->
+
 # 貼紙範本
 
 內容

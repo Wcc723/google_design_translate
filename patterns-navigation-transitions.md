@@ -1,6 +1,6 @@
-# 導航式動畫
+# 導覽式動畫
 
-導航式動畫只有當用戶在應用程式中從某一狀態被帶領到另一個狀態才會發生，像是從縱觀的視角轉換到細節的視角或是任務完成的視角。大部份的動畫自然而然地是階層式的，但是非階層式的動畫也會發生。
+導覽式動畫只有當用戶在應用程式中從某一狀態被帶領到另一個狀態才會發生，像是從縱觀的視角轉換到細節的視角或是任務完成的視角。大部份的動畫自然而然地是階層式的，但是非階層式的動畫也會發生。
 
 這些短暫的時間對於用戶經驗來說是很重要的。仔細的考量用戶的使用過程來決定什麼動畫在什麼時候使用。不同的動畫在不同情形下都是合適的。
 
@@ -21,7 +21,7 @@
 
 非階層式的動畫與階層式動畫的表現方式不同。你可以把非階層式動畫想成從sibling到sibling。
 
-一個這類動畫的範例是當用戶在一排標籤中移動時。這時候沒有高度變化，標籤的內容、表面都停留在同一個高度。新的內容從右邊滑進來並且把它的sibling推出畫面左側。
+一個這類動畫的範例是當用戶在一排頁籤中移動時。這時候沒有高度變化，頁籤的內容、表面都停留在同一個高度。新的內容從右邊滑進來並且把它的sibling推出畫面左側。
 
 <video id="1-None_0B2wX4iIvu8L6bDNpdXBkdElHWDg" width="760" height="420" controls="">
 <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B2wX4iIvu8L6bXdoMlplMWtMeWs/patterns_navigational-transitions_sibling-to-sibling_tabs-01_xhdpi.webm" type="video/webm">

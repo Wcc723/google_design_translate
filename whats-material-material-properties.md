@@ -146,4 +146,4 @@ z軸上的移動是一個典型的用戶與material互動的結果。
     <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWRWROZkxDS2JySG8/whatismaterial-materialprop-movementmaterial-020203_Material_Response_xhdpi_002.mp4" type="video/mp4">
 </video>
 
-> *翻譯： [Sean](https://www.facebook.com/shihneng.chen)*
+> *翻譯： [Sean Chen](https://www.facebook.com/shihneng.chen)*

@@ -6,17 +6,17 @@
 
 
 illustrations和photographs可能會在令人吃驚的期間持續地進行三階段的裝載及轉換，而不是仰賴於繁瑣的透明度轉換。在程度上會以低對比曝光及不飽和的顏色來做調整。只有在透明度是100%時，最後的階段可能會是完整的飽和顏色。較低對比的效果是較暗影像的伽瑪射線轉換與黑色輸出的結合。
- 
+
 ![](images/patterns/patterns-ImageTreatment-ImageLoad-1graph_large_mdpi.png)
- 
+
 ![](images/patterns/patterns-imagetreatment-imageload2_large_mdpi.png)
 
 > 低透明度及低對比度
 
 ![](images/patterns/patterns-imagetreatment-imageload3_large_mdpi.png)
- 
+
 > 完全不透明及曝光度
- 
+
 ![](images/patterns/patterns-imagetreatment-imageload4_large_mdpi.png)
 
 > 顏色飽和度
@@ -25,7 +25,7 @@ illustrations和photographs可能會在令人吃驚的期間持續地進行三�
 ### 光圈與輸出
 
 不要將白色調整得太過明亮，這樣會透過相機的鏡頭製造出一個過度曝光的效果。想像一個照片照片在輸出的過程中褪色的影像。
- 
+
 ![](images/patterns/patterns-imagetreatment-aperturevsdevelopment1-yes-no_large_mdpi.png)
 
 > 可以

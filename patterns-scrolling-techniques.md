@@ -72,7 +72,4 @@
 <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWWHR2eG5ITnZlMmM/patterns-scrollingtech-scrolling-070801_Flexible_Space_with_Image_xhdpi_002.mp4" type="video/mp4">
 </video>
 
-
-
-
-
+> *翻譯： [Sean Chen](https://www.facebook.com/shihneng.chen)*

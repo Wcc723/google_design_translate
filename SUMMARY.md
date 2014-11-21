@@ -83,7 +83,7 @@
    * [* Errors](patterns-errors.md)
    * [選擇](patterns-selection.md)
    * [手勢](patterns-gestures.md)
-   * [抽出式導航面板](patterns-navigation-drawer.md)
+   * [抽出式導覽面板](patterns-navigation-drawer.md)
    * [導覽式動畫](patterns-navigation-transitions.md)
    * [捲動方式](patterns-scrolling-techniques.md)
    * [促進式指令](patterns-promotes-actions.md)

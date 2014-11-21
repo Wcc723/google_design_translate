@@ -99,4 +99,4 @@ Parent和child的階層架構決定了物件群組間怎麼互動。比如說，
 
 > 這些卡片（siblings與卡片組的child）捲動到畫面之外，同時浮動動作按鈕（自己為自己的parent）留在了原地。
 
-> *翻譯： [Sean](https://www.facebook.com/shihneng.chen)*
+> *翻譯： [Sean Chen](https://www.facebook.com/shihneng.chen)*

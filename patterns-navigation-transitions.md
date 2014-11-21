@@ -29,3 +29,5 @@
 </video>
 
 > Sibling動畫
+
+> *翻譯： [Sean Chen](https://www.facebook.com/shihneng.chen)*

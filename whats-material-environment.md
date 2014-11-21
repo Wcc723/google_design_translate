@@ -32,4 +32,4 @@ Material所存在的環境是一個3D空間，這表示所有物件都有x、y�
 
 > Combined shadow from key and ambient lights
 
-> *翻譯： [Sean](https://www.facebook.com/shihneng.chen)*
+> *翻譯： [Sean Chen](https://www.facebook.com/shihneng.chen)*

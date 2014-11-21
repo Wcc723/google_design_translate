@@ -1,47 +1,49 @@
-# Pickers
+# 選擇器 (Pickers)
 
-Pickers provide a simple way to select a single value from a set. Ready-to-use date and time pickers are included.
+選擇器提供淺易的方式在一組中去選擇單一值。現成的日期以及時間選擇器都包含在內。
 
-Each picker is a dialog with a set of controls for entering the parts of the date (month, day, year) or time (hour, minute, AM/PM). Using these in your app helps ensure that a user's specification of a date or time input is valid and formatted correctly. The format of a time and date picker adjusts automatically to the locale, i.e. month-day-year in the US and day-month-year in other regions.
+選擇器是含有一組可以輸入日期（日、月、年） 或時間（時、分，早／晚）控制項目部分的對話框。在你的應用程式上使用這些，將有助於確保使用者的日期、時間是有效的輸入且格式正確。時間和日期選擇器的格式會自動依據地區做調整，例如：在美國使用「月-日-年」，而其他地區則使用「日-月-年」。
 
-Pickers can be used inline on a form, but on mobile their relatively large footprint is best suited for display in a dialog. For inline display, consider using more compact controls such as text fields or dropdown menus.
 
-### Date Picker
+選擇器可以在表單上作行內使用，但用在手機上，相對來說較大的底部位置（footprint？）則適合用在顯示對話框上。
+於行內顯示，需考量使用更簡潔的控制項，例如文字欄位或下拉選單。
 
-Light and Dark themes in portrait and landscape
+### 日期選擇器
+
+在直式、橫式中的亮色、暗色主題
 
 ![](images/components/components_pickers_date1.png)
 
-> Date picker: Light theme, portrait
+> 日期選擇器：亮色，直式
 
 ![](images/components/components_pickers_date2.png)
 
 ![](images/components/components_pickers_date3.png)
 
-> Date picker: Light theme, landscape
+> 日期選擇器：亮色，橫式
 
 ![](images/components/components_pickers_date4.png)
 
-> Date picker: Dark theme, landscape
+> 日期選擇器：暗色，橫式
 
-### Time
+### 時間
 
-Light and Dark themes in portrait and landscape
+在直式、橫式中的亮色、暗色主題
 
 ![](images/components/components_pickers_time1.png)
 
-> Time picker: Light theme, portrait
+> 時間選擇器：亮色，直式
 
 ![](images/components/components_pickers_time2.png)
 
-> Time picker: Dark theme, portrait
+> 時間選擇器：暗色，直式
 
 ![](images/components/components_pickers_date3.png)
 
-> Time picker: Light theme, landscape
+> 時間選擇器：亮色，橫式
 
 ![](images/components/components_pickers_date4.png)
 
-> Time picker: Dark theme, landscape
+> 時間選擇器：暗色，橫式
 
 

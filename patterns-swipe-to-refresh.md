@@ -91,7 +91,7 @@ Y軸的更新中指示器預設位置可以調整，所以它的位置可以和�
 
 當另一個表面在z軸上位於包含欲更新內容的material之上時，更新中指示器從下方移動上來，並且當它完整顯示時是簡潔的。
 
-When the material containing the refreshing content is positioned in z-space either above every other surface or seamed with a coplanar surface, the refresh indicator scales up in size as it translates.
+當包含欲更新內容的material在z軸上高於其他表面或者與另一個表面同層時，更新中指示器跳出來呈現，同時也執行動畫。
 
 當透過應用程式列的動作或者浮現選單來啟動內容更新時，更新中指示器從它的預設位置跳出來呈現。
 
@@ -127,13 +127,10 @@ When the material containing the refreshing content is positioned in z-space eit
 
 當更新中指示器顯示或跳出至畫面上時，環形轉動圖示邊轉動邊呈現進畫面。
 
+為了確保用戶使用滑動更新手勢來啟動更新，更新中指示器在應用程式開始更新之前必須通過一個瓶頸。這個瓶頸透過一些暗喻來表達：環形轉動圖示達到100%的不透明性、環形轉動圖示的轉動速度減慢、更新中指示器的動畫速率減慢。
 
-To ensure users intentionally initiate a refresh using the swipe to refresh gesture, the refresh indicator must pass a threshold before the app will begin to refresh. This threshold is indicated through a number of cues: the circular spinner reaches 100% opacity, the rotation of the circular spinner slows down, and the rate of translation of the refresh indicator slows down.
+在通過這個瓶頸後的任何時間點完成這個手勢將會啟動更新。
 
-Completing the gesture at any point after passing the threshold will initiate the refresh action.
-
-Reversing the gesture past the threshold will cancel the initiation of the refresh action.
+在通過這個瓶頸後的任何時間點反過來作這個手勢將會取消更新。
 
 > *翻譯： [Sean Chen](https://www.facebook.com/shihneng.chen)*
-
-

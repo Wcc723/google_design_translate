@@ -56,7 +56,7 @@
 
 #### 永久性的頁尾按鈕
 
-如果您的應用程式需要永久性且容易地使用者操作，首先要考慮的事使用浮動式的按鈕。如果這個動作並不會改變，但又仍然需要容易的操作，那麼請使用永久幸得頁尾按鈕。
+如果您的應用程式需要永久性且容易地使用者操作，首先要考慮的事使用浮動式的按鈕。如果這個動作並不會改變，但又仍然需要容易的操作，那麼請使用永久性的頁尾按鈕。
 
 ![](images/components/components-buttons-usage-1_buttons_usage_19_large_mdpi.png)
 
@@ -123,7 +123,7 @@
 ![](images/components/components-buttons-usage-flat-do_large_mdpi.png)
 
 > 好的。
-> 
+>
 > 正確的使用扁平式按鈕
 
 ![](images/components/components-buttons-usage-flat-dont_large_mdpi.png)

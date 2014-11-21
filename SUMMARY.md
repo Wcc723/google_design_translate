@@ -12,9 +12,9 @@
   * [有意義的動畫](animation-meaningful-transitions.md)
   * [討人歡心的細節](animation-delightful-details.md)
 * Style
-  * [顏色](style-color.md)
-  * [排版樣式](style-typography.md)
-  * [圖示](style-icons.md)
+  * [* 顏色](style-color.md)
+  * [* 排版樣式](style-typography.md)
+  * [* 圖示](style-icons.md)
   * [圖像](style-imagery.md)
 * Layout
   * [原則](layout-principles.md)

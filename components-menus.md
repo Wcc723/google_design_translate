@@ -1,5 +1,6 @@
 # 菜單
 
+Menus allow users to take an action by selecting from a list of choices revealed upon opening a temporary, new sheet of material.
 
 ## 使用
 
@@ -17,7 +18,13 @@
 
 菜單是顯示一組相近菜單項目，其中每一個可以被啟用或者應用程式上當前狀態應該被禁止。
 
-![](images/components/components-menus-menus-menus-02_large_mdpi.png)
+![](images/components/components_menus_usage3do.png)
+
+> Do.
+
+![](images/components/components_menus_usage3dont.png)
+
+> Don't
 
 根據應用程式的當前狀態上下文菜單動態改變其現有的和已啟用菜單項。 
 
@@ -25,27 +32,49 @@
 
 某些應用程式的狀態，可能會導致一個只包含菜單項的上下文菜單。例如：在網頁上凸顯文字，Android 只是複製功能，使用者不能剪下或貼上文字。
 
-![](images/components/components-menus-menus-menus-03_large_mdpi.png)
+![](images/components/components_menus_usage4.png)
+
 
 在靠近螢幕邊緣上，菜單的垂直與水平需要重新定位。
 
-![](images/components/components-menus-menus-menus-04_large_mdpi.png)
+![](images/components/components_menus_usage5.png)
 
 如果菜單的高度阻擋了所有菜單項目的顯示。那麼菜單可以使用內部的滾動方式。舉一個例子是，在橫向的手機顯示上檢視菜單時。
 
-![](images/components/components-menus-menus-menus-05_large_mdpi.png)
+![](images/components/components_menus_usage6.png)
 
 菜單也可以是層疊的
 
-![](images/components/components-menus-menus-menus-06_large_mdpi.png)
+![](images/components/components_menus_usage7.png)
 
 這些動作會顯示滾動以及層疊菜單。
 
-<video width="739" height="762" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls=""></video>
+<video width="760" height="570" controls="">
+<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNb3hiNjFBTUU4V0k/components-menus-menus-appbar_dropdown_spec_large_xhdpi.webm" type="video/webm">
+<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNd2s3WE1CRkN5aU0/components-menus-menus-appbar_dropdown_spec_large_xhdpi.mp4" type="video/mp4">
+</video>
 
 > 下拉式 
 
-<video width="740" height="555" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls=""></video>
+<video width="360" height="402" controls="">
+<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B0NGgBg38lWWX2VYY3Vnd1J2cTQ/components-menus-usage-061001_Textfield_Dropdown_xhdpi_003.webm" type="video/webm">
+<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B0NGgBg38lWWcF9Ndmt1RTZoWk0/components-menus-usage-061001_Textfield_Dropdown_xhdpi_003.mp4" type="video/mp4">
+</video>
+
+> Textfield drop down
+
+
+<video width="360" height="640" controls="">
+<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B2wX4iIvu8L6YVh1eDYzUTdLNVU/components-menus-usage-061001_Appbar_Dropdown_xhdpi_002.webm" type="video/webm">
+<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B2wX4iIvu8L6d3BWRGNFMEdWUnM/components-menus-usage-061001_Appbar_Dropdown_xhdpi_002.mp4" type="video/mp4">
+</video>
+
+> App bar drop down
+
+<video width="760" height="570" controls="">
+<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNaDNNa01QX2x4UkU/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" type="video/webm">
+<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNWVBad29DaVJrREk/components-menus-menus-cascading_dropdown_spec_large_xhdpi.mp4" type="video/mp4">
+</video>
 
 > 層疊下拉式
 
@@ -55,7 +84,7 @@
 
 每個菜單項目都限制在一個本文內，說明這個動作將在被選擇時會被執行。
 
-本文通常是一個單字或者很短的語句，不過它可以包含圖示以及幫助本文。例如鍵盤的快捷鍵，和控制項。就像是複選方塊來表示多個項目或狀態。請詳見 [控制項列表](components-listcontrols-en.html).
+本文通常是一個單字或者很短的語句，不過它可以包含圖示以及幫助本文。例如鍵盤的快捷鍵，和控制項。就像是複選方塊來表示多個項目或狀態。請詳見 [控制項列表](components-listcontrols.html).
 
 靜態內容的菜單應該放在菜單上方作為最常用的項目。
 
@@ -90,29 +119,112 @@
 ![](images/components/components-menus-behavior-menus-p-01_large_mdpi.png)
 
 > 好的做法.
+>
+> Do not display a duplicate of the selected menu item.
 
-![](images/components/components-menus-behavior-menus-p-02_large_mdpi.png)
+![](images/components/components_menus_behavior3.png)
 
 > 不好的做法.
 >
-> 菜單在觸控的位置不需要用水平對齊
+> Positioning the menu below the emitting element separates it from its context.
 
-![](images/components/components-menus-behavior-menus-p-03a_large_mdpi.png)
+![](images/components/components_menus_behavior4.png)
 
-> 好的做法. 
+> Don't.
 
-![](images/components/components-menus-behavior-menus-p-03b_large_mdpi.png)
 
-> 好的做法.
+## Simple Menus
 
-![](images/components/components-menus-behavior-menus-p-04a_large_mdpi.png)
+Simple menus are used in list views on tablet and mobile devices to display the options for a specific list item.
 
-> 不好的做法.
+**Disambiguation**: In contrast to [simple menus](http://www.google.com/design/spec/components/dialogs.html#dialogs-simple-dialogs), simple dialogs can present additional detail related to the options available for a list item or provide navigational or orthogonal actions related to the primary task. Although they can display the same content, simple menus are preferred over simple dialogs because simple menus are less disruptive to the user’s current context.
 
-![](images/components/components-menus-behavior-menus-p-04b_large_mdpi.png)
+Use simple menus in lists to display the options for a specific list item.
 
-> 不好的做法.
+Choosing an option immediately commits the option and closes the menu.
 
+Touching outside of the menu, or pressing Back, cancels the action and closes the menu
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7OG9VQU1KemZFcUU/components_dialogs_simplemenus1.png)
+
+When opened, simple menus attempt to vertically align the currently selected menu item with the list item.
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7ZXZIOE05RkxENTg/components_dialogs_simplemenus2.png)
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7MFE5VE1TUF9HRGc/components_dialogs_simplemenus3.png)
+
+When close to a screen edge, simple menus reposition their vertical alignment so that all menu items are completely visible.
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7UUhDUFZLMHZnNlk/components_dialogs_simplemenus4.png)
+
+> Do.
+>
+> Do not arbitrarily position the first menu item over the list item
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7SldfYzhLV1Q4ZjA/components_dialogs_simplemenus5.png)
+
+> Don't.
+
+Simple menus appear over their emitting element, not below.
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7NzVwUlN5aDlPVU0/components_dialogs_simplemenus6.png)
+
+> Do
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7Q3Y2RE9DVDF4UmM/components_dialogs_simplemenus7.png)
+
+> Don't.
+
+Menu width varies depending on string length.
+
+Simple menus always maintain a 16dp margin (phone) or 24dp margin (tablet) to the left and right edges of the screen.
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7MG9uWEhpXzFHNVk/components_dialogs_simplemenus8.png)
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7aVp1bUlkRHUweE0/components_dialogs_simplemenus9.png)
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7OU1aYWc3MmRCams/components_dialogs_simplemenus10.png)
+
+Menus show a persistent scroll bar when content is scrollable.
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7SHVOck5JSXBERzA/components_dialogs_simplemenus11.png)
+
+> Do.
+>
+> Display a scroll bar by default for scrollable content.
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7WlFaUU9fOG1Jbnc/components_dialogs_simplemenus12.png)
+
+> Don't.
+>
+> Without a scroll bar, it’s unclear there are additional menu items available.
+
+
+Don’t duplicate the selected menu item.
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7NmNBOHRTRFVic00/components_dialogs_simplemenus13.png)
+
+> Do.
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7UWZYVFdIOUpWY0k/components_dialogs_simplemenus14.png)
+
+> Don't
+>
+> Don’t display a duplicate of the selected element.
+
+Simple menus are always aligned with the start of the list item text and do not reposition horizontally based on touch location.
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7ZW12S2lzRXdwMU0/components_dialogs_simplemenus15.png)
+
+> Do.
+>
+> Simple menus are left-aligned regardless of touch location.
+
+![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7X1diM193SWpmdlU/components_dialogs_simplemenus16.png)
+
+> Don't.
+>
+> Simple menus do not reposition based on touch location.
 
 
 ## 指標

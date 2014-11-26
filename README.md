@@ -16,6 +16,7 @@
 - [Sean](https://tw.linkedin.com/pub/sean-chen/53/83/4a8/)
 - Xuan
 - Xunyi
+- Yi-Bei
 - [陳聖博](https://www.facebook.com/Shengbo.Arthur.Chen)
 
 ## Github

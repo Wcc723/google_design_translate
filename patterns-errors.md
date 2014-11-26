@@ -1,47 +1,46 @@
-# Errors
+# 錯誤
 
-Errors are instances where an app fails to complete what is expected. Errors happen when:
+錯誤是當應用程式在完成預期結果時失敗的情況。錯誤發生於：
 
-- The app does not understand user input.
-- The system or app fails.
-- A user intends to run incompatible operations concurrently.
+- 應用程式無法理解用戶所輸入。
+- 系統或用硬程式失敗。
+- 用戶企圖同時運行不符合的操作。
 
-Try to prevent errors through good design. Make your app understand the user, rather than making the user have to understand the app. When an error occurs, communicate clearly about what is happening and how a user can quickly resolve it. Save and preserve as much state as possible, especially when the user has input content.
+試著透過好的設計避免錯誤。讓您的應用程式理解用戶，而非讓用戶必須了解應用程式。當錯誤發生時，清楚地與用戶溝通發生什麼事並且如何快速解決它。儲存並且盡可能地保存狀態，尤其當用戶有輸入內容時。
 
-As with all feedback, prioritize which messages are most important, communicate through content states to avoid extraneous elements on screen, and be consistent with screen placements within and across form factors.
-
-
-## User input errors
-Give context for user input errors to help users fix them. Politely let users know as soon as possible that they have made an error that they need to correct. Don’t let them submit a long form before telling them they made an error. Disable a form submission button if errors are detected. If the error can only be found after the user has submitted a form, be clear about what went wrong and what the user specifically needs to do to fix it.
+如同所有的回饋，優先考慮最重要的訊息為何，透過內容狀態溝通以避免多餘的元素在畫面上，以及在畫面上的外觀形狀具有一致性(and be consistent with screen placements within and across form factors.)。
 
 
-### Text field input
+## 用戶輸入錯誤
+提供用戶錯誤輸入的語境（上下文）以幫助用戶修正它們。盡可能快速地、客氣地讓用戶知道他們有錯誤需要修正。別讓他們提交一份冗長的表單時，才跟他們說他們犯了錯。當偵測到錯誤，便停用提交按鈕。當錯誤僅能在用戶提交表單後才被發現，要清楚什麼地方出錯，以及用戶該如何具體地修正它。
 
-Helper text may appear at any time before, during, or after user interaction. Error text should not appear before user interaction with the field. Helper text may transform into error text if the user inputs incorrect text.
+### 文字欄位輸入 
 
-Do not slow down users with too much text on screen. Not every text field needs helper and/or error text.
+輔助信息將顯示在任何用戶與之互動的時間前、之中、後。錯誤信息不得出現在用戶尚未與該欄位互動前。輔助信息將轉換成錯誤信息當用戶輸入錯誤文字。
 
-If the text field can have an error below it, it should have an additional 16dps of padding below it to account for the error field.
+避免畫面上過多的信息，降低用戶（填表的）速度。並非每個文字欄位都需要輔助和（或）錯誤信息。
+
+當文字欄位之下可放錯誤信息，文字欄位下方需有額外的內間距 16dps 作為錯誤信息的用途。
 
 ![](images/patterns/patterns_errors_userinput1.png)
 
 ![](images/patterns/patterns_errors_userinput2.png)
 
-#### Light
+#### 亮版
 
-- Error font is Roboto Regular 12sp
-- Hint and helper text is #000000 with 38% alpha
+- 錯誤信息的字型是 Roboto Regular 12sp
+- 提示以及輔助信息是 #000000 和 38% alpha
 
 ![](images/patterns/patterns_errors_userinput3.png)
 
-#### Dark
+#### 暗版
 
-Error font is Roboto Regular 12sp
-Hint and helper text is #FFFFFF with 30% alpha
+錯誤信息的字型是 Roboto Regular 12sp
+提示以及輔助信息是 #FFFFFF with 30% alpha
 
 ![](images/patterns/patterns_errors_userinput4.png)
 
-#### Helper and error text
+#### 輔助及錯誤信息
 
 ![](images/patterns/patterns_errors_userinput5.png)
 
@@ -55,7 +54,7 @@ Hint and helper text is #FFFFFF with 30% alpha
 
 ![](images/patterns/patterns_errors_userinput_keyline1.png)
 
-#### Error with floating text label
+#### 錯誤與浮動文字標籤
 
 ![](images/patterns/patterns_errors_userinput10.png)
 
@@ -65,19 +64,19 @@ Hint and helper text is #FFFFFF with 30% alpha
 
 ![](images/patterns/patterns_errors_userinput_keyline2.png)
 
-#### Text field input - Over/under character or word count
+#### 文字欄位輸入 - 字數以上／以下或字元計算
 
-Counter may be displayed before, during, and after user interaction with the field. Consider not displaying the counter until the user is approaching the limit. Counter fields should have additional 16dps of padding below it.
+計字器可以在用戶與欄位互動之前、之中和之後顯示。考慮不顯示計字器直到用戶接近字數限制。計字欄位需額外的內間距 16dps 在它下方。
 
-- Counter font is Roboto Regular 12sp
+- 計字器字型是 Roboto Regular 12sp
 
-#### Single line with character counter
+#### 計字器於單行
 
 ![](images/patterns/patterns_errors_userinput13.png)
 
 ![](images/patterns/patterns_errors_userinput14.png)
 
-#### Multi line with character counter
+#### 計字器於多行
 
 ![](images/patterns/patterns_errors_userinput15.png)
 
@@ -87,117 +86,118 @@ Counter may be displayed before, during, and after user interaction with the fie
 
 ![](images/patterns/patterns_errors_userinput_keyline3.png)
 
-### Incompatible values
+### 不符合值
 
-Incompatible value errors should be displayed during or after user interaction with the text field that triggers the error.
+不符合值的錯誤信息，將在用戶與欄位互動時或後被觸發。
 
-If two or more fields have incompatible inputs, the text field and error message below each field should indicate a fix is needed. An additional message should be added at the top of the form or screen summarizing the fixes needed and any additional explanation.
+當有兩個以上不符合值的輸入，在每個須修正的欄位應顯示文字欄位以及錯誤訊息。額外的訊息將加在表單或畫面上方，總括所需做的修正以及其他額外的說明。
 
-#### Errors detected after attempted form submission
+#### 試圖提交表單後錯誤偵測
 
-The form should reload with scroll position at the top of the form, where the error messages are consolidated. Error messages for individual fields may be resolved as the user works through the form.
+表單重載需滾到表單上方，統一錯誤信息的位置。單一欄位的錯誤信息將因用戶作用後解決。
 
 ![](images/patterns/patterns_errors_userinput18.png)
 
 ![](images/patterns/patterns_errors_userinput19.png)
 
-### Incomplete form
+### 表單不完整
 
-Incomplete form errors should be displayed after a user has sufficiently advanced through the form to indicate they have skipped the field. If unable to detect user progress through the form, display the error after the user has attempted to submit the form.
+表單填寫不完整的錯誤需在用戶已經充分填寫過表單後，顯示被他們跳過的欄位。如果無法在用戶填寫表單時偵測，將於用戶試圖提交表單後顯示此錯誤。
 
-If fields in a form are left empty, the text field and error message below each field should indicate the error.
+當表單內的欄位被留白，則每一個文字欄位以及欄位下方的錯誤訊息需顯示錯誤。
 
-#### Multiple errors in a form before submission
+#### 提交前表單內含有多個錯誤
 
-It is sufficient to individually label error messages as the user works through the form.
+當用戶填寫完表單，它足以單獨地標記錯誤訊息。
 
 ![](images/patterns/patterns_errors_userinput21.png)
 
 ![](images/patterns/patterns_errors_userinput22.png)
 
-### Single line list error
+### 單行列錯誤
 
 ![](images/patterns/patterns_errors_userinput23.png)
 
-## App errors
-App errors are failures that occur regardless of user input.
+## 應用程式錯誤
+應用程式錯誤發生於無關用戶輸入。
 
-### General app error
+### 一般應用程式錯誤
 
-While an error is in progress, an app should continue to display its activity/loading indicators until the failure state is reached and the app error is displayed.
+當錯誤還在過程中，應用程式仍要顯示其作用／載入指示器，直到達到失敗狀態並顯示該應用程式錯誤。
 
-If a feature is not available, it may be represented within the UI. Not every error requires a new component to pop up.
+如果功能不可用，可以在UI中表示。並非每個錯誤都需要彈出一個新組件。
 
-If possible, give your user an action that will help them address the error. Don’t let them get stuck.
+盡可能給予您的用戶一個動作以幫助他們解決錯誤。別讓他們被錯誤困住。
 
 ![](images/patterns/patterns_errors_app1.png)
 
-> Alert dialog: app feedback about an error that is blocking normal operation
+> 警告對話框：應用程式回饋關於阻止正常運作的錯誤。  
 
 ![](images/patterns/patterns_errors_app2.png)
 
-> Snackbar: app feedback about a peripheral error. Snackbars are transient, don't use them for critical, persistent, or bulk errors.
+> Snackbar：應用程式回饋關於外部的錯誤。Snackbars是短暫的，避免用它們來顯示嚴重的、持續性地、大量的錯誤。
 
-### Sync error/failure to load
+### 同步加載錯誤／失敗
 
-A key part of designing an app is determining how screens will present content. A subset of that is determining what each screen should do when its regular content can't be shown. Examples include:
+設計一個應用程式的關鍵部分在於確定內容如何於畫面呈現。這邊的集合是每個畫面在它正常內容無法顯示時該如何做。 
+範例包含：
 
-- A screen that normally presents a list of items, but no items exist yet.
-- A screen that normally shows search results, but the current search yielded zero results.
-- A screen that normally shows cloud-based content, but can't right now because of an unknown error.
+- 畫面通常呈現一份項目清單，但尚無項目存在。
+- 畫面通常顯示搜尋結果，但目前的搜尋不到任何結果。
+- 畫面通常顯示雲端內容，但目前因未知錯誤而無法顯示。
 
-These types of scenarios are called empty states. Although they're not the norm, they're important to design well because users may already be disappointed from encountering something unexpected.
+這類型的狀況稱為空狀態。雖然他們並非常態，但將之設計好很重要。因為用戶可能對遇到非期望的事而感到失望。
 
-When sync is down or content has failed to load, the user should be able to interact with as much of the rest of the app as possible.
+當同步已經關閉或內容載入失敗，用戶應能與應用程式中尚能使用的最大部分做互動。
 
 ![](images/patterns/patterns_errors_app3.png)
 
-> Empty state for the screen/content being loaded.
+> 正在加載空狀態畫面／內容。
 
 ![](images/patterns/patterns_errors_app4.png)
 
-> Container/component specific error with action.
+> 內容／組件操作的具體錯誤。
 
 
-### Connectivity
+### 連線狀態
 
-When connectivity is down, the user should be able to interact with as much of the rest of the app as possible.
+當斷線時，用戶應能與應用程式中尚能作用的最大部分做互動。
 
-If appropriate, present a link to help a user accomplish their task. Only offer links that you can actually support. For example, don't offer an option like "Try again" in cases where you can already detect that the operation will fail.
+如果合適的話，顯示一個連結幫助用戶完成他們的任務。僅只提供確實可以支援的連結給他們。例如，不要提供一個像是「重試」的選項，如果您已經察覺到這個操作會失敗。
 
 ![](images/patterns/patterns_errors_app5.png)
 
-> Snackbar with action to retry
+> 含有重試的 Snackbar
 
 ![](images/patterns/patterns_errors_app6.png)
 
-> Empty state for a screen only available online
+> 在畫面上的空狀態，僅可在連線時作用。
 
-## Incompatible state errors
+## 不符合的狀態錯誤
 
-Incompatible state errors occur when users attempt to run operations that conflict, such as making a call while in airplane mode or taking a screenshot from a restricted work account. Try to avoid letting users putt themselves into these situations by clearly communicating the states they are selecting and the implications for the rest of their experience. When these errors are triggered, do not imply that they are the user’s fault.
+不符合的狀態錯誤發生於用戶試圖執行互相衝突的操作，例如在飛航模式播電話或在受限的帳號做截圖。透過清楚地傳達用戶所選的狀態以及他們來自其餘經驗的暗示，避免讓用戶自己陷入那個處境。 當這些錯誤被觸發，並不意味著這是用戶所犯的過失。
 
-#### General incompatibility
+#### 一般不符合
 
-Be clear about why the error is occurring and where it originates.
+清楚關於錯誤發生的原因以及產生的地方。  
 
-Example:
+範例：
 
-- Screenshots and premium features are not allowed while in a restricted mode.
+- 在受限模式中，不允許使用截圖以及高級功能。
 
 ![](images/patterns/patterns_errors_state1.png)
 
 > Snackbar + Special mode indicator
 
 
-#### Offline by choice
+#### 自行選擇離線
 
-Consider displaying an unintrusive but persistent indicator when users are in these states.
+當用戶在這一個狀態時，考慮顯示一個不唐突但持續性的指示。
 
-Examples:
+範例：
 
-- Placing a call while in airplane mode
-- Music availability while offline
+- 於飛航模式中撥打電話
+- 離線時聽音樂的有效性
 
 ![](images/patterns/patterns_errors_state2.png)
 
@@ -205,19 +205,21 @@ Examples:
 
 ![](images/patterns/patterns_errors_state3.png)
 
-> Indicator that device has been placed into airplane mode.
+> 裝置已轉為飛航模式的指示器。
 
-### Permission requested
+### 權限請求
 
-If your app requires user permission granted before proceeding along a workflow, consider working the permission request into the app flow instead of treating it as an error.
+當您的應用程式在工作流程進行前需要用戶的授權，考慮讓權限要求成為應用程式流程的一部分，而非將它當作錯誤。
 
-If permissions are necessary before the first run of an app, consider how they might fit into your app’s warm welcome.
+如果授權在第一次執行應用程式時是必要的，考慮如何使它適合應用程式的歡迎步驟。
 
-Examples:
+範例：
 
-- An app’s permissions have changed.
-- In-app purchases have been disabled.
+- 一個應用程式的權限有所改變。
+- 應用程式的內部加購功能已被禁用。
 
 ![](images/patterns/patterns_errors_state4.png)
 
-> Dialog
+> 對話框
+
+> *翻譯： Yi-Bei*

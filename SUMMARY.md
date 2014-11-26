@@ -25,7 +25,7 @@
   * [按鈕](components-buttons.md)
   * [卡片](components-cards.md)
   * [芯片](components-chips.md)
-  * [對話框](components-dialogs.md)
+  * [* 對話框](components-dialogs.md)
   * [分隔器](components-dividers.md)
   * [網格](components-grids.md)
   * [清單](components-lists.md)

@@ -41,7 +41,7 @@
   * [文字輸入框](components-text-fields.md)
   * [工具提示](components-tooltips.md)
 * Pattern
-   * [* Data formats](patterns-data-formats.md)
+   * [* 資料格式](patterns-data-formats.md)
    * [* 錯誤](patterns-errors.md)
    * [選擇](patterns-selection.md)
    * [手勢](patterns-gestures.md)

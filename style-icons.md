@@ -1,348 +1,422 @@
 
 # 圖示
 
-## Product icons
+## 產品圖示
 
-Product icons are the visual expression of a brand’s products, services, and tools. Simple, bold, and friendly, they communicate the core idea and intent of a product. While each product icon is visually distinct, all product icons for a given brand should be unified through concept and execution.
+產品圖示是一個品牌的產品的服務和工具的視覺表達。簡單、大膽、友好的傳達產品的核心理念和意圖。雖然每個產品圖示在視覺上都不相同，但對於一個給定品牌的所有產品圖示應透過理念和執行將其統一。
 
-Product icons are an essential vehicle for communicating your brand. Using these guidelines as a starting point, make sure your product icon colors and other key elements reflect your brand identity.
+產品圖示是傳達你的品牌的重要方式。使用這些準則作為出發點，確保您的產品圖示的顏色和其他關鍵要素反映你的品牌標識。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekZjJwVUpvejNXMnM/style_logos_product_intro_definition.png)
+![](images/style/style_logos_product_intro_definition.png)
 
-### Design approach
+### 設計方法
 
-Product icon design is inspired by the tactile and physical quality of material. Each icon is cut, folded, and lit as paper would be, but represented by simple graphic elements. The quality of the material is sturdy, with clean folds and crisp edges. The matte-like finish interacts with light through subtle highlights and consistent shadows.
+產品圖示的設計靈感是由材料的觸覺和物理質量作為啟發。每個圖標都被切斷、折疊，並模擬紙張會是這樣，透過簡單的圖形元素表示。用乾淨的褶皺和清晰的邊緣使材料的質量是堅固的。磨砂般交互作用的表面與光線照射產生微妙的高光及一致的陰影。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekaFJZWDc2TjBkUUk/style_logos_product_intro_material_physical.png)
-
-
-> Physical prototype
+![](images/style/style_logos_product_intro_material_physical.png)
 
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekXzExM0RuZEZUdms/style_logos_product_intro_material_lighting.png)
-
-> Lighting study
-
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekN2JjbE1jdFptMkk/style_logos_product_intro_material_material.png)
-
-> Material prototype
-
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekb3JNLWVYT1ctRFU/style_logos_product_intro_material_color.png)
-
-> Color study
+> 物理原型
 
 
-### Product icon grid
+![](images/style/style_logos_product_intro_material_lighting.png)
 
-The product icon grid has been developed to facilitate consistency and establish a clear set of rules for the positioning of graphic elements. This standardization results in a flexible but coherent system.
+> 光影研究
 
+![](images/style/style_logos_product_intro_material_material.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekVXpkSUdwbHRnTzA/style_logos_product_grid_logo_grid.png)
+> 質感原型
 
-> Grid
+![](images/style/style_logos_product_intro_material_color.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekWWxTZUNXQ1c1Qjg/style_logos_product_grid_logo_keylines.png)
-
-> Keylines
-
+> 色彩研究
 
 
-### Keyline shapes
+### 產品圖示網格
 
-Keyline shapes are the foundation of the grid. By using these core shapes as guidelines, you can maintain a consistent visual proportion across related product icons.
+該產品的圖示網格已經發展到方便的一致性，建立一套明確的規則去定位所有的圖形元素。這種標準化導致了靈活，但連貫的系統。
+
+![](images/style/style_logos_product_grid_logo_grid.png)
+
+> 網格
+
+![](images/style/style_logos_product_grid_logo_keylines.png)
+
+> 關鍵線條
 
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekLWotVlRyX0FmZzg/style_logos_product_grid_shapes_square.png)
 
-> **Square**
+### 關鍵線條產生的形狀
+
+關鍵線條形狀是網格的基礎。透過使用這些核心形狀為指標，你可以保持整個相關產品的圖標一致性的視覺比例。
+
+
+![](images/style/style_logos_product_grid_shapes_square.png)
+
+> **矩形**
 >
-> Length: 152
+> 寬高: 152
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekNzhOSHhHYUZZS1E/style_logos_product_grid_shapes_circle.png)
+![](images/style/style_logos_product_grid_shapes_circle.png)
 
-> **Circle**
+> **圓形**
 > 
-> Diameter: 176
+> 直徑: 176
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekRk5vLXcxcEo5cUU/style_logos_product_grid_shapes_vert_rectangle.png)
+![](images/style/style_logos_product_grid_shapes_vert_rectangle.png)
 
-> **Vertical rectangle**
+> **縱向矩形**
 >
-> Length: 176
+> 高: 176
 >
-> Width: 128
+> 寬: 128
 >
-> Width: 152
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekWnhTZ2xTbTRfQ2s/style_logos_product_grid_shapes_hori_rectangle.png)
+![](images/style/style_logos_product_grid_shapes_hori_rectangle.png)
 
-> **Horizontal rectangle**
+> **橫向矩形**
 > 
-> Length: 128
+> 高: 128
 > 
-> Width: 176
+> 寬: 176
 
-#### DP unit grid
+#### DP單元格線
 
-Device launchers display product icons at 48dp. When you create the icon, maintain the 48-unit measure, but scale it to 400% at 192 x 192 px.
+裝置顯示產品圖標在48dp。當您建立一個圖示，請維持在48單位的測量，但在192×192像素則放大到400％。
 
-By maintaining the unit ratio, you preserve sharp edges and correct alignment when the scale is reduced.
+通過維持這單元比，可以保持鋒利的邊緣和正確的對齊，當被縮小的時候。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekMnNfaWZVdE53VXc/style_logos_product_grid_unit_1to1.png)
+![](images/style/style_logos_product_grid_unit_1to1.png)
 
-> 1:1 Unit grid
+> 1:1 單元網格
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekNUgxU2lBUUFFM1E/style_logos_product_grid_unit_4to1.png)
+![](images/style/style_logos_product_grid_unit_4to1.png)
 
-> 4:1 Unit grid
+> 4:1 單元網格
 
-#### Geometry
+#### 幾何
 
-Preset standards have been determined for specific keylines: circle, square, rectangle, orthogonals, and diagonals. This small palette of universal and simple elements has been developed to unify product icons and systemize their placement on the grid.
+預設標準已被定為特定關鍵線：圓形、正方形、長方形、直角線和對角線。這個板面裡普遍和簡單的元素已經發展到統一的產品圖示，且系統化了物件在網格上的擺放位置。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekNG9uNFEyRDdfWkk/style_logos_product_grid_geometry1.png)
+![](images/style/style_logos_product_grid_geometry1.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zeka3JkTUhQcGowdmM/style_logos_product_grid_geometry2.png)
+![](images/style/style_logos_product_grid_geometry2.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekY3BnUUJISlhfbTg/style_logos_product_grid_geometry3.png)
+![](images/style/style_logos_product_grid_geometry3.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekek04N2JSQm82alU/style_logos_product_grid_geometry4.png)
+![](images/style/style_logos_product_grid_geometry4.png)
 
-### Product icon anatomy
+### 產品圖示剖面
 
-Product icon anatomy describes the graphic elements that make up a product icon. The consistency of these elements across icons for a given brand is critical in maintaining a shared visual language. Familiarity with these elements makes it easier to understand characteristics of each logo and subtle differences between them. It will also help educate your eye to recognize the underlying structure of logo designs.
+產品圖示剖面介紹圖形元素是如何組成一個產品圖示。這些一致性的元素對於給定品牌的圖示是保持一個共享的視覺語言的關鍵。熟悉這些元件可以更容易地理解每個標誌和它們之間的細微差異及特徵。也將協助你的雙眼來識別標誌設計的底層結構。
 
-1. Finish
-2. Material background
-3. Material foreground
-4. Color
-5. Shadow
+1. 完成
+2. Material 背景
+3. Material 前景
+4. 顏色
+5. 陰影
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekTUJMUUtXUWxHUTg/style_logos_product_anatomy_components.png)
+![](images/style/style_logos_product_anatomy_components.png)
 
-> **Components**
+> **組件**
 >
-> Each component is positioned on top of the previous one, always viewed from straight above.
+> 每一個組件都定位在前一個組件雙眼直視的正上方。
 
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekU19ZdlpDa1VzOE0/style_logos_product_anatomy_components_perspective.png)
+![](images/style/style_logos_product_anatomy_components_perspective.png)
 
-> **Construction perspective**
+> **組成透視**
 >
-> An exploded perspective example illustrating the context of each component of the logo construction.
+> 分解透視案例說明每個內含組件的架構。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekbThDWXdYc1BGUjA/style_logos_product_anatomy_material_background.png)
+![](images/style/style_logos_product_anatomy_material_background.png)
 
-> **Material background**
+> **Material 背景**
 > 
-> The back-most material element.
+> 最後方的 material 元素.
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekRnhBMHFsR084dlU/style_logos_product_anatomy_material_foreground.png)
+![](images/style/style_logos_product_anatomy_material_foreground.png)
 
-> **Material foreground**
+> **Material 前景**
 >
-> A material element raised above, and casting a shadow upon, the material background.
+> 一個重疊在 Material 背景並產生陰影的元素
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekTFY0WkF2dWJSOGs/style_logos_product_anatomy_color_spot.png)
+![](images/style/style_logos_product_anatomy_color_spot.png)
 
-> **Spot color**
+> **色彩斑點**
 > 
-> Color applied to a small portion of an element.
+> 一個用在小部分元素上的色彩
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekanZETzQxdWYzQWc/style_logos_product_anatomy_color_flooding.png)
+![](images/style/style_logos_product_anatomy_color_flooding.png)
 
-> **Flooding**
+> **超出**
 >
-> Color applied to an entire element, edge-to-edge.
+> 一個將元素從邊線到邊線填滿的色彩
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekN0x1NTJhcGFJT0E/style_logos_product_anatomy_edges_tinted.png)
+![](images/style/style_logos_product_anatomy_edges_tinted.png)
 
-> **Tinted edge**
+> **邊緣上色**
 >
-> The top edge of a material element. A tint is the mixture of a color with white, which lightens the original color.
+> 在 Material 元素上方的邊界，是一個混和白色、比原色系更亮一些的色彩。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekZmVsaVg1ZEhVZ3c/style_logos_product_anatomy_edges_shaded.png)
+![](images/style/style_logos_product_anatomy_edges_shaded.png)
 
-> **Shaded edge**
+> **陰影般的邊緣**
 >
-> The bottom edge of a material element. Shade is the mixture of a color with a darker hue, which darkens the original color.
+> 在 Material 元素下方的邊界，是一個混和暗色調、比原色系更暗一些的色彩。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekZFlBTG1LRXloYjA/style_logos_product_anatomy_shadow.png)
+![](images/style/style_logos_product_anatomy_shadow.png)
 
-> **Contact shadow**
+> **緊貼的陰影**
 >
-> A soft shadow around all edges of a raised material element.
+> 一個圍繞在元素邊線外圍的柔和陰影。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekOGRJZzRFM3lfcWc/style_logos_product_anatomy_finish.png)
+![](images/style/style_logos_product_anatomy_finish.png)
 
-> **Finish**
+> **光潔的**
 >
-> A soft tint above all elements to provide surface lighting, fading from upper-left to lower-right.
+> 從左上角至右下角漸漸淡化並覆蓋所有元素，提供表面光源的柔和色彩
 
-### Product icon metrics
+### 產品圖示指標
 
-#### Lighting
+#### 光源
 
-Within the material environment, virtual lights illuminate the scene and allow objects to cast shadows. A top light cast on material elements creates a contact shadow while highlighting the top and bottom edges. An angled light reinforces the sense of surface across the elements. 
+在 Material 的環境中，模擬燈光照亮場景，讓物體投射陰影。上方光源投射在元素上產生一個連帶陰影，在元素的頂部和底部邊緣。有角度的光增強整個表面元素的質感。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekR2Q1QS1zbEt6bTQ/style_logos_product_lighting_lighting_top.png)
+![](images/style/style_logos_product_lighting_lighting_top.png)
 
-> Top
+> 上方光源
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekQjBVZ040X0FJUXM/style_logos_product_lighting_lighting_45.png)
+![](images/style/style_logos_product_lighting_lighting_45.png)
 
-> 45º angle
+> 45º 角光源
 
-### Shadows
+### 陰影
 
-For a product icon, the top light from above casts a soft shadow surrounding an element lightly on the top and left. The shadow is slightly heavier below and to the right. This shadow is always contained within the icon’s silhouette.
+產品圖示上方的光源產生柔和陰影環繞整個元素，在上方跟左方示比較明亮的，陰影比較重的部分是在下方和右方，這個陰影會永遠跟圖示的外框相連。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekcHI0UmIyYUFSb28/style_logos_product_lighting_shadow.png)
+![](images/style/style_logos_product_lighting_shadow.png)
 
-> **Drop shadow metrics**
+> **下落式陰影指標**
 >
-> Mode: Normal
+> 模式: 一般
 >
-> Opacity: 20%
+> 透明度: 20%
 > 
-> X Offset: 0px
+> X 偏移: 0px
 >
-> Y Offset: 6px
+> Y 偏移: 6px
 >
-> Blur: 6px
+> 模糊: 6px
 >
-> Color: Refer to Tint, shade and shadow values
+> 色彩: 比參考色暗一些的值
 
-#### Edge tint and shade
+#### 著色 與 陰影邊緣
 
-The top and bottom edges of material elements provide a sense of depth and surface. Material elements have a standard 1dp thickness. All edge distances are measured from an element's interior edge. 
+元素的頂部和底部邊緣提供深度和表面感。materiel 有一個標準1dp厚度。所有邊緣的距離都是從元素的內緣開始算起。
 
-Tint highlights the top edge of all elements. The left, right and bottom edges do not have a tint applied. 
+Tint edge 使用在所有元素的上方，左、右、下皆不使用。
 
-Shade darkens the bottom edge of all elements. The left, right and top edges do not have a shade applied.
+Shade edge 使用在所有元素的下方，左、右、上皆不使用。
 
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekS1hMd0JDcElkRDQ/style_logos_product_lighting_edge_tinted.png)
+![](images/style/style_logos_product_lighting_edge_tinted.png)
 
-> **Tinted edge**
+> **上色邊緣**
 > 
-> Height: 1dp
+> 高: 1dp
 >
-> Opacity: 20%
+> 透明度: 20%
 >
-> Color: White (#FFFFFF)
+> 色彩: White (#FFFFFF)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekMzdWbkNuS1B1Z2M/style_logos_product_lighting_edge_shaded.png)
+![](images/style/style_logos_product_lighting_edge_shaded.png)
 
-> Shaded edge
+> **陰影般的邊緣**
 >
-> Height: 1dp
+> 高: 1dp
 >
-> Opacity: 20%
+> 透明度: 20%
 >
-> Color: Refer to Tint, shade and shadow values
+> 色彩: 比參考色暗一些的值
 
-#### Finish
+#### 光潔
 
-The finish layer is a result of the virtual 45º light source. It extends from the top-left corner to the exterior edge of the icon’s silhouette. The finish is always contained within these boundaries.
+光潔的圖層是一個模擬的45度角光源，從圖示的左上延伸至右下的邊線，
+光潔圖層永遠都會擺在圖示的邊框內緣。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekd0NONzFVdEI3WVk/style_logos_product_lighting_finish.png)
+![](images/style/style_logos_product_lighting_finish.png)
 
-> **Gradient metrics**
+> **漸層指標**
 >
-> Type: Radial,
-> Angle: 45º,
-> Color: White (#FFFFFF),
-> Midpoint Location: 33%
+> 類型: 放射,
+> 角度: 45º,
+> 色彩: 白色 (#FFFFFF),
+> 中心點位置: 33%
 > 
-> Slider 1,
-> Opacity: 10%,
-> Location: 0%
+> 漸變 1,
+> 透明度: 10%,
+> 位置: 0%
 > 
-> Slider 2,
-> Opacity: 0%,
-> Location: 100%
+> 漸變 2,
+> 透明: 0%,
+> 位置: 100%
 
-#### Tint, shade, and shadow values
+#### 著色、暗處和陰影的值
 
-Each color reacts differently when tints and shades are added. The color or every edge tint, edge shade, and shadow need to be adjusted for each color that lies behind it. To ensure color harmony, follow the appropriate value for each.
+當加入以上元素時每種顏色的變化不同，並非老實的加入黑或白的成分，
+每個顏色必須做調整至確保看起來夠和諧以及是否為適當的對應值。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B5-3BCtasWxEdFRQSFFBVVd6MU0/style_logos_product_lighting_values_cool.png)
+![](images/style/style_logos_product_lighting_values_cool.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B5-3BCtasWxEUFdseFhmdkdDRW8/style_logos_product_lighting_values_fresh.png)
+![](images/style/style_logos_product_lighting_values_fresh.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B5-3BCtasWxEbTN0QkhtSkRSVzQ/style_logos_product_lighting_values_warm.png)
+![](images/style/style_logos_product_lighting_values_warm.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B5-3BCtasWxER0RzUXNRT0NCTVE/style_logos_product_lighting_values_hot.png)
+![](images/style/style_logos_product_lighting_values_hot.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B5-3BCtasWxEc3hVSUdZcGRCZ2c/style_logos_product_lighting_values_neutral.png)
-
-
-### Product icon patterns
-
-Influenced by the behavior of physical material, simple conventions provide a sense of surface and tactility. The interactions of material and color allow for numerous unique compositions.
-
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekaUdKRkEwT3R1eDg/style_logos_product_patterns_color.png)
-
-> **Color**
->
-> Color elements are flush to the surface, and do not have any edges or shadows.
-
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekeXlLbVNCSzgzWkU/style_logos_product_patterns_layer.png)
-
-> **Layer**
-> 
-> Layered elements create depth with edges and shadows.
-
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekMXJ1eTBka2EweFU/style_logos_product_patterns_dogear.png)
-
-> **Dog-ear**
->
-> A folder corner, or dog-ear, is used with forms associated with documents or traditional paper-based metaphors.
-
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekYzlpblJoVDlwRkE/style_logos_product_patterns_elevate.png)
-
-> **Elevate**
->
-> Elevating a key material element atop a simple background silhouette focuses attention to the center.
-
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekTld4TTJWV0tHSFU/style_logos_product_patterns_score.png)
-
-> **Score**
->
-> Scored material elements have the illusion of depth without losing their geometric form.
-
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekRzN0R2NVZnkyMFk/style_logos_product_patterns_fold.png)
-
-> **Fold**
->
-> Folded material elements suggest greater dimensionality. Spot colors are skewed with this kind of fold, and so should be avoided.
-
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekak5JN3QyRWU1Y0k/style_logos_product_patterns_overlap.png)
-
-> **Overlap**
->
-> Overlapped material elements create unique silhouettes. All elements, edges, and shadows are confined to the interior of the silhouette.
+![](images/style/style_logos_product_lighting_values_neutral.png)
 
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0By1W60wM4zekQS1BdHl6QTFfLWs/style_logos_product_patterns_accordian.png)
+### 產品圖示模式
+
+透過物理材料的影響，簡單制度提供表面質感和觸感。材質和色彩的相互作用產生眾多獨特的成分。
+
+#### 色彩
+
+色彩元素平面化至一張紙面上，不要做任何邊線及陰影的裝飾。
+
+![](images/style/style_logos_product_patterns_color_do.png)
+
+> 這麼做
 
 
-> **Accordion**
->
-> Accordion folded material elements are joined by a connecting fold.
+![](images/style/style_logos_product_patterns_color_dont.png)
+
+> 別這麼做
+
+#### 圖層
+
+每個圖層可以加入深度及陰影。
+
+但請不要超過兩層圖層，過多的圖層太複雜，會沒有重點。
+
+![](images/style/style_logos_product_patterns_layer_do.png)
+
+> 這麼做
+
+![](images/style/style_logos_product_patterns_layer_dont.png)
+
+> 別這麼做
+
+#### 狗耳般的摺角
+
+摺邊或者狗耳，用來暗喻表格或者文件，甚至傳統紙張。
+
+請不要將狗耳這個元素用在圖示左邊，因為產生的陰影會中斷整個圖示整體的和諧。
+
+
+![](images/style/style_logos_product_patterns_dogear_do.png)
+
+> 這麼做
+
+![](images/style/style_logos_product_patterns_dogear_dont.png)
+
+> 別這麼做
+
+
+#### 提升
+
+提升是關鍵元素，他在背景邊線的正中央容易注視到的上方。
+
+不要讓它被其他圖形裁切。
+
+![](images/style/style_logos_product_patterns_elevate_do.png)
+
+> 這麼做
+
+![](images/style/style_logos_product_patterns_elevate_dont.png)
+
+> 別這麼做
+
+#### 畫線
+
+這個元素能夠在不破壞原本的形狀下產生深度的層次感，但必須在對稱圖形的中央。
+
+請不要使用多個，或者將它放在非中心位置。
+
+![](images/style/style_logos_product_patterns_score_do.png)
+
+> 這麼做
+
+![](images/style/style_logos_product_patterns_score_dont.png)
+
+> 別這麼做
+
+#### 折
+
+摺疊元素具有較大的維度，Spot colors 不該使用，以便避免改變或歪曲要素的本質。
+
+![](images/style/style_logos_product_patterns_fold_do.png)
+
+> 這麼做
+
+![](images/style/style_logos_product_patterns_fold_dont.png)
+
+> 別這麼做
+
+#### 交疊
+
+重疊的物質元素創造出獨特的剪影。所有的元素，邊緣和陰影僅限於輪廓的內部。
+
+不要超過兩個以上的重疊。有太多的複雜的圖標，缺乏重點。
+
+
+![](images/style/style_logos_product_patterns_overlap_do.png)
+
+> 這麼做
+
+![](images/style/style_logos_product_patterns_overlap_dont.png)
+
+> 別這麼做
+
+
+#### 手風琴
+
+手風琴折疊元素是毗鄰且相連的對折，用於增加單一元素的尺寸。
+
+不要超過兩個對折，太複雜的圖示沒有重點
+
+![](images/style/style_logos_product_patterns_accordian_do.png)
+
+> 這麼做
+
+![](images/style/style_logos_product_patterns_accordian_dont.png)
+
+> 別這麼做
+
+#### 扭曲
+
+產品圖標不應該被扭曲或變形。元素應該保留原來的幾何形狀，而不被扭曲，旋轉，鞠躬，彎曲。
+
+![](images/style/style_logos_product_patterns_distort_do.png)
+
+> 這麼做
+
+![](images/style/style_logos_product_patterns_distort_dont.png)
+
+> 別這麼做
 
 
 
 ## 系統圖示
 
-### 定義
 
 系統圖示，或稱介面圖示，能象徵指令、檔案、裝置或目錄。系統圖示也用來表示常見的指令，例如「移至垃圾桶」、「列印」或「存檔」。
 
 系統圖示被設計成簡潔、現代感、友善使用者甚至有時候帶點趣味感。每個圖示都將設計簡化到最精髓的樣式，這樣的設計即使在小型尺寸的圖示也能確保可讀性與清晰度。
 
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcon-icon_set_large_xhdpi.png)
+![](images/style/Style-SystemIcon-icon_set_large_xhdpi.png)
 
 
 
@@ -353,96 +427,270 @@ Influenced by the behavior of physical material, simple conventions provide a se
 
 對稱性與一致性維持獨特的品質，同時兼顧簡潔與鮮明。
  
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-design_principlesa_large_xhdpi.png)
+![](images/style/Style-SystemIcons-design_principlesa_large_xhdpi.png)
 
-> Simple
+> 簡單
 
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-design_principlesb_large_xhdpi.png)
+![](images/style/Style-SystemIcons-design_principlesb_large_xhdpi.png)
 
-> Intuitive
+> 直覺的
 
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-design_principlesc_large_xhdpi.png)
+![](images/style/Style-SystemIcons-design_principlesc_large_xhdpi.png)
 
-> Actionable
+> 可操作的
 
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-design_principlesd_large_xhdpi.png)
+![](images/style/style_icons_system_intro_principles_consistent.png)
 
-> Consistent
+> 具有一致性
  
  
 ### 柵格、比例與大小
 
+#### DP單位的網格
 
-圖示柵格是基於該圖示的關鍵原件與比例，作為縮放基準的柵格。圖示的形式是建立於相依在柵格的平面幾何上。
-
-柵格中有四個基本的幾何圖形，透過這些特定的尺寸確保所有形狀都能有一致的視覺加權與比例。
-
-Within the 24dp bounding box, square icons are 18x18dp, circles are 20dp, and rectangles are 20dp on their longest side.
-
-有兩組尺寸不同的圖示供給您的應用程式使用：狀態列與內容圖示，動作列與桌面圖示。
+系統圖示被顯示於24dp，當製作圖示時，它能被精準的100%縮放設計是很重要的。
  
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-grid_proportion_sizesa_large_xhdpi.png)
+![](images/style/style_icons_system_grid_unitgrid_100.png)
 
-> **Square**
+> 100% scale
+
+![](images/style/style_icons_system_grid_icongrid_800.png)
+
+> 800% scale
+ 
+#### 圖示網格
+
+圖示的網格已經被發展的建立一致性，且建立清楚的規範來圖形元素的地位。這個標準是富有彈性但也具有連貫性的系統。
+
+![](images/style/style_icons_system_grid_icongrid_grid.png)
+
+網格
+
+![](images/style/style_icons_system_grid_icongrid_keylines.png)
+
+基線
+
+#### 內容區域
+
+內容區域是一個圖示應該能夠存在的範圍。如果視覺比重需求，內容區域僅能延伸到修飾範圍。不要把圖標的任何部分超出修飾範圍外。
+
+![](images/style/style_icons_system_grid_area_live.png)
+
+活動區域
+
+![](images/style/style_icons_system_grid_area_trim.png)
+
+修飾範圍
+
+
+#### 基線形狀
+
+基線形狀是網格的基礎，在使用這些核心的形狀，你可以維持整個系統圖示的一致性。
+
+![](images/style/style_icons_system_grid_shapes_square.png)
+
+
+> 方形
 >
-> 24px example scaled 800%
+> 寬與高：18px
 
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-grid_proportion_sizesb_large_xhdpi.png)
+![](images/style/style_icons_system_grid_shapes_circle.png)
 
-> **Circle**
+> 圓形
 >
-> 24px example scaled 800%
- 
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-grid_proportion_sizesc_large_xhdpi.png)
+> 半徑：20px
 
-> **Horizontal rectangle**
+![](images/style/style_icons_system_grid_shapes_vert_rectangle.png)
+
+> 垂直矩形
 >
-> 24 px example scaled 800%
+> 高：20px, 寬：16px
 
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-grid_proportion_sizesd_large_xhdpi.png)
+![](images/style/style_icons_system_grid_shapes_hori_rectangle.png)
 
-> **Vertical rectangle**
+> 水平矩形
 >
-> 24 px example scaled 800%
-
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-grid_proportion_sizese_large_xhdpi.png)
-
-> **Geometry**
-
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-grid_proportion_sizesf_large_xhdpi.png)
- 
- 
-### 圓角
-
-所有的正方形或矩形都使用圓角的設計。
-圓角與尖角可同時用在方形或矩形的突出點或內縮點。
-線狀圖示則使用尖角。
- 
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-round_cornersa_large_xhdpi.png)
-
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-round_cornersb_large_xhdpi.png)
-
-![](http://material-design.storage.googleapis.com/images/style-systemicons-stroke-terminala_large_xhdpi.png)
-
-> **Stroke terminal**
-
-![](http://material-design.storage.googleapis.com/images/style-systemicons-stroke-terminalb_large_xhdpi.png)
-
-<!-- 每個大小不同的系統圖示都需要不同的圓角，以達到視覺上的連續性。 -->
-
-![](http://material-design.storage.googleapis.com/images/style-systemicons-stroke-weighta_large_xhdpi.png)
-
-> **Stroke weight**
-
-![](http://material-design.storage.googleapis.com/images/style-systemicons-stroke-weightb_large_xhdpi.png)
+> 高：16px, 寬：20px
 
 
 
-### Color
+#### 幾何形
 
-The standard alpha value for an active icon on a light background is 54% (#000000). An inactive icon, which is lower in the visual hierarchy, should have an alpha value of 26% (#000000).
+預設設計的標準確定為特殊的基線：圓形、正方形、長方形、正交矩陣和對角線。這些普遍級簡單元素的小面板已經被發展為統一的Google系統圖示，並有系統的放置在圖示網格上。
 
-The standard alpha value for an active icon on a dark background is 100% (#FFFFFF). An inactive icon, which is lower in the visual hierarchy, should have an alpha value of 30% (#FFFFFF).
+
+![](images/style/style_icons_system_grid_geometry1.png)
+
+建構
+
+![](images/style/style_icons_system_grid_geometry2.png)
+
+組成
+
+#### 系統圖示解析
+
+1. 筆畫終端
+2. 角
+3. 區域單位
+4. 筆畫
+5. 筆畫單位
+6. 邊界區域
+
+![](images/style/style_icons_system_anatomy.png)
+
+
+#### 角
+
+一致性的圓角半徑是統一整個系統圖示的關鍵。2px的圓角用來表現圖示的輪廓。別調整圓角的筆劃(2px 的寬或是更少)
+
+內部的角會是方形，別把內部的角調整成圓角。
+
+![](images/style/style_icons_system_anatomy_corner_exterior.png)
+
+> 外部角
+
+![](images/style/style_icons_system_anatomy_corner_interior.png)
+
+> 內部角
+
+#### 筆劃
+
+一致性的筆畫寬度是統一系統圖示的關鍵。維持2px寬度的比例，包含了曲線、角、外部及內部的筆畫。
+
+![](images/style/style_icons_system_anatomy_strokes_consistency.png)
+
+> 一致性的
+
+![](images/style/style_icons_system_anatomy_strokes_curves.png)
+
+> 折線及角
+
+![](images/style/style_icons_system_anatomy_strokes_terminal.png)
+
+> 線段終點
+
+![](images/style/style_icons_system_anatomy_strokes_counter.png)
+
+> 筆劃單位
+
+
+#### 視覺修正
+
+在一些極端的情況來說，細微的調整能夠增加圖示的辨識度。在複雜的情況下調整細節是不可避免的。
+
+如果視覺修正是必要的，只能用和其他圖標一致的幾何性，別用扭曲或傾斜的形式。
+
+![](images/style/style_icons_system_anatomy_optical_complex.png)
+
+> 複雜
+
+![](images/style/style_icons_system_anatomy_optical_small.png)
+
+> 小縮放
+
+
+#### 清空
+
+圖示周圍保持一定的空間是需要符合易讀性和可觸控性。
+
+![](images/style/style_icons_system_anatomy_clearance_area.png)
+
+> 清空區域
+
+![](images/style/style_icons_system_anatomy_clearance_placement.png)
+
+> 放置
+
+
+#### 最佳實踐
+
+一致性幫助使用者理解圖示。盡可能的在不同應用程式下使用已存在的系統圖示。
+
+
+![](images/style/style_icons_system_best_do1.png)
+
+> 好的做法
+>
+> 使用相同的筆畫寬度以及方正的筆畫結尾
+
+![](images/style/style_icons_system_best_dont1.png)
+
+> 不好的做法
+>
+> 別使用不一致的筆畫寬度及圓角筆畫結尾
+
+![](images/style/style_icons_system_best_do2.png)
+
+> 好的做法
+>
+> 讓圖示的顯示正面並且堅固
+
+![](images/style/style_icons_system_best_dont2.png)
+
+> 不好的做法
+>
+> 不要傾斜、旋轉，或者讓圖示表現出空間
+
+![](images/style/style_icons_system_best_do3.png)
+
+> 好的做法
+>
+> 讓圖示簡化使其更有清晰度及易度性
+
+
+![](images/style/style_icons_system_best_dont3.png)
+
+> 不好的做法
+>
+> 不要過度直譯，避免複雜的圖示
+
+![](images/style/style_icons_system_best_do4.png)
+
+> 好的做法
+>
+> 使圖示更加圖形化且大膽
+
+![](images/style/style_icons_system_best_dont4.png)
+
+> 不好的做法
+>
+> 別過度精巧，以及細的筆畫寬度
+
+![](images/style/style_icons_system_best_do5.png)
+
+> 好的做法
+>
+> 使用幾何圖形，一致性的筆畫
+
+![](images/style/style_icons_system_best_dont5.png)
+
+> 不好的做法
+>
+> 別使用過度鬆散的形狀
+
+![](images/style/style_icons_system_best_do6.png)
+
+> 好的做法
+>
+> 讓圖示在點陣上 — 意指X、Y座標數值是整數，不包含小數。
+>
+> 圖示需有相等的寬度和高度(Ex: 24 x 24)，避免扭曲的圖標
+
+
+![](images/style/style_icons_system_best_dont6.png)
+
+> 不好的做法
+>
+> 圖示的座標沒有再像素上。
+>
+> 不要有不相等的寬與高值。
+
+#### 顏色
+
+啟動圖示在標準的不透明度在亮色背景上是54% (#000000)。非啟動的圖示，在視覺層級上是較低的，透明度為26%(#000000)。
+
+啟動圖示在標準的不透明度在暗色背景上是100% (#FFFFFF)。非啟動的圖示，在視覺層級上是較低的，透明度為30%(#FFFFFF)。
+
 
 
 ![](images/style/style_icons_system_color1.png)
@@ -452,47 +700,9 @@ The standard alpha value for an active icon on a dark background is 100% (#FFFFF
 
 
 
- 
-### 一致性
-
-
-
-
-一致性對於圖示的使用是重要的，盡可能的在各個應用程式中使用一致的圖示。
- 
-![](http://material-design.storage.googleapis.com/images/style-systemicons-do_large_xhdpi.png)
-
-> 你該這麼做
->
-> Do make icons appear front-facing and sturdy.
-> 
-> Do simplify icons for greater clarity and legibility.
-> 
-> Do make icons graphic and bold.
-> 
-> Do use geometric, consistent shapes.
- 
-![](http://material-design.storage.googleapis.com/images/style-systemicons-dont_large_xhdpi.png)
-
-> 你不該這麼做
->
-> Don’t tilt, rotate or make icons appear dimensional.
-> 
-> Don’t be overly literal and avoid complex icons.
-> 
-> Don’t use delicate, thin stroke weights.
-> 
-> Don’t use gestural or loose organic shapes.
-
-
-### 內容與應用程式中的圖示
-
-圖示置放於盒狀容器中，盒狀容器的大小由柵格定義為24dps。
-
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-icons_incontexta_large_xhdpi.png)
-
-![](http://material-design.storage.googleapis.com/images/Style-SystemIcons-icons_incontextb_large_xhdpi.png)
-
-
-
 > *翻譯： [Peter](https://www.facebook.com/viator75)*
+>
+> *更新： Tillonter*
+> 
+> *更新：[Casper](https://www.facebook.com/chihcheng.wang.3)*
+

@@ -1,43 +1,43 @@
-# Data formats
+# 資料格式
 
-## Date & time
+## 日期 & 時間
 
-This guide explains how to display date and time information in a consistent and user-friendly way.
+本章節將介紹如何保持一致性與友善性方式顯示日期與時間的資訊。
 
-These guidelines apply to:
+這些的指導方針將運用於：
 
-- the current date and time
-- a date and time setting, such as an alarm or reminder
-- a date and time when an object was created, sent, edited, or otherwise acted upon
+- 目前日期與時間
+- 日期與時間的設定，比如警告與提醒
+- 當物件被建立、送出、編輯或以其他方式的行為
 
 
-### Basic displays
+### 基本的顯示
 
-For time, use uppercase AM or PM without periods, separated from time with a space.
+時間，使用大寫的上午或下午，用空格將時間隔開。
 
 10:00 AM
 
 <br><br>
 
-If a timestamp is within the current day,  it’s generally unnecessary to show either “today”, the day or date. Only display the time in “hour:minute AM/PM” format.
+如果時間戳記表示目前日期，通常不需要顯示 “今天”，也就是這天或日期。只顯示 “時：分鐘 AM/PM” 格式。
 
 11:51 AM
 
 <br><br>
 
-If the day is in the past or future within the current calendar year, display the abbreviated date.
+如果這天是在現在日期年份裡面的過去或未來式，那麼就顯示縮寫日期。
 
 Jul 14
 
 <br><br>
 
-If the day is in the past or future outside of the current calendar year, display the abbreviated date and year.
+如果這天是在現在日期年份以外的過去或未來式，那麼就顯示縮寫日期與年。
 
 Jul 14, 2012
 
 <br><br>
 
-If the date is a range of time, separate with an en-dash without a space on either side.
+如果日期是一個時間的範圍，那麼使用沒有間隔的方式使用破折號做區隔。
 
 8:00 AM–12:30 PM
 
@@ -45,42 +45,42 @@ Jan 6–Feb 2
 
 <br><br>
 
-If both dates in a range start and end in the current year, omit the year. Otherwise, show the year on both the start and end.
+如果兩個日期範圍表示當前年度的開始時間與結束的時間時，就忽略年。否則，請顯示兩個年份的開始於結束時間。
 
 Dec 6, 2013–Jan 2, 2014
 
 <br><br>
 
-When a range shares a common AM/PM, append only on the end of the range.
+當時間是在共同範圍裏的上午或下午，那麼只需要在範圍的最後附加上午或下午。
 
 8:00–10:30 AM
 
 <br><br>
 
-When listing the time zone, drop the leading 0 for single digits.
+當表示時間區域時，前方的時間需從 0 開始的個位數。
 
 UTC+5:00
 
 <br><br>
 
 
-### Using human and relative language and approximate time
+### 使用人類與相關語言以及概略時間
 
-When space permits, display the relevant date/time information in the context of the current date/time, as people normally speak to each other.
+當空間允許，顯示目前日期/時間的內文，通常比較能讓人做彼此溝通。
 
-If the day is yesterday or tomorrow, use those terms.
+假設日期是昨天或明天，那麼使用這個的方式。
 
 Yesterday, Tomorrow
 
 <br><br>
 
-If the day is in the future and within a week, display the unabbreviated day of the week.
+假設這一天是未來的一週以內，那麼顯示一週的縮寫
 
 Tuesday
 
 <br><br>
 
-If a word alternative helps understanding or describes a time-of-day preset, display that alternative.
+假設要用一個單字代替有助於理解與描述的時間，預設值將顯示
 
 Store open 9:00 AM–Midnight
 
@@ -88,9 +88,9 @@ Reminder for tomorrow afternoon
 
 <br><br>
 
-If absolute time isn’t necessary for specificity or comparison, you may choose to display approximate relative times.
+假設絕對時間是沒有必要的特定狀況或比較，您可以選擇顯示近似的相對時間。
 
-Don’t combine units (e.g. “1 hour 32 minutes ago”), rather round down to most recent largest unit (e.g. “1 hour ago”).
+不適合結合單位 （例如：一小時又三十二分鐘前），而（例如：一小時前）四捨五入到最近的最大單位
 
 In 5 minutes
 
@@ -100,7 +100,7 @@ In 5 minutes
 
 <br><br>
 
-Relative language may not always be appropriate, e.g. current date in a clock app, or the specific time of an event or alarm. In these cases, use absolute time.
+相對語言中可能不並總是很適合。例如當前日期在一個時鐘 app 或者事件或警告的具體時間。在這些情況下，都是使用絕對時間
 
 Mon, Jan 10
 
@@ -108,35 +108,35 @@ Today, 10:00 AM
 
 <br><br>
 
-### Be modular
+### 模組方式
 
-Depending on the context, show either date or time, or both date and time.
+根據文章，顯示日期或時間，或者顯示兩個日期及時間。
 
-Typically, future settings should append time to a day or date.
+通常的情況下，未來的設定必須附加時間在一天或者日期。
 
 Jan 10, 8:00 AM
 
 <br><br>
 
-When a past time is necessary, such as a triggered reminder, display both date and time.
+當過去時間是必須顯示的，例如觸發提醒事件，那麼就同時顯示日期與時間。
 
 Reminded Jan 5, 7:16 AM
 
 <br><br>
 
-When the day of week is necessary, such as on a calendar invite, display the abbreviated day separated by a comma.
+當星期是必須顯示的，例如日曆的邀請，顯示縮寫的那天以及採逗點分隔。
 
 Mon, Jan 10, 8:00 AM
 
 <br><br>
 
-When it’s an event in the distant past, omit the time.
+當表示過去的事件，就需略時間。
 
 Jan 3
 
 <br><br>
 
-Use HH:MM:SS to show the duration of a recording, like audio or video. If hours or seconds don’t apply, then omit them.
+使用 HH:MM:SS 顯示持續性的紀錄，例如音樂或影片。如果小時或秒則不適用，就請忽略。
 
 0:30
 
@@ -146,9 +146,9 @@ Use HH:MM:SS to show the duration of a recording, like audio or video. If hours 
 
 <br><br>
 
-### Be brief
+### 簡易方式
 
-Always abbreviate months, with single or double digit dates.
+當只有單數或雙數的日期時，總是使用縮寫月份。
 
 Jan 6, Feb 7, Mar 8, Apr 9,
 
@@ -158,7 +158,7 @@ Sep 14, Oct 15, Nov 16, Dec 17
 
 <br><br>
 
-Abbreviate days of the week when combined with a time.
+當有與時間合在一起時，將星期以縮寫呈現。
 
 Mon, 8:00 AM
 
@@ -176,7 +176,7 @@ Sun, 2:00 PM
 
 <br><br>
 
-If real estate is limited (such as with timestamps, labels on graphs, durations, etc.) abbreviate units, using numerical versions and/or by removing the “:00”:
+假設時間是有特定限制（例如時間戳記，圖形上的標籤、持續性的時間等等...）的縮寫單位，使用數字的版本 以及/或 移除 ":00"
 
 8 AM
 
@@ -187,8 +187,8 @@ If real estate is limited (such as with timestamps, labels on graphs, durations,
 <br><br>
 
 
-If truncation of “tomorrow” or “yesterday” happens repeatedly, do not abbreviate. Instead, use the month date format.
+假設“明天”或“昨天”重複發生，請勿使用縮寫。相反地，使用月份日期格式。
 
 Jun 6
 
-
+> *翻譯：[Weiju Tu](https://www.facebook.com/weiju516)*

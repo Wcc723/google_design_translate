@@ -7,14 +7,14 @@
 
 > [Color Swatch](http://quantum-paper.storage.googleapis.com/downloads/color_swatches.zip) *0.13 MB (.zip)*
 
-## 使用者介面色票
+## 色票
 
-This color palette comprises primary and accent colors that can be used for illustration or to develop your brand colors. They’ve been designed to work harmoniously with each other.
+這色票包含了基本以及強調色，這些可以被用來插圖或是發展你的品牌色。它們被設計成彼此相互協調。
 
 這些色票起始於基本的顏色，填滿色譜建立一個完整的，可給 Android、Web、 iOS使用的色票，
 這些色票的範圍再500色以內。
 
-> [Download color swatches](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNT0dFWFBjdTNKaXM/color_swatches.zip)
+> [下載色卡](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNT0dFWFBjdTNKaXM/color_swatches.zip)
 >
 > 0.02 MB (.zip)
 
@@ -494,20 +494,20 @@ This color palette comprises primary and accent colors that can be used for illu
 強調色依情況，是可有可無的預備方案。
 
 
-#### Related
+#### 關聯
 
-> [Customize the Color Palette](http://developer.android.com/training/material/theme.html#ColorPalette)
+> [自定義色票](http://developer.android.com/training/material/theme.html#ColorPalette)
 >
-> Define your app’s color palette.
+> 定義你的應用程式色票
 
 
 ![](images/style/style-color-colorapplication-color_application-01a_large_xhdpi.png)
 
-> Example of a primary color palette
+> 範例：基本色票
 
 ![](images/style/style-color-colorapplication-color_application-01b_large_xhdpi.png)
 
-> Example of a secondary palette
+> 範例：次要色票
 
 
 ### 使用alpha值設定你的灰色文字、icon以及分隔線
@@ -523,22 +523,18 @@ This color palette comprises primary and accent colors that can be used for illu
 其他元素，如icon與分隔線，也可使用黑色的alpha值來設定，
 而不是以實心顏色做選擇，這樣可以確保它們在任何背景上不會突兀。
 
-<!-- 對於彩色背景裡的黑白文字，在色票表裡找出他們適當的對比度以及alpha值。 -->
-
 
 ![](images/style/style-color-colorapplication-color_application-02_large_xhdpi.png)
 
 ![](images/style/style_color_uiapplication_alpha2.png)
 
-<!-- 極力推薦在大標題的欄位用大膽顯眼的色系，不同的介面元素用不同的色系主題，
-工具列及較大的色塊區域使用500的原色，這是你應用程式的主色調，
-狀態列則是用700的暗色調。 -->
 
-### Toolbars and status bars
 
-Toolbars and larger color blocks should use the primary 500 color, which should be the main color of your app. The status bar should be the darker 700 tint of your primary color.
+### 工具欄以及狀態欄
 
-Bold use of color in large fields in the UI is encouraged. Different elements in the UI can take on different parts of your color theme.
+工具欄以及更的大顏色色塊應該使用標準色500，這是你的應用程式主色調。狀態欄應該是暗色調700的標準色。
+
+提倡大膽的使用色彩在大面積的UI上，UI上不同元素可以使用不同的部分顏色主題。
 
 ![](images/style/style-color-colorapplication-color_application-03_large_xhdpi.png)
 
@@ -557,62 +553,67 @@ Bold use of color in large fields in the UI is encouraged. Different elements in
 
 ![](images/style/style_color_uiapplication_accent3.png)
 
-> Do.
+> 好的做法
 >
-> Only use the accent color for body text to accent a web link.
+> 僅使用強調色在內文中強調一個連結
+
 
 ![](images/style/style_color_uiapplication_accent4.png)
 
-> Don't.
+> 不好的做法
 >
-> Don’t use the accent color for body text color.
+> 別使用強調色在整個內文
 
 ![](images/style/style_color_uiapplication_accent5.png)
 
-> Do.
+> 好的做法
 
 ![](images/style/style_color_uiapplication_accent6.png)
 
-> Don't.
+> 不好的做法
 >
-> Don’t use the accent color for app bars or larger areas of color. Avoid using the same color for the floating action button and the background.
+> 別使用強調色在應用程式欄或者大面積的色彩。避免使用浮動按鈕和背景相同的色彩。
 
 
-### 次要強調色
 
-如果你的強調色對於背景實在太亮或太暗，你可以選擇調亮或調暗的強調色當你的次要強調色，
-如果你的強調色不會在所有地方，次要強調色請使用500的純色在白色背景上，
-如果你的背景已經是500的純色，次要強調色則回歸100%白或54%黑。
+### 反饋強調色
+
+如果你的強調色對於背景實在太亮或太暗，你可以選擇調亮或調暗的強調色當你的反饋強調色，
+如果你的強調色不會在所有地方，反饋強調色請使用500的純色在白色背景上，
+如果你的背景已經是500的純色，反饋強調色則回歸100%白或54%黑。
 
 
 ![](images/style/style-color-colorapplication-color_application-04_large_xhdpi.png)
 
-> Do.
+> 好的做法
 
 ![](images/style/style_color_uiapplication_fallback2.png)
 
-> Don't.
+> 不好的做法
 
 ## 主題
 
-Themes let you apply a consistent tone to an app. The theme specifies the darkness of the surfaces, level of shadow, and appropriate opacity of ink elements.
+主題讓你應用一致性的風格在應用程式上。主題指定了暗色的表面、陰影的階層以及墨水元素的適當透明度。
 
-To promote greater consistency between apps, two themes are available: Light and Dark.
+為了促進應用程式之間的一致性，有兩個主題可供選擇：明亮及暗色系。
 
 
-> [Download Theme](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B71WflkWs_SAcDhkeFlZbmVJdG8/stickersheet_uielements.ai)
+
+> [下載主題](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B71WflkWs_SAcDhkeFlZbmVJdG8/stickersheet_uielements.ai)
 >
 > 1.23MB (.ai)
 
-> [**Using the Material Theme**](http://developer.android.com/training/material/theme.html)
+> [**使用 Material 主題**](http://developer.android.com/training/material/theme.html)
 >
-> Customize the design to your brand identity.
+> 自定義屬於你的品牌識別
 
 ![](images/style/Style-Color-Themes-theme-01_large_xhdpi.png)
 
-![](images/style/Style-Color-Themes-theme-02_large_xhdpi.png)
+![](images/style/style_color_themes_dark-1.png)
 
 > *翻譯： Tillonter*
+>
+> *更新：[Casper](https://www.facebook.com/chihcheng.wang.3)*
 
 
 

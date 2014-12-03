@@ -2,9 +2,9 @@
 
 ## Roboto
 
-從Ice Cream Sandwich公開發佈消息後，Roboto一直是Android的標準字體，在這個版本中，Roboto更著重於廣泛地應用在各種不同的平台，將字體變得稍寬、稍圓了些，使它更加清晰，並使其閱讀更為舒適。Noto is also the standard typeface for all languages on Chrome OS.
+從Ice Cream Sandwich公開發佈消息後，Roboto一直是Android的標準字體，在這個版本中，Roboto更著重於廣泛地應用在各種不同的平台，將字體變得稍寬、稍圓了些，使它更加清晰，並使其閱讀更為舒適。Noto 也是給 Chrome OS 上所有語言的標準字體。
 
-To support all languages worldwide, Google recommends using Roboto for languages that use the Latin, Greek, and Cyrillic scripts and Noto for all other languages.
+為了支援全世界語言，Google 建議使用 Roboto 於拉丁文、希臘文與西里爾字，以及使用 Noto 於所有其他語言。
 
 > [Roboto font](http://material-design.storage.googleapis.com/downloads/RobotoTTF.zip)
 >
@@ -12,20 +12,20 @@ To support all languages worldwide, Google recommends using Roboto for languages
 
 > [Get Noto](http://www.google.com/get/noto)
 > 
-> Downloads are available for all languages in the Noto font family.
+> 所有語言的 Noto font family 可供下載.
 
-Roboto has been refined extensively to work across the wider set of supported platforms. It is slightly wider and rounder, giving it greater clarity and making it more optimistic.
+Roboto 已經可以更廣泛地在各種不同的平台做應用。字體變得稍寬、稍圓，使它更加清晰，並使其閱讀更舒適。
 
 ![](images/style/style-typography-roboto-typography.roboto2_specimen_large_mdpi.png)
 
-> Examples of Roboto
+> Roboto 的範例
 
 
 ![](images/style/style_typography_roboto2.png)
 
-> Roboto A-Z and numerals
+> Roboto A-Z 和羅馬數字
 
-Noto’s vertical metrics are compatible with Roboto.
+Noto 的縱向 metrics 與 Roboto 可以並存。
 
 ![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7dkhPdGplSzZhMnc/style_typography_noto1.png)
 
@@ -36,57 +36,57 @@ Noto’s vertical metrics are compatible with Roboto.
 > Noto Sans Thai and Devanagari
 
 
-### Language coverage
+### 語言覆蓋率
 
-Roboto supports languages that use the Latin, Greek, and Cyrillic scripts, such as English, French, Greek, and Russian. In addition, Roboto has been extended to completely cover all Latin, Greek, and Cyrillic characters as defined in Unicode 7.0. The number of supported characters has doubled from previous releases, from about 2000 to about 4000 characters.
+Roboto 對語言的支援有拉丁文、希臘文和西里爾字，像是英文、法文、希臘文和俄羅斯文。除此之外，Roboto 已經擴充到完全含括所有拉丁文、希臘文和以 Unicode 7.0 所定義的西里爾字。所支援的字元數量比先前發布的版本增加了兩倍之多，由約莫兩千增加到目前約略四千。
 
-Noto covers all major living languages languages, including English, Greek, Russian, Arabic, Hebrew, Chinese, Japanese, and Korean (CJK), Hindi, Bengali, Georgian, Armenian, Thai, Lao, Khmer, and many others.
+Noto 涵蓋所有主要現存語言，包含英文、希臘文、俄羅斯文、阿拉伯、希伯來文、中文、日文和韓文（CJK）、印度文、孟加拉文、喬治亞文、亞美尼亞文、泰文、寮文、柬埔寨文以及很多其他的。
 
 
-### Font weights
+### 字體粗細
 
-Roboto has six weights: Thin, Light, Regular, Medium, Bold, and Black.
+Roboto 有六種粗細: Thin、Light、Regular、Medium、Bold 和 Black.
 
 ![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7ZHlGSHpsMjU5YmM/style_typography_weights1.png)
 
-> Roboto font weights
+> Roboto 字體粗細
 
-Noto Sans CJK has seven weights: Thin, Light, DemiLight, Regular, Medium, Bold, and Black. The weight of Noto Sans CJK Regular is the same as Roboto Regular.
+Noto Sans CJK 有七種粗細：Thin、Light、DemiLight、Regular、Medium、Bold 和 Black。Noto Sans CJK Regular 的粗細與 Roboto Regular的粗細相同。
 
 ![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7cTEyRlJubG4xVU0/style_typography_weights2.png)
 
-> Noto Sans CJK font weights
+> Noto Sans CJK 字體粗細
 
-Noto fonts for Thai, Devanagari, and all other major living languages have Regular and Bold weights.
+Noto fonts 提供 Regular 和 Bold，用於泰文、梵文以及所有其他主要現存語言。
 
 ![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7cFNSY2RmY1VTa1E/style_typography_weights3.png)
 
-> Noto Thai and Devanagari font weights
+> Noto 泰文和梵文的字體粗細
 
 
-### Hinted fonts
+### 字體微調（Hinted fonts）
 
-Hints are the instructions embedded in a font on how to modify (distort) a glyph to look better on low-resolution displays. As a tradeoff, a hinted font consumes more space than the unhinted version.
+字體微調是字體本身的方法，為求在低分辨率顯示器看起來更好而做修改（扭曲）。作為一個折衷，一個字體的微調版會比未微調版消耗更多空間。
 
-Both Roboto and Noto have hinted and unhinted versions. Google recommends:
+Roboto 和 Noto 兩者都有微調版和未微調版。Google 建議：
 
-- Use the unhinted versions on Android and on Mac OS X, which doesn’t implement hints.
-- Use hinted fonts on Chrome OS, Windows, and Linux.
+- 於 Android 和 Mac OS X 上使用未微調版，尚未經過調整的。
+- 於 Chrome OS、Windows 和 Linux 使用微調字體。
 
-### Font Stack
+### 字體順序（Font Stack）
 
-For both Android and web properties, the font stack should specify Roboto, Noto, and then sans-serif.
+對 Android 和 web 兩者，字體順序應指定為 Roboto、Noto 而後是 sans-serif。
 
 
 ----
 
 ## 標準樣式
 
-Typographic guidelines are provided for three categories of language scripts:
+排版指南提供了三種類型語言：
 
-- **English and English-like**: Latin (except Vietnamese), Greek, Cyrillic, Hebrew, Armenian and Georgian
-- **Tall**: Language scripts that require extra line height to accommodate larger glyphs. Includes South and Southeast Asian and Middle-Eastern languages, like Arabic, Hindi, Telugu, Thai, Vietnamese.
-- **Dense**: Language scripts that require extra line height to accommodate larger glyphs but have different metrics from tall scripts. Includes Chinese, Japanese, and Korean.
+- **English and English-like**: 拉丁文（除了越南文）、希臘文、西里爾文、希伯來文、亞美尼亞文和喬治亞文。
+- **Tall**: 語言文字需要額外的行高去適應更大的字型。包括南亞、東南亞和中東語言，例如阿拉伯文、印度文、 泰盧固語(Telugu)、泰文和越南文。
+- **Dense**: 語言文字需要額外的行高去適應更大的字型但與 tall 擁有不同的 metrics。包含中文、日文和韓文。
 
 
 ### 文字大小與基本樣式
@@ -100,14 +100,13 @@ Typographic guidelines are provided for three categories of language scripts:
 
 **Tall**:
 
-- Weight: Use Regular weight, as Medium weight is unavailable in Noto. In addition, Google recommends avoiding Bold weight, based on feedback from native speakers that Bold is too heavy.
-- Font size: For Title through Caption styles, font size is 1 px larger than that specified for English. For styles larger than Title, the English type size is suitable.
+- 粗細: 使用 Regular，當 Noto 的 Medium 不可用。除此之外，基於母語使用者的回饋指出 Bold 過於沉重，Google 建議避免使用 Bold。
+- 字體大小: Title 使用 Caption 樣式，字體大小比英語指定的大 1 像素。比標題大的樣式，英文類的字體大小是適合的。
 
 **Dense**:
 
-- Weight: Since Noto CJK has seven weights that match Roboto, use the same weight settings as English.
-- Font size: For Title through Caption styles, the font size is 1 px larger than that specified for English. For styles larger than Title, the English type size is suitable.
-
+- 粗細：自從 Noto CJK 與 Roboto 一樣提供七種粗細，使用與英文相同的粗細設定。
+- 字體大小：Title 使用 Caption 樣式，字體大小比英語指定的大 1 像素。比標題大的樣式，英文類的字體大小是適合的。
 
 
 
@@ -131,7 +130,7 @@ Typographic guidelines are provided for three categories of language scripts:
 
 ![](images/style/style-typography5_large_mdpi.png)
 
-English and English-like: Across form factors, text that appears in the app bar should use the Title style, Medium 20sp.
+English and English-like: 外型尺寸，文字出現在 app bar 上應使用 Title 樣式， Medium 20sp。
 
 ![](images/style/style-typography6_large_mdpi.png)
 
@@ -164,7 +163,7 @@ English and English-like: Across form factors, text that appears in the app bar 
 
 ![](images/style/style-typography13_large_mdpi.png)
 
-Button style (Medium 14sp, all caps) is used for all buttons, whether they are ink or material.
+按鈕樣式 (Medium 14sp, 全大寫) 是應用於所有按鈕，不管他們是 ink 或 material。
 
 ![](images/style/style-typography14_large_mdpi.png)
 
@@ -218,15 +217,15 @@ Button style (Medium 14sp, all caps) is used for all buttons, whether they are i
 換行只適合用在內文、條目、首行文字，還有更小的顯示樣式，
 其他的樣式則應該以單行的文字顯示。
  
-English and English-like: see image.
+English and English-like: 看圖。
 
 - **Tall**:
-	Line height is 0.1 em larger for Body 1 and Subhead 1. In English and English-like scripts, a gap between lines is an obvious straight white space. In the tall group of scripts, this gap is not sufficient. For Body 1 and Subhead 1, which have a relatively small line height in English, the lack of space is obvious. Therefore, the gap needs to be increased to ensure a line gap that is visually similar to English-like scripts.
-- Very small line heights for Title and larger styles are adjusted to avoid clipping between characters with low descenders in one line and character with tall ascenders in the next line.
+	用於 Body 1 和 Subhead 1，行高應大於 0.1 em 。在 English 和 English-like 文字上，行之間有明顯清楚的空白間隙。在 tall 這組，這個間隙是不夠的。對於 Body 1 和 Subhead 1，相對於英文的較小行高，缺乏空間是顯而易見的。因此，需要增加間隔確保行間隙在視覺上與 English-like 文字相似。
+- 很小的 Title 行高和較大的樣式會被調整，以避免該行字元的降部緊貼於下一行字元的升部。
 
 **Dense**:
 
-Line height is 0.1 em larger for all styles. CJK ideographic characters use the entire em box, while English mostly uses a portion of the em box—often the lower portion below the x-height. Therefore, the actual gap between lines is smaller for CJK when the same line height is set. To achieve the same design intention as English for CJK, the line height needs to be larger than in English.
+大於 0.1 em 行高用於所有樣式。CJK ideographic characters 使用整個字體框，而英文大多使用部分字體框 － 通常低於x-高的部分。因此當設置相同高時，用於 CJK 中行與行的實際間隔將較小。為了讓 CJK 達到與英文相同設計時，行高須比用於英文時高。
 
 ![](images/style/style_typography_styles_lineheight1.png)
 
@@ -239,7 +238,7 @@ Line height is 0.1 em larger for all styles. CJK ideographic characters use the 
 
 ![](images/style/style_typography_styles_lineheight3.png)
 
-> Isolated examples — Increased line height
+> Isolated examples — 增加行高
 
 
 ### 斷行規則/斷字
@@ -288,3 +287,6 @@ Line height is 0.1 em larger for all styles. CJK ideographic characters use the 
 ![](images/style/style-typography-36_large_mdpi.png)
 
 > *翻譯： Tillonter*
+>
+> *更新： Yi-Bei*
+

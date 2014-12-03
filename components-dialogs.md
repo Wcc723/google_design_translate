@@ -1,250 +1,267 @@
 # 對話框
 
-Dialogs inform users about critical information, require users to make decisions, or encapsulate multiple tasks within a discrete process. Use dialogs sparingly because they are interruptive in nature—their sudden appearance forces users to stop their current task and refocus on the dialog content. Not every choice, setting, or detail warrants such interruption and prominence.
+對話框是在告知使用者緊急的訊息，要求使用者做出決定，或者在一個分散的過程中包裝成多個任務。由於對話框是一種中斷性突然顯示並且停止使用者當前的任務和需要關注對話框裏的內容。並非每個選擇、設定或者細節都是像中途中斷或是明顯的方式。
 
-Alternatives to dialogs include simple menus or inline expansion within the current content area. Both approaches present information or options while maintaining the current context and are less disruptive.
+可替代對話框的元件包含簡易的菜單或者當前內容區域內擴展內容。這兩種方法提供訊息或者同時保持當前內文與比較少破壞性的選擇。
 
+## 內容
 
-## Content
+對話框的內容可以有廣泛的變化，不過典型的做法是通常包含內文或者 UI 控制元件在特定的任務或程序，就像確認項目的刪除或是選擇一種設定。
 
-Dialog content can vary widely, but typically consists of text and/or UI control elements and is focused on a specific task or process, such as confirming item deletion or choosing a setting.
+使用對話框的內容區域可揭露更多的訊息或者更進階的內容。避免從對話框裡面又打開對話框。
 
-Use inline expansion within the content area of dialogs to disclose additional information or content such as advanced options. Avoid opening additional dialogs from within a dialog.
+全螢幕的對話框可能會打開更多的對話框，比如顏色選取器，因為它們所設計的材料必須做為附加層，且不增加感知的 z 深度的應用或是增加視覺聲音。
 
-Full-screen dialogs may open additional dialogs, such as pickers, because their design accommodates additional layers of material without significantly increasing the perceived z-depth of the app or increasing visual noise.
-
-Avoid creating dialogs with scrolling content, particularly alerts. Instead, consider alternate containers or layouts that are optimized for reading or interacting with significant amounts of content.
+避免產生有滾動式內容的對話框，特別是提示視窗。相反的，須考慮正在閱讀或者具有交互資料的大量內容，必要時使用替代性的容器或者佈局。
 
 ![](images/components/components_dialogs_content1.png)
 
 ![](images/components/components_dialogs_content2.png)
 
-## Behavior
+## 行為
 
-Dialogs are separate from the underlying parent material and do not scroll with the parent material.
+對話框是獨立在基礎本體上並且不會與本體造成滾動。
 
-Certain types of dialog content naturally needs to scroll, such as a long list of ringtones. In these cases, make it obvious that content scrolls by displaying scroll bars by default.
+某些類型的對話內容，自然需要一些滾動，比如較長的鈴聲。在這樣的情況下，將預設顯示滾動條明顯顯示資料內容。
 
-Dialogs should never be obscured by other elements or appear only partially on screen. Dialogs always retain focus until they have been affirmed or dismissed or a required action has been taken, such as choosing a setting.
+對話框不應該被其他元素或是只出現部分在螢幕上所掩蓋。對話框總是保持明顯的關注，直到它們被確認或是反向的選擇行為。比如選擇設定。
 
 ![](images/components/components_dialogs_1.png)
 
-## Alerts
+## 警告
 
-Alerts inform the user about a situation or action that requires their confirmation or acknowledgement before proceeding. They differ slightly in appearance based upon the severity and impact of the message conveyed.
+警告是用來通知使用者需要在繼續前進之前的一種確認或是確認狀況的行為。它們是基於在一個嚴重性與傳遞訊息且有外觀會有稍微不同。
 
-Alerts are interruptive and urgent, and prevent users from proceeding until they make a decision.
+警告是一種干擾性質與緊急迫切的，並且在做出決定之前防止使用者繼續進行下個階段。
 
-**Disambiguation**: In contrast to Alerts, [Snackbars](components-snackbars-and-toasts.html) present optional but important information or actions and usually appear after an action. For example, use an alert to confirm discarding a draft. Use a snackbar to present an undo action, because the action is optional and the user can continue with their primary task without taking action.
+**澄清：**相對於警告訊息，[Snackbars](components-snackbars-and-toasts.html) 目前是可選的，但是重要的訊息或者動作，通常會出現在一個操作之後。例如，使用警告確認刪除草稿。使用 Snackbars 呈現一個取消動作，因為操作是可以選的，使用者可以在無需採取動作下繼續的使用它們主要的任務。
 
-**Alerts without title bars**
+**警告不包含標題欄位**
 
-Most alerts don't need titles. Usually the decision doesn't have a severe impact and can be summed up succinctly in a sentence or two. The content area should either ask a question (such as "Delete this conversation?") or make a clear statement whose relationship to the action buttons is obvious.
+大部份的警告不需要使用標題欄位。通常的狀況下，決定不具有嚴重的影響，它是可以在一兩個句子簡潔的方式描述。內容區域可以詢問問題（例如：“刪除” 的對話）或者做出一個明確的描述，其操作的按鈕是容易明顯的。
 
 ![](images/components/components_alerts_1.png)
 
-> Do.
+> 建議的做法。
 >
-> The affirmative action text Discard clearly indicates the outcome of the decision.
+> 刪除的操作文本很清楚地表明決策的結果。
 
 ![](images/components/components_alerts_2.png)
 
-> Don't.
+> 不建議的做法。
 >
-> The dismissive action text No answers the question, but does not suggest what will happen afterwards. A better action pair would be an explicit Cancel and Delete.
+> 在否定動作文字 No 答案，不建議後面會發生什麼事。更好的操作是需要將取消以及刪除的按鈕一併做出明顯的顯示。
 
+**警告包含標題欄位**
 
-**Alerts with title bars**
+使用警告包含標題欄位時需謹慎使用。它們只用在高風險的情況下使用，例如資料有潛在的遺失或是資料連接或者有額外費用的訊息。
 
-Use alerts with title bars sparingly. They are appropriate only for high-risk situations, such as potential loss of data or connectivity, or extra charges.
+如果標題是必填的，那麼在內容區域的地方使用清楚的問題或是補充說明的陳述。例如，“是否刪除 USB 儲存？”
 
-If a title is required, use a clear question or statement along with some additional explanation in the content area. For example, "Erase USB storage?"
+避免道歉狀況，以及模糊的陳述或者問題。例如。“警告！” 或者 “您是否確定？”
 
-Avoid apologies and ambiguous statements or questions. For example, “Warning!” or “Are you sure?”
-
-A user should be able to skip the content completely and still have a clear idea of what choices are available based on the title and the text of the action buttons.
+使用者應該能夠完全跳過內容，並且仍然根據標題及操作按鈕上的文字呈現一個清楚的概念提供使用者的選擇。
 
 ![](images/components/components_dialogs_usage1.png)
 
-> Do.
+> 建議的做法。
 >
-> This dialog poses a specific question, concisely elaborates on its impact, and provides clear actions.
+> 這個對話筐提出了一個具體的問題，扼要的闡述影響並且提供一個明確的動作。
 
 ![](images/components/components_dialogs_alerts4.png)
 
-> Don't.
+> 不建議的做法。
 >
-> This dialog poses an ambiguous question and its scope of impact is unclear.
+> 這個對話框構成了一個模擬兩可的問題以及不清楚的影養範圍。
 
-## Simple menus
+## 簡易選單
 
-Simple menus are used in list views on tablet and mobile devices to display the options for a specific list item. Simple menus immediately commit choices upon selection. See [Components > Menus > Simple Menus](components-menus.html) for more details about simple menus.
+簡易選單都使用在平板、行動裝置上的列表圖示，用來顯示特定的列表選項。簡易選單選擇後會立即提交選擇。可參考 [元件 > 選單 > 簡易選單](components-menus.html) 有更多細節關於簡易選單。
 
-**Disambiguation**: In contrast to simple menus, simple dialogs can present additional detail related to the options available for a list item or provide navigational or orthogonal actions related to the primary task. Although they can display the same content, simple menus are preferred over simple dialogs because simple menus are less disruptive to the user’s current context.
+
+**澄清：**相對於簡易選單，簡易對話框能夠呈現選項的附加細節，或者是提供導航在主要流程中的相關選擇。雖然他們能夠顯示相同的內容，簡易選單更優於簡易對話框，因為簡易選單對於目前使用者的畫面破壞性較少。
+
 
 ![](images/components/components_dialogs_simplemenu.png)
 
 
-## Simple dialogs
+## 簡易對話框
 
-Simple dialogs can present additional detail related to the options available for a list item or provide navigational or orthogonal actions related to the primary task. For example, simple dialogs can display avatars, icons, or clarifying subtext, or they can enable users to add an account that’s not currently listed as an option.
+簡易對話框能夠提供附加的細節以及用於列表的選項，或是提供導航等其他相關的主要任務。舉例來說，簡易對話框能夠顯示頭像、圖示、相關的內文，或者是他們能夠讓使用者增加非目前列表上的一個帳戶。
 
-Choosing an option immediately commits the option and closes the menu.
 
-Touching outside of the dialog, or pressing Back, cancels the action and closes the dialog.
+選擇一個選項將立即被提交並且關閉選單。
 
-Simple dialogs are more interruptive than simple menus and should be used sparingly.
+點擊對話框的外部，或是倒退、取消將會關閉對話框。
+
+簡易對話框比簡易選單更具有干擾性，應該謹慎使用。
+
 
 ![](images/components/components_dialogs_simple1.png)
 
 ![](images/components/components_dialogs_simple2.png)
 
-Simple dialogs do not have explicit buttons that accept or cancel the operation.
 
-A simple dialog appears centered vertically and horizontally in the screen.
+簡易對話框沒有明確的接受及取消按鈕。
 
-The distance between the edges of the screen and the edges of the dialog is minimum 40dp on the left and right, and minimum 24dp on the top and bottom.
+簡易對話框顯示在屏幕的垂直及水平中央。
 
-The distance between the edge of the dialog and content is 24dp.
+對話框在距離邊緣的距離，左右最小為40dp，上下最小為24dp。
+
+
+對話框的邊緣與內容之間的距離是24dp。
 
 ![](images/components/components_dialogs_simple3.png)
 
-> Don't.
+> 別這麼做
 
 ![](images/components/components_dialogs_simple4.png)
 
-> Don't.
+> 別這麼做
 
-## Confirmation dialogs
+## 確認對話框
 
-Confirmation dialogs require users to explicitly confirm their choice before the option is committed. For example, users can listen to multiple ringtones, but only upon touching OK is the final selection committed.
+確認對話框，需要使用者明確確認他們的選擇在提交之前。舉例來說，使用者可以聽到許多的鈴聲，但只有點擊"OK"這個選擇才會被提交。
 
-Touching Cancel in a confirmation dialog, or pressing Back, cancels the action, discards any changes, and closes the dialog.
 
-Touching outside of a confirmation dialog will not perform any action; the user must explicitly confirm or cancel to dismiss the confirmation dialog.
+在確認對話框終點取消、倒退、取消動作、放棄修改並關閉視窗。
+
+點擊確認對話框的外部將不會有任何動作；使用者必須明確的確認或是取消以關閉確認對話框。
+
 
 ![](images/components/components_dialogs_confirmation1.png)
 
-> The ringtone choice in the confirmation dialog will not be set until the user touches OK.
+> 在使用者在確認對話框選擇OK之前，鈴聲的選則是不會被設置的。
 
 ![](images/components/components_dialogs_confirmation2.png)
 
-Confirmation dialogs can use layouts other than lists, for example a date picker, but they are still focused on specifying a single value (picking the date, but not picking the time & date).
+確認對話框能夠使用其他佈局，舉例來說一個日期的選取器，但他們仍然集中在一個特定的值(選個日期，但不包含時間)。
+
 
 ![](images/components/components_dialogs_confirmation3.png)
 
 ![](images/components/components_dialogs_confirmation4.png)
 
-Confirmation dialogs provide both an explicit confirmation button and explicit Cancel button. The explicit Cancel button clarifies that leaving the confirmation dialog will discard changes, for example, by touching Cancel or pressing Back.
+確認對話框提供一個明確的確認按鈕及一個明確的取消按鈕。明確的取消按鈕會表明離開確認對話框將會放棄所有變更，舉例來說，點擊取消或是按下倒退。
 
-Confirmation dialogs should avoid launching additional simple dialogs or simple menus. The additional layers of material can increase the app’s perceived z-depth, and add unnecessary visual complexity.
+確認對話框應該避免彈出額外的簡易對話框或是選單。Material的額外圖層會增加應用程式Z軸深度，以及不必要的視覺複雜化。
 
-If additional simple dialogs or simple menus are needed to complete the task or process, consider using a full-screen dialog instead of a confirmation dialog.
+如果需要額外的簡易對話框或是選單來完成任務或是進度，考慮使用全屏對話框取代確認對話框。
+
 
 ![](images/components/components_dialogs_confirmation5.png)
 
-> Do.
+> 好的做法
 >
-> Provide an explicit confirmation button and explicit cancel button.
+> 提供一個明確的確認按鈕及明確的取消按鈕。
 
 
 ![](images/components/components_dialogs_confirmation6.png)
 
-> Don't.
+> 別這麼做
 >
-> A single dialog button makes the system Back action ambiguous: does Back cancel or confirm?
+> 一個單獨的對話框按鈕在系統倒退功能造成模糊不清：這是倒退取消還是確認功能？
 
-## Full-screen dialogs
 
-**Mobile only**: Because of limited real estate on mobile devices, content that may appear as a dialog in other form factors (tablet, desktop, etc.) may be more appropriately presented in a full-screen dialog.
+## 全屏對話框
 
-Full-screen dialogs can be used to group a set of tasks forming a complex operation that requires an explicit confirmation or action, such as save or create, before changes are committed or discarded, for example, creating a calendar entry.
+**只有行動版**: 因為行動裝置的限制，對話框的顯示還有許多其他形式(平板、桌機等)，可能有更適合的方式來取代全屏對話框。
 
-Full-screen dialogs enable complex layouts, minimize the appearance of stacked sheets of material (dialogs above dialogs) and thus an increase in the app’s perceived z-depth. They enable individual tasks to launch simple menus or simple dialogs as part of the complex operation.
+全屏對話框可以用來將複雜操作的任務群組化，這需要一個明確的指示，像是存擋或是創建、在變更前的提交或是放棄，舉例來說，創建立日期的輸入。
 
-Consider using a full-screen dialog when the content or process meets any of the following criteria:
+全屏對話框能夠將複雜的編排最小化顯示，以material方式層疊
+(對話框上的對話框)，他增加了應用程式的Z軸深度。它們能夠獨立每個單獨的任務並彈出簡易的選單，或者是複雜操作的一部分。
 
-- The dialog’s content includes components like pickers or form fields requiring IME input
-- When changes are not saved in real time
-- When there is no draft capability in the app
-- When performing batch operations or queuing changes prior to submitting them
+當內容或是進度符合以下任何的條件，考慮使用全屏對話框。
 
-In the example to the right, the full-screen dialog supports a simple dialog used to pick dates. No modifications and selections made in the full-screen dialog are saved until Save is touched. Touching the X will discard all changes and exit the full-screen dialog.
+- 對話框的內容包含元件，像是選取器(日曆)或是表單需要IME輸入。
+- 當變更不會被即時儲存。
+- 當應用程式沒有草稿的功能時。
+- 當操作排程需要被依序改變提交時。
+
+在這範例中，全屏的對話框提供一個簡易的對話框用來選取日期。全屏對話框沒有修改以及選擇，而是當被點擊時儲存。點擊"X"金會取消所有變更，並且離開全屏對話框。
+
+
 
 ![](images/components/components_dialogs_fullscreen1.png)
 
-> Full-screen dialog
+> 全屏對話框
 
 ![](images/components/components_dialogs_fullscreen2.png)
 
-> Date picker opened from full-screen dialog
+> 從全屏對話框打開日曆選取器
 
-In full-screen dialogs, the confirmation and dismissive actions are at the top of the screen.
+全屏對話框中，確認及取消動作在畫面的頂部。
 
-The confirmation action is at the top right of the screen and uses descriptive and accurate words, such as “save”, “send”, “add”, “share”, “update”, or “create”.
+確認動作是在螢幕的右上角，並使用正確的描述用語，像是"存檔"、"送出"、"增加"、"分享"、"更新"、"建立"*(原文:“save”, “send”, “add”, “share”, “update”, or “create”)*。
 
-Don’t use vague actions such as “done” or “ok” or “close” for the confirmation action. They are too similar in meaning to the X and non-specific in their result.
+別使用模糊的詞像是"完成"、"好"、"關閉"*(原文: “done” or “ok” or “close” )*來表示確認動作。這些都與"X"的語意太相近了，且結果沒什麼不同。
 
-The confirmation action is disabled until all mandatory criteria in the dialog are met.
+在對話框中所有強制性的條件被滿足之前，確認功能是無效的。
 
-The discard action, an X at the top left of the screen, closes the full-screen dialog and discards any changes. The Back button is equivalent to the discard action.
+放棄動作的功能，一個"X"在屏幕的左上方，關閉全屏對話框以及放棄所有更動。倒退按鈕相等於放棄的動作。
 
-If the user has made any changes, they are prompted to confirm the discard action.
+如果使用者有做任何的更動，他們會提示放棄更動的動作。
 
-If no changes have been made, touching the X or Back immediately closes the dialog and no discard confirmation is required.
+如果沒有任何更動，點擊"X"或是倒退會立即關閉對話框，也不會有放棄確認的需求。
+
 
 ![](images/components/components_dialogs_fullscreen3.png)
 
-> Don't.
+> 別這麼做
 >
-> Don’t use vague terms like Close for confirmation actions.
+> 別用模糊的用詞像是關閉在確認動作上。
 
-The X differs from an Up arrow, which is used when the view’s state is constantly being saved or when apps have draft or autosave capabilities. For example, an Up arrow is used in Settings because all changes are committed immediately. In these cases, the Back button navigation and action match the Up arrow functionality, and there are no explicit confirmation or cancel actions.
+"X"不同於向上的箭頭，它是使用在畫面狀態不斷的被儲存，或者是應用程式有儲存草稿或有自動儲存的功能。舉例來說，向上箭頭用在被應用在設定上，因為所有的改變都會立即的被提交。在這些情況下，倒退按鈕的導航及行為將會配合向上箭頭的功能，且沒有明確的確認或是取消的行為。
 
 ![](images/components/components_dialogs_fullscreen4.png)
 
-> The Up arrow in this Settings example indicates that any changes will be immediately saved upon selection.
+> 向上的箭頭在這例子中說明，任何的改變將會被立即儲存。 
+
 
 ![](images/components/components_dialogs_fullscreen5.png)
 
-> Touching the X in this Settings example will discard all changes. Changes will be saved only upon touching Save.
+> 點擊"X"在這設定的範例將會取消所有改變，只有在點擊"儲存"時才會被存檔。
 
-## Specs
 
-Dialogs contain an optional title, content, and actions.
+## 規範
 
-The optional title briefly describes the type of choice being made. Titles should always be displayed in their entirety and should be used only when necessary. Titles can be used to clarify the decision being made. For example, a title may indicate what part of a process the dialog relates to or by identifying what will be affected by the decision, such as a setting.
+對話框包含了一個標題、內文、及互動元件。
 
-Dialog content can vary widely, but typically consists of text and/or UI control elements and is focused on a specific task or process, such as confirming item deletion or choosing a setting.
+這個標題簡單描述了需要選則的類型。標題應該總是顯示在整體之中，並應該在需要時使用。標題可以用來描述在正做出的決定。舉例來說：標題可以用來說明目前在對話框中的進度，這進度可能是在設置中的將受到的決定。
 
-When needed, actions acknowledge, affirm, or dismiss the particular choice or process presented by the dialog content.
+對話框的內容相當的廣泛，但一般來說內文或UI控制元素是集中在一個特定的任務或是進度，如確認項目的缺失或是選擇一個設置。
+
+當需要時，動作被執行核定、駁回特定選擇、或是由對話框內容呈現進度。
 
 ![](images/components/components_dialogs_usage2.png)
 
 
-#### A note on accessibility
+#### 親和性的注意事項
 
-To ensure usability for people with disabilities, make sure that your buttons have a minimum height of 36dp, but that the touchable target has a minimum height of 48dp.
+為了確保對殘疾人們的可用性，請確保你的按鈕有36dp的最低高度，但可觸摸的的目標有48的最低高度
 
-The default color of all dialog action text is the application’s theme accent color. Always make sure the action text color uses a [sufficient contrast ratio](usability-accessibility.html) to meet accessibility guidelines. Change the default text color as needed to create a sufficient contrast ratio.
+所有對話框的操作文字預設顏色是應用程式的主題強調色。總是確保操作文字顏色有[足夠的對比度](usability-accessibility.html)，且滿足親和性的規範。改變預設文字色彩當需要足夠的的對比。
+
 
 ![](images/components/components_dialogs_usage3.png)
 
-Dialogs present a focused and limited set of actions, which are generally affirmative or dismissive.
+對話框呈現一個集中和受到限制的一套動作，通常來說包含核定及取消。
 
-Affirmative actions are placed on the right side and continue the process. Affirmative actions may be destructive, like Delete or Remove.
+核定的動作放置在右方，並且繼續流程。核定動作也可能是具破壞性的，像是刪除或是移除。
 
-Dismissive actions are placed directly to the left of affirmative actions and return the user to the originating screen or step in the process.
+取消動作放置在核定動作的左方，並且返回使用原本的畫面或是到特定的流程中。
 
-Dismissive and affirmative action text can be Cancel/OK or can be more specific active verbs or verb phrases that indicate the outcome of the decision.
+取消及核定動作文字可以是"Cancel/OK"或者是更具體的主動詞或片語，能夠表示決定的結果。
+
 
 ![](images/components/components_dialogs_swapped_actions_16.png)
 
-> Don't.
+> 不好的做法
 >
-> Dismissive actions are always placed directly to the left of affirmative actions.
+> 取消動作總是放置在核定動作的左方
 
-### Button width and padding guidelines
+### 按鈕寬度及內距指南
 
 ![](images/components/components_dialogs_usage4.png)
 
@@ -252,182 +269,25 @@ Dismissive and affirmative action text can be Cancel/OK or can be more specific 
 
 ![](images/components/components_dialogs_keyline1.png)
 
-### Side-by-side buttons
+### 並排按鈕
 
-Side-by-side buttons are recommended when the text of each label does not exceed the maximum button width, such as the commonly used OK/Cancel buttons.
+在使用並排按鈕時，建議每個按鈕的文字不要超過按鈕的最大寬度，如常用的確認/取消按鈕。
 
-Use the following formula to calculate maximum button width for a given dialog:
+用下面公式來計算對話框的按鈕最大寬度。
 
-The maximum width for buttons in a dialog = **(Dialog width - 16dp - 16dp - 8dp) / 2**
 
-For example:
+對話框按鈕的最大寬度 = **(Dialog width - 16dp - 16dp - 8dp) / 2**
 
-The maximum width for buttons in a 280dp wide dialog = (280dp - 16dp - 16dp - 8dp) / 2 = 120dp
+舉例來說
+
+寬度280dp對話框的按鈕最大寬度 = (280dp - 16dp - 16dp - 8dp) / 2 = 120dp
 
 ![](images/components/components_dialogs_sidebyside.png)
 
-### Stacked full-width buttons
+### 堆疊式全寬按鈕
 
-When text labels exceed the maximum button width, use stacked buttons to accommodate the text. Affirmative actions are stacked above dismissive actions
+當文字標籤超過了最大寬度，使用堆疊式按鈕容納本文。核定的按鈕會堆疊在取消的上方。
 
 ![](images/components/components_dialogs_stacked.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 以下為舊文，如果沒有用在翻譯完即會刪除 -->
-
-
-
-
-
-
-## 使用
-
-對話框通常用於提示使用者做出一個具體的決定或者一個任務或處理。它們可以用來通知使用者具體的問題，以確定重要的操作，或者允許使用者繼續之前所交代的事件。
-
-若是有複雜的操作是需要有特別描述，可能就不適合使用對話框。
-
-![](images/components/components-dialogs-usage-dialog_03_large_mdpi.png)
-
-對話框包含一個可選的 **標題**，對話框內容以及動作。
-
-標題需要簡要的描述目前被選擇的類型。標題是可選擇的，應該在必要時的時候使用它。
-
-**內容** 作為可以做決定的描述。
-
-**動作** 使用者能夠透過確認一個選擇並且繼續進行處理。
-
-![](images/components/components-dialogs-usage-dialogs_07_large_mdpi.png)
-
-### 按鈕寬度及內距的指南
-
-![](images/components/components-buttons-buttonsindialogs_large_mdpi.png)
-
-![](images/components/components-dialogs-usage-dialogs_07a_large_mdpi.png)
-
-![](images/components/components-dialogs-usage-dialogs_07b_large_mdpi.png)
-
-### 全寬按鈕的堆疊
-
-當文字標籤在按鈕上超過最大寬度，您可以使用堆疊的方式將按鈕擺放以容納文字。
-
-![](images/components/components-dialogs-usage-stackedfullwidthbuttonsa_large_mdpi.png)
-
-### 並排的按鈕
-
-如果每一個文字沒有超過全寬的按鈕，那麼建議使用並排的方式排列，就像常用的確定/取消按鈕。
-
-![](images/components/components-dialogs-usage-sidebysidebuttonsa_large_mdpi.png)
-
-![](images/components/components-dialogs-usage-sidebysidebuttonsb_large_mdpi.png)
-
----
-
-## 內容
-
-### 對話框標題
-
-對話框的標題是可選擇的，並且可以清楚地描述正在做的決定。例如，指示對話框或透過識別哪些將會受到的決定，例如，設定。
-
-對話框的標題應該總是被顯示出來。
-
-### 對話框內容
-
-對話框的內容是可以廣泛的，不過通常包括本文 和/或 UI 控制元件，並且在特定的任務聚焦或者是處理的部分。就像是確認資料是否刪除或者選擇一個設定。
-
-![](images/components/components-dialogs-content-dialogs_03a_large_mdpi.png)
-
-![](images/components/components-dialogs-content-dialogs_03b_large_mdpi.png)
-
----
-
-## 動作
-
-### 對話框動作
-
-對話框呈現出一種集中及有限度的一套動作。也就是一般在肯定或否定的選擇。
-
-肯定的動作通常放在右側，並且是會持續的處理該過程。肯定的動作也可能是破壞性的，就像是刪除或移除。
-
-否定的動作通常放在左側，並將使用者退回到過程中的初始化畫面或者前一個步驟。
-
-動作可以是並排的方式擺放，或者如果需要更大的空間可以使用垂直的方式堆疊按鈕。
-
-否定或是肯定動作的文字可以是 取消/確定，也可以是更具體的動詞或動詞詞組來表示決定的結果。
- 
-![](images/components/components-dialogs-actions-dialogs_11_large_mdpi.png)
-
---- 
-
-## 行為
-
-### 滾動
-
-對話框是主要文件的內容及沒有滾動的主要文件是分開的。
-
-如果可能的話，在對話框中應該是不滾動的。過多的滾動可能表示內容會有與不同的容器及呈現上有更多的服務，不過如果內容不滾動，也代表著內文及 UI 元件是被切斷的。
-
-![](images/components/components-dialogs-behavior-dialogs_12_large_mdpi.png)
-
-### 手勢
-
-手勢接觸到對話框的外部，將關閉對話框
-
-### 對話框焦點
-
-對話框總是完全在螢幕上。對話框總是保持的焦點的目標，直到被確認或是被否定的要求動作。（比如選擇一個設定）
-
----
 
 > *翻譯：[Weiju Tu](https://www.facebook.com/weiju516)*

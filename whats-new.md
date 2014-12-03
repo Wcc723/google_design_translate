@@ -1,23 +1,25 @@
-# What's new
+# 更新了什麼 
 
-The November 3, 2014 release of the material design spec includes includes the following new sections:
+2014年11月3日發佈了Material Design的規範，包含了以下新內容：
 
-- A new section “What is material?” provides an overview of key aspects of material design, with chapters on Environment, which contains information about shadows and depth in a 3D world; material properties; and organizing objects in 3D space
-- Picker component, for picking date and time.
-- Navigation drawer
-- Navigational transitions
-- Scrolling techniques
-- Swipe to refresh
-- Date & time formats
-- Errors
-- Product icons
-- Bidirectionality, which contains info about supporting internationalization and RTL language scripts.
+- 全新的章節"什麼是 Material" 提供一個 Material Design 關鍵性的概觀，對於環境的[章節](whats-material-environment.html)，包含了在3D世界中陰影及深度資訊；另外還有[Material特性](whats-material-material-properties.html)及[3D空間中的物件](whats-material-objects-in-3dspace.html)。
+- [選擇器元件](components-pickers.html)，用來選擇日期和時間的。
+- [抽出式導覽面板](patterns-navigation-drawer.html)
+- [導覽式動畫](patterns-navigation-transitions.html)
+- [捲動方式](patterns-scrolling-techniques.html)
+- [滑動更新](patterns-swipe-to-refresh.html)
+- [資料格式](patterns-data-formats.html)
+- [錯誤](patterns-errors.html)
+- [產品圖示](style-icons.html)
+- [雙向性](usability-bidirectionality.html)，這內容關於國際化RTL語言的支援性。
 
-Additional significant content updates include:
+其他明顯的內容更新：
 
-- Comprehensive sticker sheets for Illustrator, Photoshop, and Sketch replace the individual sticker sheets.
-- System icons contain the most commonly used system icons for your apps on any platform.
-- In the color palette, Teal has been renamed Cyan, and Deep Teal has been renamed Teal.
-- Typography includes information about Noto fonts and clarifications on line length.
-- Dialogs and menus contain extended guidance on usage of these components.
-- Links to relevant sections of Android developer documentation
+- [貼紙範本](resources-sticker-sheets.html)有Illustrator、Photoshop、Sketch格式，取代了原本單張的範本。
+- [系統圖示](style-icons.html)包含了最通用的系統圖示，適合任何平台上的應用程式。
+- [色票](style-color.html)，Teal 已經更名為 Cyan，Deep 更名為 Teal。
+- [排版樣式](style-typography.html)包含了Noto fonts以及說明單行字符長度。
+- [對話框](components-dialogs.html)及[選單](components-menus.html)擴增了新的元件使用規範。
+- 連結到[Android 開發者文件](http://developer.android.com/index.html)相關章節。
+
+**本次更新的文章，在Gitbook的左側選單上，都有增加"*"符號**

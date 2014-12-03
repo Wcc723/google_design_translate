@@ -1,8 +1,20 @@
 # 菜單
 
-Menus allow users to take an action by selecting from a list of choices revealed upon opening a temporary, new sheet of material.
+### 菜單讓用戶可以從一個暫時開啟，新的material表單的列表中以選擇的方式執行一個動作。
 
-## 使用
+>內容
+>
+>[用法](#usage)
+>
+>[菜單項目](#menuitems)
+>
+>[行為](#behavior)
+>
+>[簡單菜單](#simplemenus)
+>
+>[規格](#specs)
+
+## <h2 id='usage'>使用</h2>
 
 菜單是一種從一個按鈕，一個動作，或者包含至少兩個菜單控制項，所觸發時出現暫時性的一張紙。
 
@@ -18,73 +30,64 @@ Menus allow users to take an action by selecting from a list of choices revealed
 
 菜單是顯示一組相近菜單項目，其中每一個可以被啟用或者應用程式上當前狀態應該被禁止。
 
-![](images/components/components_menus_usage3do.png)
 
-> Do.
+![](images/components/components_menus_usage3do_mdpi.png)
+好的做法
 
-![](images/components/components_menus_usage3dont.png)
+![](images/components/components_menus_usage3dont_mdpi.png)
+不好的做法
 
-> Don't
+根據應用程式的當前狀態上下文菜單動態改變其現有的和已啟用菜單項。
 
-根據應用程式的當前狀態上下文菜單動態改變其現有的和已啟用菜單項。 
+一般情況下，不放一些與當前上下文無關的內容的菜單項目，以及雖然是相關但是需要滿足某些特定條件的菜單項目。（例如：複製功能是當文字被選擇時會被啟用的）
 
-一般情況下，不放一些與當前上下文無關的內容的菜單項目，而且在一定條件滿足下不啟用菜單的項目是對功能有相關的。（例如：複製功能是當文字被選擇時會被起用的）
+某些應用程式的狀態下可能會導致內文菜單只包含單一菜單項目。例如：在網頁上凸顯文字，Android 只顯示複製文字，因為使用者不能剪下或貼上文字。
 
-某些應用程式的狀態，可能會導致一個只包含菜單項的上下文菜單。例如：在網頁上凸顯文字，Android 只是複製功能，使用者不能剪下或貼上文字。
+![](images/components/components_menus_usage4_mdpi.png)
 
-![](images/components/components_menus_usage4.png)
+依據菜單靠近螢幕邊緣的程度將將菜單垂直地與水平地重新定位。
 
-
-在靠近螢幕邊緣上，菜單的垂直與水平需要重新定位。
-
-![](images/components/components_menus_usage5.png)
+![](images/components/components-menus-menus-menus-04_large_mdpi.png)
 
 如果菜單的高度阻擋了所有菜單項目的顯示。那麼菜單可以使用內部的滾動方式。舉一個例子是，在橫向的手機顯示上檢視菜單時。
 
-![](images/components/components_menus_usage6.png)
+![](images/components/components-menus-menus-menus-05_large_mdpi.png)
 
-菜單也可以是層疊的
+菜單也可以是層疊的。
 
-![](images/components/components_menus_usage7.png)
+![](images/components/components-menus-menus-menus-06_large_mdpi.png)
 
 這些動作會顯示滾動以及層疊菜單。
 
-<video width="760" height="570" controls="">
-<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNb3hiNjFBTUU4V0k/components-menus-menus-appbar_dropdown_spec_large_xhdpi.webm" type="video/webm">
-<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNd2s3WE1CRkN5aU0/components-menus-menus-appbar_dropdown_spec_large_xhdpi.mp4" type="video/mp4">
-</video>
+<video width="739" height="762" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-textfield_toolbar_large_xhdpi.webm" controls=""></video>
 
-> 下拉式 
+下拉式
 
-<video width="360" height="402" controls="">
+<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Dont_xhdpi_007" width="360" height="402" controls="">
 <source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B0NGgBg38lWWX2VYY3Vnd1J2cTQ/components-menus-usage-061001_Textfield_Dropdown_xhdpi_003.webm" type="video/webm">
 <source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B0NGgBg38lWWcF9Ndmt1RTZoWk0/components-menus-usage-061001_Textfield_Dropdown_xhdpi_003.mp4" type="video/mp4">
 </video>
 
-> Textfield drop down
+文字下拉式
 
-
-<video width="360" height="640" controls="">
+<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Dont_xhdpi_007" width="360" height="640" controls="">
 <source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B2wX4iIvu8L6YVh1eDYzUTdLNVU/components-menus-usage-061001_Appbar_Dropdown_xhdpi_002.webm" type="video/webm">
 <source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B2wX4iIvu8L6d3BWRGNFMEdWUnM/components-menus-usage-061001_Appbar_Dropdown_xhdpi_002.mp4" type="video/mp4">
 </video>
 
-> App bar drop down
+應用程式下拉式
 
-<video width="760" height="570" controls="">
-<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNaDNNa01QX2x4UkU/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" type="video/webm">
-<source src="//material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNWVBad29DaVJrREk/components-menus-menus-cascading_dropdown_spec_large_xhdpi.mp4" type="video/mp4">
-</video>
+<video width="740" height="555" src="http://material-design.storage.googleapis.com/videos/components-menus-menus-cascading_dropdown_spec_large_xhdpi.webm" controls=""></video>
 
-> 層疊下拉式
+層疊下拉式
 
 
 
-## 菜單項目
+## <h2 id='menuitems'>菜單項目</h2>
 
 每個菜單項目都限制在一個本文內，說明這個動作將在被選擇時會被執行。
 
-本文通常是一個單字或者很短的語句，不過它可以包含圖示以及幫助本文。例如鍵盤的快捷鍵，和控制項。就像是複選方塊來表示多個項目或狀態。請詳見 [控制項列表](components-listcontrols.html).
+本文通常是一個單字或者很短的語句，不過它可以包含圖示以及幫助本文。例如鍵盤的快捷鍵，和控制項。就像是複選方塊來表示多個項目或狀態。請詳見 [控制項列表](components-listcontrols-en.html).
 
 靜態內容的菜單應該放在菜單上方作為最常用的項目。
 
@@ -102,7 +105,7 @@ Menus allow users to take an action by selecting from a list of choices revealed
 
 ---
 
-## 行為
+## <h2 id='behavior'>行為</h2>
 
 菜單顯示上述所有其他在應用程式的 UI 元素。
 
@@ -112,124 +115,115 @@ Menus allow users to take an action by selecting from a list of choices revealed
 
 ![](images/components/components-menus-behavior-menus-08_large_mdpi.png)
 
-菜單被定位在觸發的元素上面，使得當前選擇菜單顯示在觸發元素的上方。
+菜單被定位在觸發菜單的元素上面，使得當前選擇菜單顯示在觸發元素的上方。
+
+![](images/components/components_menus_behavior2_mdpi.png)
+
+好的做法
 
 不要顯示一個重複的菜單項目
 
-![](images/components/components-menus-behavior-menus-p-01_large_mdpi.png)
+![](images/components/components_menus_behavior3_mdpi.png)
 
-> 好的做法.
->
-> Do not display a duplicate of the selected menu item.
+不好的做法
+菜單被定位在觸發菜單的元素下面使得菜單和內文分離。
 
-![](images/components/components_menus_behavior3.png)
+![](images/components/components_menus_behavior4_mdpi.png)
 
-> 不好的做法.
->
-> Positioning the menu below the emitting element separates it from its context.
+---
 
-![](images/components/components_menus_behavior4.png)
+## <h2 id='simplemenus'>簡單菜單</h2>
 
-> Don't.
+簡單菜單是用在平板電腦上顯示列表以及在行動裝置上顯示一個特別列表物件的選項。
 
+去除不明確性：與簡單菜當相反，簡單對話框可以顯示更多和一個列表項目可選擇選項的相關細節或者提供導航或與主要工作相關的動作。雖然它們可以顯示同樣的內容，因為簡單菜單對於用戶當下所在的內文造成較小的干擾，所以在簡單對話框上偏向使用簡單菜單。
 
-## Simple Menus
+使用簡單菜單在列表上來顯示特定列表項目的各種選項。
 
-Simple menus are used in list views on tablet and mobile devices to display the options for a specific list item.
+選擇一個選項立即送出選擇並且關閉菜單。
 
-**Disambiguation**: In contrast to [simple menus](http://www.google.com/design/spec/components/dialogs.html#dialogs-simple-dialogs), simple dialogs can present additional detail related to the options available for a list item or provide navigational or orthogonal actions related to the primary task. Although they can display the same content, simple menus are preferred over simple dialogs because simple menus are less disruptive to the user’s current context.
+點擊在菜單之外或點擊上一頁會取消動作和關閉菜單。
 
-Use simple menus in lists to display the options for a specific list item.
+![](images/components/components_dialogs_simplemenus1_mdpi.png)
 
-Choosing an option immediately commits the option and closes the menu.
+當開啟時，簡單菜單嘗試將列表項目垂直對齊於選取的菜單項目。
 
-Touching outside of the menu, or pressing Back, cancels the action and closes the menu
+![](images/components/components_dialogs_simplemenus2_mdpi.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7OG9VQU1KemZFcUU/components_dialogs_simplemenus1.png)
+![](images/components/components_dialogs_simplemenus3_mdpi.png)
 
-When opened, simple menus attempt to vertically align the currently selected menu item with the list item.
+當靠近畫面邊緣時，簡單菜單改變它們的垂直位置以便讓所有菜單項目都可被見到。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7ZXZIOE05RkxENTg/components_dialogs_simplemenus2.png)
+![](images/components/components_dialogs_simplemenus4_mdpi.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7MFE5VE1TUF9HRGc/components_dialogs_simplemenus3.png)
+好的做法
 
-When close to a screen edge, simple menus reposition their vertical alignment so that all menu items are completely visible.
+不要任意地將第一個菜單項目置於列表項目上。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7UUhDUFZLMHZnNlk/components_dialogs_simplemenus4.png)
+![](images/components/components_dialogs_simplemenus5_mdpi.png)
 
-> Do.
->
-> Do not arbitrarily position the first menu item over the list item
+不好的做法
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7SldfYzhLV1Q4ZjA/components_dialogs_simplemenus5.png)
+簡單菜單顯示在投射菜單的元素的上方，而不是下面。
 
-> Don't.
+![](images/components/components_dialogs_simplemenus6_mdpi.png)
 
-Simple menus appear over their emitting element, not below.
+好的做法
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7NzVwUlN5aDlPVU0/components_dialogs_simplemenus6.png)
+![](images/components/components_dialogs_simplemenus7_mdpi.png)
 
-> Do
+不好的做法
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7Q3Y2RE9DVDF4UmM/components_dialogs_simplemenus7.png)
+菜單寬度依據字串長度不同而變化。
 
-> Don't.
+簡單菜單在畫面左邊以及右邊永遠保持一個16dp的邊緣（手機上）或者24dp的邊緣（平板電腦上）。
 
-Menu width varies depending on string length.
+<img src="images/components/components_dialogs_simplemenus8_mdpi.png" width="360px" height="640px" />
 
-Simple menus always maintain a 16dp margin (phone) or 24dp margin (tablet) to the left and right edges of the screen.
+<img src="images/components/components_dialogs_simplemenus9_mdpi.png" width="360px" height="640px" />
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7MG9uWEhpXzFHNVk/components_dialogs_simplemenus8.png)
+<img src="images/components/components_dialogs_simplemenus10_mdpi.png" width="360px" height="640px" />
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7aVp1bUlkRHUweE0/components_dialogs_simplemenus9.png)
+當內容是可捲動時，菜單顯示一個一致的捲軸。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7OU1aYWc3MmRCams/components_dialogs_simplemenus10.png)
+<img src="images/components/components_dialogs_simplemenus11_mdpi.png" width="360px" height="640px" />
 
-Menus show a persistent scroll bar when content is scrollable.
+好的做法
+有可捲動的內容時預設顯示捲軸。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7SHVOck5JSXBERzA/components_dialogs_simplemenus11.png)
+<img src="images/components/components_dialogs_simplemenus12_mdpi.png" width="360px" height="640px" />
 
-> Do.
->
-> Display a scroll bar by default for scrollable content.
+不好的做法
+沒有捲軸的話就無法清楚表達還有其他菜單項目可選擇。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7WlFaUU9fOG1Jbnc/components_dialogs_simplemenus12.png)
+不要複製以選取的菜單項目。
 
-> Don't.
->
-> Without a scroll bar, it’s unclear there are additional menu items available.
+<img src="images/components/components_dialogs_simplemenus13_mdpi.png" width="360px" height="640px" />
 
+好的做法
 
-Don’t duplicate the selected menu item.
+<img src="images/components/components_dialogs_simplemenus14_mdpi.png" width="360px" height="640px" />
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7NmNBOHRTRFVic00/components_dialogs_simplemenus13.png)
+不好的做法
+不要重複顯示已選取的元素。
 
-> Do.
+簡單菜單永遠和列表項目文字對齊，而且不會依據點擊地點而水平地改變位置。
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7UWZYVFdIOUpWY0k/components_dialogs_simplemenus14.png)
+![](images/components/components_dialogs_simplemenus15_mdpi.png)
 
-> Don't
->
-> Don’t display a duplicate of the selected element.
+好的做法
+簡單菜單不論點擊地點在何處都置左。
 
-Simple menus are always aligned with the start of the list item text and do not reposition horizontally based on touch location.
+![](images/components/components_dialogs_simplemenus16_mdpi.png)
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7ZW12S2lzRXdwMU0/components_dialogs_simplemenus15.png)
+不好的做法
+簡單菜單不依據點擊地點來改變位置。
 
-> Do.
->
-> Simple menus are left-aligned regardless of touch location.
+---
 
-![](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0Bx4BSt6jniD7X1diM193SWpmdlU/components_dialogs_simplemenus16.png)
+## <h2 id='specs'>規格</h2>
 
-> Don't.
->
-> Simple menus do not reposition based on touch location.
-
-
-## 指標
-
-Metrics are provided for various sizes and types of menus and for different platforms.
+規格是提供給不同尺寸與類型的菜單以及給不同平台的。
 
 ### 行動
 
@@ -250,3 +244,4 @@ Metrics are provided for various sizes and types of menus and for different plat
 ---
 
 *翻譯：[Weiju](http://weijutu.blogspot.tw/)*
+*修訂：[Sean Chen](https://www.facebook.com/shihneng.chen)*

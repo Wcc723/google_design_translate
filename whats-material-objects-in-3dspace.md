@@ -93,7 +93,7 @@ Parent和child的階層架構決定了物件群組間怎麼互動。比如說，
 
 ![whatismaterial_3d_relationship1](images/whats-material/whatismaterial_3d_relationship1.png)
 
-> 當parent內容捲動時，這個提高高度的按鈕（child）捲動到畫面之外。
+> 當parent內容捲動時，這個被提高的按鈕（child）也跟著到畫面之外。
 
 ![whatismaterial_3d_relationship2](images/whats-material/whatismaterial_3d_relationship2.png)
 

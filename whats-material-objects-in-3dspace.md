@@ -61,7 +61,7 @@
 
 ![whatismaterial_3d_elevation_shadow2](images/whats-material/whatismaterial_3d_elevation_shadow2.png)
 
-> 利落的陰影表示浮動動作按鈕和應用程式橫欄非常地靠近背景表面
+> 俐落的陰影表示浮動動作按鈕和應用程式橫欄非常地靠近背景表面
 
 ![whatismaterial_3d_elevation_shadow3](images/whats-material/whatismaterial_3d_elevation_shadow3.png)
 

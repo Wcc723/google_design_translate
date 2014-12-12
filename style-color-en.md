@@ -479,7 +479,7 @@ The color palette starts with primary colors and fills in the spectrum to create
 ### Choose your palette
 
 
-Limit your choice of colors by choosing three color hues in the primary and one accent color in the secondary palette. The accent color may or may not need fall back options
+Limit your selection of colors by choosing three color hues from the primary palette and one accent color from the secondary palette. The accent color may or may not need fallback options.
 
 
 ![](images/style/style-color-colorapplication-color_application-01a_large_xhdpi.png)

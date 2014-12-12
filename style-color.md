@@ -2,17 +2,17 @@
 
 ![](images/style/style-color-colorstory-01_large_xhdpi.png)
 
-顏色的靈感是來自於設置在寧靜場合之中強烈顏色的標示，參考當代建築、道路標誌、地面標線
-以及體育場給的啟發，強調明顯的陰影、高光、令人意外的資訊以及鮮豔的色彩。
+顏色的靈感是來自於設置在寧靜場合之中強調色的標示，參考當代建築、道路標誌、地面標線
+以及體育場地給的啟發。強調明顯的陰影及聚光，使用意想不到的鮮豔色彩。
 
 > [Color Swatch](http://quantum-paper.storage.googleapis.com/downloads/color_swatches.zip) *0.13 MB (.zip)*
 
 ## 色票
 
-這色票包含了基本以及強調色，這些可以被用來插圖或是發展你的品牌色。它們被設計成彼此相互協調。
+色票包含了基本色和強調色，可以被用來繪圖或是發展成你的品牌色。它們被設計成彼此相互協調。
 
-這些色票起始於基本的顏色，填滿色譜建立一個完整的，可給 Android、Web、 iOS使用的色票，
-這些色票的範圍再500色以內。
+這些色票從基本色開始填滿色譜，建立一個完整的色票，可供Android、網頁及iOS使用。
+Google建議在你的應用程式中使用這500色作為基本色，其他顏色則作為強調色。
 
 > [下載色卡](http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B08MbvYZK1iNT0dFWFBjdTNKaXM/color_swatches.zip)
 >

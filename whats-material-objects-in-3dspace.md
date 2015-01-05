@@ -61,7 +61,7 @@
 
 ![whatismaterial_3d_elevation_shadow2](images/whats-material/whatismaterial_3d_elevation_shadow2.png)
 
-> 利落的陰影表示浮動動作按鈕和應用程式橫欄非常地靠近背景表面
+> 俐落的陰影表示浮動動作按鈕和應用程式橫欄非常地靠近背景表面
 
 ![whatismaterial_3d_elevation_shadow3](images/whats-material/whatismaterial_3d_elevation_shadow3.png)
 
@@ -87,13 +87,13 @@
 
 怎麼安排物件在應用程式中決定了物件或物件組合互相之間移動的關係。物件可以獨立于彼此來移動，或者他們的行動可以被限制或依賴于它們所在的容器。容器與它們包含的物件有parent-child的關係。每個物件都有一個parent，而且也許有一個/多個child或者根本沒有child。
 
-Child從他們的parent繼承了變形的特性，比如說位置、旋轉、大小與高度。舉例來說，在可捲動的卡片式組和中所有的卡片都一起移動，卡片們彼此是siblings，而且他們都是這個處理捲動的卡片式組合的容器的child。
+Child從他們的parent繼承了變形的特性，比如說位置、旋轉、大小與高度。舉例來說，在可捲動的卡片式組合中所有的卡片都一起移動，卡片們彼此是siblings，而且他們都是這個處理捲動的卡片式組合的容器的child。
 
 Parent和child的階層架構決定了物件群組間怎麼互動。比如說，child物件和parant有最小的間距，其他的物件不能插入到parent和它的child中。
 
 ![whatismaterial_3d_relationship1](images/whats-material/whatismaterial_3d_relationship1.png)
 
-> 當parent內容捲動時，這個提高高度的按鈕（child）捲動到畫面之外。
+> 當parent內容捲動時，這個被提高的按鈕（child）也跟著到畫面之外。
 
 ![whatismaterial_3d_relationship2](images/whats-material/whatismaterial_3d_relationship2.png)
 

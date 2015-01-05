@@ -8,9 +8,11 @@ Color is inspired by bold color statements juxtaposed with muted environments, t
  
 ---
 
-## UI Color Palette
+## Color Palette
 
-The color palette starts with primary colors and fills in the spectrum to create a complete and usable palette for Android, Web, and iOS. The primary colors are the 500 range.
+This color palette comprises primary and accent colors that can be used for illustration or to develop your brand colors. They’ve been designed to work harmoniously with each other.
+
+The color palette starts with primary colors and fills in the spectrum to create a complete and usable palette for Android, Web, and iOS. Google suggests using the 500 colors as the primary colors in your app and the other colors as accents colors.
 
 <section class="color-group">
 <ul>
@@ -477,7 +479,7 @@ The color palette starts with primary colors and fills in the spectrum to create
 ### Choose your palette
 
 
-Limit your choice of colors by choosing three color hues in the primary and one accent color in the secondary palette. The accent color may or may not need fall back options
+Limit your selection of colors by choosing three color hues from the primary palette and one accent color from the secondary palette. The accent color may or may not need fallback options.
 
 
 ![](images/style/style-color-colorapplication-color_application-01a_large_xhdpi.png)

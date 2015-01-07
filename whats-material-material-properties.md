@@ -91,7 +91,7 @@ Material可以改變形狀。
     <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWSkpqVG1NajV6MjA/whatismaterial-materialprop-transformingmaterial-020202_PaperShape_xhdpi_004.mp4" type="video/mp4">
 </video>
 
-Material只旱它所在的平面一起變大與縮小。
+Material只和它所在的平面一起變大與縮小。
 
 <video id="whatismaterial-materialprop-transformingmaterial-020202_PaperShapeLinear_xhdpi_004" width="760" height="360" controls="">
     <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWWFFOVGp2UFVNZzg/whatismaterial-materialprop-transformingmaterial-020202_PaperShapeLinear_xhdpi_004.webm" type="video/webm">

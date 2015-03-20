@@ -47,8 +47,19 @@ Material會投射陰影。
 內容以不同形狀與顏色顯示在material上。內容不會增加material的厚度。
 
 <video id="whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005" width="760" height="360" controls="">
-    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWTG41Rk9fT19qUXc/whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005.webm" type="video/webm">
-    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWSGQycHdwcTdyRk0/whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005.mp4" type="video/mp4">
+<source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWTG41Rk9fT19qUXc/whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005.webm" type="video/webm">
+<source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWSGQycHdwcTdyRk0/whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005.mp4" type="video/mp4">
+</video>
+
+> Do.
+>
+> Material 可以顯示各種形狀與顏色。
+
+內容的行為可以被從 material 中抽離。但是， material 的邊界可以限制內容的顯示。
+
+<video id="whatismaterial-materialprop-physicalprop-020201_InkBehavior_xhdpi_005" width="760" height="360" controls="">
+<source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWeVBlbExGYjlTeEE/whatismaterial-materialprop-physicalprop-020201_InkBehavior_xhdpi_005.webm" type="video/webm">
+<source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWVzltT01CSHpaNXM/whatismaterial-materialprop-physicalprop-020201_InkBehavior_xhdpi_005.mp4" type="video/mp4">
 </video>
 
 > Do.
@@ -109,7 +120,7 @@ Material絕對不會彎曲或對折。
 
 > Don't.
 
-Material表單可以結合在一起成為一個單一的materia表單。
+Material表單可以結合在一起成為一個單一的 material 表單。
 
 <video id="whatismaterial-materialprop-transformingmaterial-020202_PaperHeal_xhdpi_003" width="760" height="360" controls="">
     <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWbE1WWExWSURmTDg/whatismaterial-materialprop-transformingmaterial-020202_PaperHeal_xhdpi_003.webm" type="video/webm">
